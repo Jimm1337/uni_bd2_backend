@@ -36,9 +36,12 @@ include_directories(${gsl_SOURCE_DIR}/include)
 
 add_library(uni_bd2_backend-lib
         src/AppComponent.hpp
-        src/controller/MyController.cpp
-        src/controller/MyController.hpp
+        src/controller/BDController.cpp
+        src/controller/BDController.hpp
         src/dto/DTOs.hpp
+        src/dto/DtoSearchResultsRegions.hpp
+        src/dto/DtoSearchResultsDistricts.hpp
+        src/dto/DtoSearchResultsMunicipalities.hpp
 )
 
 find_package(oatpp 1.3.0 REQUIRED)
@@ -54,16 +57,18 @@ target_include_directories(uni_bd2_backend-lib PUBLIC src)
 
 add_executable(uni_bd2_backend-exe
         src/App.cpp
-        test/app/MyApiTestClient.hpp)
+        test/app/BDTest.hpp)
 target_link_libraries(uni_bd2_backend-exe uni_bd2_backend-lib)
 add_dependencies(uni_bd2_backend-exe uni_bd2_backend-lib)
 
 add_executable(uni_bd2_backend-test
         test/tests.cpp
-        test/app/TestComponent.hpp
-        test/app/MyApiTestClient.hpp
-        test/MyControllerTest.cpp
-        test/MyControllerTest.hpp
+        test/app/BDTestComponent.hpp
+        test/app/BDTest.hpp
+        test/BDTestSearch.cpp
+        test/BDTestSearch.hpp
+        test/BDTestStats.cpp
+        test/BDTestStats.hpp
 )
 
 target_link_libraries(uni_bd2_backend-test uni_bd2_backend-lib)

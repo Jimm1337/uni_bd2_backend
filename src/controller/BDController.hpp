@@ -2,27 +2,28 @@
 #define MyController_hpp
 
 #include "dto/DTOs.hpp"
-
-#include "oatpp/web/server/api/ApiController.hpp"
+#include "dto/DtoSearchResultsRegions.hpp"
+#include "dto/DtoSearchResultsDistricts.hpp"
+#include "dto/DtoSearchResultsMunicipalities.hpp"
 #include "oatpp/core/macro/codegen.hpp"
 #include "oatpp/core/macro/component.hpp"
+#include "oatpp/web/server/api/ApiController.hpp"
 
 #include OATPP_CODEGEN_BEGIN(ApiController) //<-- Begin Codegen
 
 /**
  * Sample Api Controller.
  */
-class MyController : public oatpp::web::server::api::ApiController {
+class BDController : public oatpp::web::server::api::ApiController {
 public:
   /**
    * Constructor with object mapper.
    * @param objectMapper - default object mapper used to serialize/deserialize DTOs.
    */
-  MyController(OATPP_COMPONENT(std::shared_ptr<ObjectMapper>, objectMapper))
+  BDController(OATPP_COMPONENT(std::shared_ptr<ObjectMapper>, objectMapper))
     : oatpp::web::server::api::ApiController(objectMapper)
   {}
-public:
-  
+
   ENDPOINT("GET", "/", root) {
     auto dto = MyDto::createShared();
     dto->statusCode = 200;

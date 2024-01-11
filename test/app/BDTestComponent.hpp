@@ -1,5 +1,5 @@
-#ifndef TestComponent_htpp
-#define TestComponent_htpp
+#ifndef TestComponent_hpp
+#define TestComponent_hpp
 
 #include "oatpp/web/server/HttpConnectionHandler.hpp"
 
@@ -14,7 +14,7 @@
 /**
  * Test Components config
  */
-class TestComponent {
+class BDTestComponent {
 public:
 
   /**
@@ -65,4 +65,4 @@ public:
 };
 
 
-#endif // TestComponent_htpp
+#endif // TestComponent_hpp

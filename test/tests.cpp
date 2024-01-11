@@ -1,10 +1,10 @@
-
-#include "MyControllerTest.hpp"
-
-#include <iostream>
+#include <fmt/core.h>
+#include "BDTestSearch.hpp"
+#include "BDTestStats.hpp"
 
 void runTests() {
-  OATPP_RUN_TEST(MyControllerTest);
+  OATPP_RUN_TEST(BDTestSearch);
+  OATPP_RUN_TEST(BDTestStats);
 }
 
 int main() {
@@ -15,9 +15,9 @@ int main() {
 
   /* Print how much objects were created during app running, and what have left-probably leaked */
   /* Disable object counting for release builds using '-D OATPP_DISABLE_ENV_OBJECT_COUNTERS' flag for better performance */
-  std::cout << "\nEnvironment:\n";
-  std::cout << "objectsCount = " << oatpp::base::Environment::getObjectsCount() << "\n";
-  std::cout << "objectsCreated = " << oatpp::base::Environment::getObjectsCreated() << "\n\n";
+  fmt::print("\nEnvironment:\n");
+  fmt::print("objectsCount = {}\n", oatpp::base::Environment::getObjectsCount());
+  fmt::print("objectsCreated = {}\n\n", oatpp::base::Environment::getObjectsCreated());
 
   OATPP_ASSERT(oatpp::base::Environment::getObjectsCount() == 0);
 

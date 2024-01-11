@@ -1,5 +1,5 @@
-#ifndef DTOs_hpp
-#define DTOs_hpp
+#ifndef DtoSearchResultsRegions_hpp
+#define DtoSearchResultsRegions_hpp
 
 #include "oatpp/core/macro/codegen.hpp"
 #include "oatpp/core/Types.hpp"
@@ -10,15 +10,15 @@
  *  Data Transfer Object. Object containing fields only.
  *  Used in API for serialization/deserialization and validation
  */
-class MyDto : public oatpp::DTO {
-  
-  DTO_INIT(MyDto, DTO)
-  
-  DTO_FIELD(Int32, statusCode);
-  DTO_FIELD(String, message);
-  
+class DtoSearchResultsRegions : public oatpp::DTO {
+
+  DTO_INIT(DtoSearchResultsRegions, DTO)
+
+  DTO_FIELD(Boolean, success);
+  DTO_FIELD(Vector<String>, names);
+
 };
 
 #include OATPP_CODEGEN_END(DTO)
 
-#endif /* DTOs_hpp */
+#endif // DtoSearchResultsRegions_hpp

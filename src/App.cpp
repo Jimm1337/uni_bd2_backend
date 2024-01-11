@@ -1,6 +1,6 @@
 #include <fmt/core.h>
 #include "./AppComponent.hpp"
-#include "./controller/MyController.hpp"
+#include "./controller/BDController.hpp"
 #include "oatpp/network/Server.hpp"
 
 void run() {
@@ -11,7 +11,7 @@ void run() {
   OATPP_COMPONENT(std::shared_ptr< oatpp::web::server::HttpRouter >, router);
 
   /* Create MyController and add all of its endpoints to router */
-  router->addController(std::make_shared< MyController >());
+  router->addController(std::make_shared< BDController >());
 
   /* Get connection handler component */
   OATPP_COMPONENT(
@@ -39,7 +39,7 @@ void run() {
 /**
  *  main
  */
-int main(int argc, const char* argv[]) {
+int main(int  /*argc*/, const char*  /*argv*/[]) {
   oatpp::base::Environment::init();
 
   run();
