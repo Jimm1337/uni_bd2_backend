@@ -14,8 +14,6 @@
 class BDTest : public oatpp::web::client::ApiClient {
   API_CLIENT_INIT(BDTest)
 
-  API_CALL("GET", "/", getRoot)
-
   // Stats API
   API_CALL("GET", "/stats/regions", getStatsRegions)
   API_CALL(

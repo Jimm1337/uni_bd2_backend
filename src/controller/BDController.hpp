@@ -1,10 +1,15 @@
 #ifndef MyController_hpp
 #define MyController_hpp
 
-#include "dto/DTOs.hpp"
 #include "dto/DtoSearchResultsRegions.hpp"
 #include "dto/DtoSearchResultsDistricts.hpp"
 #include "dto/DtoSearchResultsMunicipalities.hpp"
+#include "dto/DtoStatsResultsRegions.hpp"
+#include "dto/DtoStatsResultsDistricts.hpp"
+#include "dto/DtoStatsResultsMunicipalities.hpp"
+#include "dto/DtoStatsInfoRegion.hpp"
+#include "dto/DtoStatsInfoDistrict.hpp"
+#include "dto/DtoStatsInfoMunicipality.hpp"
 #include "oatpp/core/macro/codegen.hpp"
 #include "oatpp/core/macro/component.hpp"
 #include "oatpp/web/server/api/ApiController.hpp"
@@ -24,12 +29,12 @@ public:
     : oatpp::web::server::api::ApiController(objectMapper)
   {}
 
-  ENDPOINT("GET", "/", root) {
-    auto dto = MyDto::createShared();
-    dto->statusCode = 200;
-    dto->message = "Hello World!";
-    return createDtoResponse(Status::CODE_200, dto);
-  }
+//  ENDPOINT("GET", "/", root) {
+//    auto dto = MyDto::createShared();
+//    dto->statusCode = 200;
+//    dto->message = "Hello World!";
+//    return createDtoResponse(Status::CODE_200, dto);
+//  }
   
   // TODO Insert Your endpoints here !!!
   

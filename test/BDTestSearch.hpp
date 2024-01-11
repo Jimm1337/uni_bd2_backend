@@ -13,11 +13,14 @@ public:
 
 private:
   void testSearchRegion(
-    BDTest& client, std::shared_ptr< oatpp::data::mapping::ObjectMapper > objectMapper);
+    BDTest&                                               client,
+    std::shared_ptr< oatpp::data::mapping::ObjectMapper > objectMapper);
   void testSearchDistrict(
-    BDTest& client, std::shared_ptr< oatpp::data::mapping::ObjectMapper > objectMapper);
+    BDTest&                                               client,
+    std::shared_ptr< oatpp::data::mapping::ObjectMapper > objectMapper);
   void testSearchMunicipality(
-    BDTest& client, std::shared_ptr< oatpp::data::mapping::ObjectMapper > objectMapper);
+    BDTest&                                               client,
+    std::shared_ptr< oatpp::data::mapping::ObjectMapper > objectMapper);
 };
 
 #endif // BDTestSearch_hpp

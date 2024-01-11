@@ -32,16 +32,21 @@ link_libraries(fmt::fmt)
 include_directories(${fmt_INCLUDE_DIRS})
 include_directories(${gsl_SOURCE_DIR}/include)
 
-######### OATPP ###############
+############# OATPP ###############
 
 add_library(uni_bd2_backend-lib
         src/AppComponent.hpp
         src/controller/BDController.cpp
         src/controller/BDController.hpp
-        src/dto/DTOs.hpp
         src/dto/DtoSearchResultsRegions.hpp
         src/dto/DtoSearchResultsDistricts.hpp
         src/dto/DtoSearchResultsMunicipalities.hpp
+        src/dto/DtoStatsResultsRegions.hpp
+        src/dto/DtoStatsInfoRegion.hpp
+        src/dto/DtoStatsInfoDistrict.hpp
+        src/dto/DtoStatsInfoMunicipality.hpp
+        src/dto/DtoStatsResultsDistricts.hpp
+        src/dto/DtoStatsResultsMunicipalities.hpp
 )
 
 find_package(oatpp 1.3.0 REQUIRED)
@@ -80,12 +85,12 @@ set_target_properties(uni_bd2_backend-lib uni_bd2_backend-exe uni_bd2_backend-te
         CXX_STANDARD_REQUIRED ON
 )
 
-### TESTS #######
+################ TESTS #################
 
 enable_testing()
 add_test(project-tests uni_bd2_backend-test)
 
-####### WARNINGS ########
+################ WARNINGS ###############
 
 if (CMAKE_CXX_COMPILER_ID STREQUAL "Clang" OR CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
     target_compile_options(uni_bd2_backend-exe INTERFACE -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic)
