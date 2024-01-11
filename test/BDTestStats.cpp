@@ -1,24 +1,20 @@
-#include "MyControllerTest.hpp"
-
-#include "controller/MyController.hpp"
-
-#include "app/MyApiTestClient.hpp"
-#include "app/TestComponent.hpp"
-
+#include "BDTestStats.hpp"
+#include "app/BDTest.hpp"
+#include "app/BDTestComponent.hpp"
+#include "controller/BDController.hpp"
+#include "oatpp-test/web/ClientServerTestRunner.hpp"
 #include "oatpp/web/client/HttpRequestExecutor.hpp"
 
-#include "oatpp-test/web/ClientServerTestRunner.hpp"
-
-void MyControllerTest::onRun() {
+void BDTestStats::onRun() {
 
   /* Register test components */
-  TestComponent component;
+  BDTestComponent component;
 
   /* Create client-server test runner */
   oatpp::test::web::ClientServerTestRunner runner;
 
   /* Add MyController endpoints to the router of the test server */
-  runner.addController(std::make_shared<MyController>());
+  runner.addController(std::make_shared< BDController >());
 
   /* Run test */
   runner.run([this, &runner] {
@@ -33,7 +29,7 @@ void MyControllerTest::onRun() {
     auto requestExecutor = oatpp::web::client::HttpRequestExecutor::createShared(clientConnectionProvider);
 
     /* Create Test API client */
-    auto client = MyApiTestClient::createShared(requestExecutor, objectMapper);
+    auto client = BDTest::createShared(requestExecutor, objectMapper);
 
     /* Call server API */
     /* Call root endpoint of MyController */
