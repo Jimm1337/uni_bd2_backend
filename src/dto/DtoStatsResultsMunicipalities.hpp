@@ -17,7 +17,27 @@ class DtoStatsResultsMunicipalities : public oatpp::DTO {
   DTO_FIELD(Boolean, success);
   DTO_FIELD(String, region);
   DTO_FIELD(String, district);
-  DTO_FIELD(Vector< Object< DtoStatsInfoMunicipality > >, info);
+  DTO_FIELD(UnorderedFields< Object< DtoStatsInfoMunicipality > >, info);
+
+  DTO_FIELD_INFO(success) {
+    info->required    = true;
+    info->description = "Database query success";
+  }
+
+  DTO_FIELD_INFO(region) {
+    info->required    = false;
+    info->description = "Region name";
+  }
+
+  DTO_FIELD_INFO(district) {
+    info->required    = false;
+    info->description = "District name";
+  }
+
+  DTO_FIELD_INFO(info) {
+    info->required    = false;
+    info->description = "Municipalities in district info";
+  }
 };
 
 #include OATPP_CODEGEN_END(DTO)

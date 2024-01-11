@@ -13,8 +13,12 @@
 class DtoStatsInfoMunicipality : public oatpp::DTO {
   DTO_INIT(DtoStatsInfoMunicipality, DTO)
 
-  DTO_FIELD(String, name);
   DTO_FIELD(String, postalcode);
+
+  DTO_FIELD_INFO(postalcode) {
+    info->required    = true;
+    info->description = "Municipality postal code";
+  }
 };
 
 #include OATPP_CODEGEN_END(DTO)

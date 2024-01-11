@@ -25,6 +25,15 @@ CPMAddPackage(
         GIT_TAG 1.3.0
 )
 
+CPMAddPackage(
+        NAME oatpp-swagger
+        GITHUB_REPOSITORY oatpp/oatpp-swagger
+        GIT_TAG 1.3.0
+        OPTIONS
+        "OATPP_MODULES_LOCATION CUSTOM"
+        "OATPP_DIR_SRC ${oatpp_SOURCE_DIR}"
+)
+
 find_package(fmt REQUIRED)
 find_package(gsl REQUIRED)
 
@@ -47,12 +56,16 @@ add_library(uni_bd2_backend-lib
         src/dto/DtoStatsInfoMunicipality.hpp
         src/dto/DtoStatsResultsDistricts.hpp
         src/dto/DtoStatsResultsMunicipalities.hpp
+        src/dto/DtoError.hpp
+        src/enum/EnumErrorType.hpp
 )
 
 find_package(oatpp 1.3.0 REQUIRED)
+find_package(oatpp-swagger 1.3.0 REQUIRED)
 
 target_link_libraries(uni_bd2_backend-lib
         PUBLIC oatpp
+        PUBLIC oatpp-swagger
         PUBLIC oatpp-test
 )
 
@@ -83,6 +96,16 @@ set_target_properties(uni_bd2_backend-lib uni_bd2_backend-exe uni_bd2_backend-te
         CXX_STANDARD 20
         CXX_EXTENSIONS OFF
         CXX_STANDARD_REQUIRED ON
+)
+
+if(CMAKE_SYSTEM_NAME MATCHES Linux)
+    find_package(Threads REQUIRED)
+    target_link_libraries(crud-lib INTERFACE Threads::Threads ${CMAKE_DL_LIBS})
+endif()
+
+add_definitions(
+        ## define path to swagger-ui static resources folder
+        -DOATPP_SWAGGER_RES_PATH="${oatpp-swagger_SOURCE_DIR}/res"
 )
 
 ################ TESTS #################

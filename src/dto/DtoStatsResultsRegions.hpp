@@ -15,7 +15,17 @@ class DtoStatsResultsRegions : public oatpp::DTO {
   DTO_INIT(DtoStatsResultsRegions, DTO)
 
   DTO_FIELD(Boolean, success);
-  DTO_FIELD(Vector< Object< DtoStatsInfoRegion > >, info);
+  DTO_FIELD(UnorderedFields< Object< DtoStatsInfoRegion > >, info);
+
+  DTO_FIELD_INFO(success) {
+    info->required    = true;
+    info->description = "Database query success";
+  }
+
+  DTO_FIELD_INFO(info) {
+    info->required    = false;
+    info->description = "Regions info";
+  }
 };
 
 #include OATPP_CODEGEN_END(DTO)

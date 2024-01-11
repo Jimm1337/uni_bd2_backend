@@ -14,16 +14,6 @@
 class BDTest : public oatpp::web::client::ApiClient {
   API_CLIENT_INIT(BDTest)
 
-  // Stats API
-  API_CALL("GET", "/stats/regions", getStatsRegions)
-  API_CALL(
-    "GET", "/stats/districts/{region}", getStatsDistricts, PATH(String, region))
-  API_CALL(
-    "GET",
-    "/stats/municipalities/{district}",
-    getStatsMunicipalities,
-    PATH(String, district))
-
   // Search API
   API_CALL(
     "GET", "/search/region", getSearchRegion, QUERY(String, prefix, "prefix"))
@@ -39,6 +29,16 @@ class BDTest : public oatpp::web::client::ApiClient {
     getSearchMunicipality,
     PATH(String, district),
     QUERY(String, prefix, "prefix"))
+
+  // Stats API
+  API_CALL("GET", "/stats/regions", getStatsRegions)
+  API_CALL(
+    "GET", "/stats/districts/{region}", getStatsDistricts, PATH(String, region))
+  API_CALL(
+    "GET",
+    "/stats/municipalities/{district}",
+    getStatsMunicipalities,
+    PATH(String, district))
 };
 
 /* End Api Client code generation */

@@ -1,6 +1,7 @@
 #include <fmt/core.h>
-#include "./AppComponent.hpp"
-#include "./controller/BDController.hpp"
+#include "AppComponent.hpp"
+#include "controller/BDController.hpp"
+#include "oatpp-swagger/Controller.hpp"
 #include "oatpp/network/Server.hpp"
 
 void run() {
@@ -11,7 +12,13 @@ void run() {
   OATPP_COMPONENT(std::shared_ptr< oatpp::web::server::HttpRouter >, router);
 
   /* Create MyController and add all of its endpoints to router */
-  router->addController(std::make_shared< BDController >());
+
+  oatpp::web::server::api::Endpoints docEndpoints;
+  docEndpoints.append(
+    router->addController(std::make_shared< BDController >())->getEndpoints());
+
+  router->addController(
+    oatpp::swagger::Controller::createShared(docEndpoints));
 
   /* Get connection handler component */
   OATPP_COMPONENT(
@@ -39,7 +46,7 @@ void run() {
 /**
  *  main
  */
-int main(int  /*argc*/, const char*  /*argv*/[]) {
+int main(int /*argc*/, const char* /*argv*/[]) {
   oatpp::base::Environment::init();
 
   run();
@@ -49,8 +56,10 @@ int main(int  /*argc*/, const char*  /*argv*/[]) {
   /* Disable object counting for release builds using '-D
    * OATPP_DISABLE_ENV_OBJECT_COUNTERS' flag for better performance */
   fmt::print("\nEnvironment:\n");
-  fmt::print("objectsCount = {}\n", oatpp::base::Environment::getObjectsCount());
-  fmt::print("objectsCreated = {}\n\n", oatpp::base::Environment::getObjectsCreated());
+  fmt::print(
+    "objectsCount = {}\n", oatpp::base::Environment::getObjectsCount());
+  fmt::print(
+    "objectsCreated = {}\n\n", oatpp::base::Environment::getObjectsCreated());
 
   oatpp::base::Environment::destroy();
 

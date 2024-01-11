@@ -13,10 +13,24 @@
 class DtoStatsInfoDistrict : public oatpp::DTO {
   DTO_INIT(DtoStatsInfoDistrict, DTO)
 
-  DTO_FIELD(String, name);
   DTO_FIELD(String, area);
   DTO_FIELD(String, totalpopulation);
   DTO_FIELD(String, populationdensity);
+
+  DTO_FIELD_INFO(area) {
+    info->required    = true;
+    info->description = "District area";
+  }
+
+  DTO_FIELD_INFO(totalpopulation) {
+    info->required    = true;
+    info->description = "District total population";
+  }
+
+  DTO_FIELD_INFO(populationdensity) {
+    info->required    = true;
+    info->description = "District population density";
+  }
 };
 
 #include OATPP_CODEGEN_END(DTO)
