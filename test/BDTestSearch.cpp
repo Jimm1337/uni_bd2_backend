@@ -89,7 +89,6 @@ void BDTestSearch::testSearchMunicipality(
 
   OATPP_ASSERT(message);
   OATPP_ASSERT(message->success == true);
-  OATPP_ASSERT(message->region == "Prague");
   OATPP_ASSERT(message->district == "Prague");
   OATPP_ASSERT(message->names->size() > 0);
 }

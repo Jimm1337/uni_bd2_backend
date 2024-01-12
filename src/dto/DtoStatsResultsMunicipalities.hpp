@@ -17,7 +17,7 @@ class DtoStatsResultsMunicipalities : public oatpp::DTO {
   DTO_FIELD(Boolean, success);
   DTO_FIELD(String, region);
   DTO_FIELD(String, district);
-  DTO_FIELD(UnorderedFields< Object< DtoStatsInfoMunicipality > >, info);
+  DTO_FIELD(UnorderedFields< Object< DtoStatsInfoMunicipality > >, info) = {};
 
   DTO_FIELD_INFO(success) {
     info->required    = true;
@@ -36,7 +36,8 @@ class DtoStatsResultsMunicipalities : public oatpp::DTO {
 
   DTO_FIELD_INFO(info) {
     info->required    = false;
-    info->description = "Municipalities in district info";
+    info->description = "Municipalities in district info - key is municipality "
+                        "name, value is municipality info";
   }
 };
 

@@ -1,6 +1,7 @@
 #ifndef MyController_hpp
 #define MyController_hpp
 
+#include <variant>
 #include "dto/DtoError.hpp"
 #include "dto/DtoSearchResultsDistricts.hpp"
 #include "dto/DtoSearchResultsMunicipalities.hpp"
@@ -15,6 +16,7 @@
 #include "oatpp/core/macro/codegen.hpp"
 #include "oatpp/core/macro/component.hpp"
 #include "oatpp/web/server/api/ApiController.hpp"
+#include "service/BDService.hpp"
 
 #include OATPP_CODEGEN_BEGIN(ApiController) //<-- Begin Codegen
 
@@ -22,6 +24,8 @@
  * Sample Api Controller.
  */
 class BDController : public oatpp::web::server::api::ApiController {
+  BDService m_userService; // Create user service.
+
 public:
   /**
    * Constructor with object mapper.
@@ -30,6 +34,13 @@ public:
    */
   BDController(OATPP_COMPONENT(std::shared_ptr< ObjectMapper >, objectMapper)):
     oatpp::web::server::api::ApiController(objectMapper) {
+  }
+
+  static std::shared_ptr< BDController > createShared(OATPP_COMPONENT(
+    std::shared_ptr< ObjectMapper >,
+    objectMapper) // Inject objectMapper component here as default parameter
+  ) {
+    return std::make_shared< BDController >(objectMapper);
   }
 
   // SEARCH API ENDPOINTS ------------------------------------------------------
@@ -43,12 +54,16 @@ public:
   }
   ENDPOINT(
     "GET", "/search/region", searchRegion, QUERY(String, prefix, "prefix")) {
-    // TODO: implement
-
-    auto dtoError     = DtoError::createShared();
-    dtoError->type    = ErrorType::IMPLEMENTATION;
-    dtoError->message = "Not implemented yet.";
-    return createDtoResponse(Status::CODE_500, dtoError);
+    auto result = m_userService.searchRegion(prefix);
+    if (std::holds_alternative< oatpp::Object< DtoError > >(result))
+    {
+      auto dtoError = std::get< oatpp::Object< DtoError > >(result);
+      return createDtoResponse(Status::CODE_500, dtoError);
+    } else {
+      auto dtoSearchResultsRegions =
+        std::get< oatpp::Object< DtoSearchResultsRegions > >(result);
+      return createDtoResponse(Status::CODE_200, dtoSearchResultsRegions);
+    }
   }
   ADD_CORS(searchRegion, "*", "GET")
 
@@ -65,12 +80,16 @@ public:
     searchDistrict,
     PATH(String, region),
     QUERY(String, prefix, "prefix")) {
-    // TODO: implement
-
-    auto dtoError     = DtoError::createShared();
-    dtoError->type    = ErrorType::IMPLEMENTATION;
-    dtoError->message = "Not implemented yet.";
-    return createDtoResponse(Status::CODE_500, dtoError);
+    auto result = m_userService.searchDistrict(region, prefix);
+    if (std::holds_alternative< oatpp::Object< DtoError > >(result))
+    {
+      auto dtoError = std::get< oatpp::Object< DtoError > >(result);
+      return createDtoResponse(Status::CODE_500, dtoError);
+    } else {
+      auto dtoSearchResultsDistricts =
+        std::get< oatpp::Object< DtoSearchResultsDistricts > >(result);
+      return createDtoResponse(Status::CODE_200, dtoSearchResultsDistricts);
+    }
   }
   ADD_CORS(searchDistrict, "*", "GET")
 
@@ -87,12 +106,17 @@ public:
     searchMunicipality,
     PATH(String, district),
     QUERY(String, prefix, "prefix")) {
-    // TODO: implement
-
-    auto dtoError     = DtoError::createShared();
-    dtoError->type    = ErrorType::IMPLEMENTATION;
-    dtoError->message = "Not implemented yet.";
-    return createDtoResponse(Status::CODE_500, dtoError);
+    auto result = m_userService.searchMunicipality(district, prefix);
+    if (std::holds_alternative< oatpp::Object< DtoError > >(result))
+    {
+      auto dtoError = std::get< oatpp::Object< DtoError > >(result);
+      return createDtoResponse(Status::CODE_500, dtoError);
+    } else {
+      auto dtoSearchResultsMunicipalities =
+        std::get< oatpp::Object< DtoSearchResultsMunicipalities > >(result);
+      return createDtoResponse(
+        Status::CODE_200, dtoSearchResultsMunicipalities);
+    }
   }
   ADD_CORS(searchMunicipality, "*", "GET")
 
@@ -106,12 +130,16 @@ public:
       Status::CODE_500, "application/json");
   }
   ENDPOINT("GET", "/stats/regions", statsRegions) {
-    // TODO: implement
-
-    auto dtoError     = DtoError::createShared();
-    dtoError->type    = ErrorType::IMPLEMENTATION;
-    dtoError->message = "Not implemented yet.";
-    return createDtoResponse(Status::CODE_500, dtoError);
+    auto result = m_userService.statsRegions();
+    if (std::holds_alternative< oatpp::Object< DtoError > >(result))
+    {
+      auto dtoError = std::get< oatpp::Object< DtoError > >(result);
+      return createDtoResponse(Status::CODE_500, dtoError);
+    } else {
+      auto dtoStatsResultsRegions =
+        std::get< oatpp::Object< DtoStatsResultsRegions > >(result);
+      return createDtoResponse(Status::CODE_200, dtoStatsResultsRegions);
+    }
   }
   ADD_CORS(statsRegions, "*", "GET")
 
@@ -124,12 +152,16 @@ public:
   }
   ENDPOINT(
     "GET", "/stats/districts/{region}", statsDistricts, PATH(String, region)) {
-    // TODO: implement
-
-    auto dtoError     = DtoError::createShared();
-    dtoError->type    = ErrorType::IMPLEMENTATION;
-    dtoError->message = "Not implemented yet.";
-    return createDtoResponse(Status::CODE_500, dtoError);
+    auto result = m_userService.statsDistricts(region);
+    if (std::holds_alternative< oatpp::Object< DtoError > >(result))
+    {
+      auto dtoError = std::get< oatpp::Object< DtoError > >(result);
+      return createDtoResponse(Status::CODE_500, dtoError);
+    } else {
+      auto dtoStatsResultsDistricts =
+        std::get< oatpp::Object< DtoStatsResultsDistricts > >(result);
+      return createDtoResponse(Status::CODE_200, dtoStatsResultsDistricts);
+    }
   }
   ADD_CORS(statsDistricts, "*", "GET")
 
@@ -145,12 +177,16 @@ public:
     "/stats/municipalities/{district}",
     statsMunicipalities,
     PATH(String, district)) {
-    // TODO: implement
-
-    auto dtoError     = DtoError::createShared();
-    dtoError->type    = ErrorType::IMPLEMENTATION;
-    dtoError->message = "Not implemented yet.";
-    return createDtoResponse(Status::CODE_500, dtoError);
+    auto result = m_userService.statsMunicipalities(district);
+    if (std::holds_alternative< oatpp::Object< DtoError > >(result))
+    {
+      auto dtoError = std::get< oatpp::Object< DtoError > >(result);
+      return createDtoResponse(Status::CODE_500, dtoError);
+    } else {
+      auto dtoStatsResultsMunicipalities =
+        std::get< oatpp::Object< DtoStatsResultsMunicipalities > >(result);
+      return createDtoResponse(Status::CODE_200, dtoStatsResultsMunicipalities);
+    }
   }
   ADD_CORS(statsMunicipalities, "*", "GET")
 };

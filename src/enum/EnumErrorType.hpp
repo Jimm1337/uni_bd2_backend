@@ -6,10 +6,12 @@
 
 #include OATPP_CODEGEN_BEGIN(DTO)
 
-ENUM(ErrorType, v_int8,
+ENUM(
+  ErrorType,
+  v_int8,
   VALUE(UNKNOWN, 0, "Unknown error"),
-  VALUE(IMPLEMENTATION, 1, "Implementation error")
-);
+  VALUE(IMPLEMENTATION, 1, "Implementation error"),
+  VALUE(DATABASE, 2, "Database error"));
 
 #include OATPP_CODEGEN_END(DTO)
 

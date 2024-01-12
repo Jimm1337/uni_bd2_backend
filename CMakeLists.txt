@@ -34,6 +34,17 @@ CPMAddPackage(
         "OATPP_DIR_SRC ${oatpp_SOURCE_DIR}"
 )
 
+CPMAddPackage(
+        NAME oatpp-postgresql
+        GITHUB_REPOSITORY oatpp/oatpp-postgresql
+        GIT_TAG 1.3.0
+        OPTIONS
+        "OATPP_MODULES_LOCATION CUSTOM"
+        "OATPP_DIR_SRC ${oatpp_SOURCE_DIR}"
+        "OATPP_BUILD_TESTS OFF"
+
+)
+
 find_package(fmt REQUIRED)
 find_package(gsl REQUIRED)
 
@@ -58,14 +69,23 @@ add_library(uni_bd2_backend-lib
         src/dto/DtoStatsResultsMunicipalities.hpp
         src/dto/DtoError.hpp
         src/enum/EnumErrorType.hpp
+        src/db/BDDatabase.hpp
+        src/service/BDService.hpp
+        src/service/BDService.cpp
+        src/dto/DtoDatabaseStatsRegions.hpp
+        src/dto/DtoDatabaseStatsDistricts.hpp
+        src/dto/DtoDatabaseStatsMunicipalities.hpp
+        src/dto/DtoDatabaseSearch.hpp
 )
 
 find_package(oatpp 1.3.0 REQUIRED)
 find_package(oatpp-swagger 1.3.0 REQUIRED)
+find_package(oatpp-postgresql 1.3.0 REQUIRED)
 
 target_link_libraries(uni_bd2_backend-lib
         PUBLIC oatpp
         PUBLIC oatpp-swagger
+        PUBLIC oatpp-postgresql
         PUBLIC oatpp-test
 )
 
@@ -76,7 +96,9 @@ target_include_directories(uni_bd2_backend-lib PUBLIC src)
 add_executable(uni_bd2_backend-exe
         src/App.cpp
         test/app/BDTest.hpp)
-target_link_libraries(uni_bd2_backend-exe uni_bd2_backend-lib)
+target_link_libraries(uni_bd2_backend-exe
+        uni_bd2_backend-lib
+)
 add_dependencies(uni_bd2_backend-exe uni_bd2_backend-lib)
 
 add_executable(uni_bd2_backend-test
@@ -106,6 +128,12 @@ endif()
 add_definitions(
         ## define path to swagger-ui static resources folder
         -DOATPP_SWAGGER_RES_PATH="${oatpp-swagger_SOURCE_DIR}/res"
+
+        ## Path to database migration scripts
+        -DDATABASE_MIGRATIONS="${CMAKE_CURRENT_SOURCE_DIR}/sql"
+
+        ## TODO: USE THIS TO SET THE CONNECTION STRING
+        -DPG_CONNECTION_STRING="host=... port=... dbname=... user=... password=..."
 )
 
 ################ TESTS #################

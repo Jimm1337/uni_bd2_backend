@@ -14,7 +14,7 @@ class DtoSearchResultsRegions : public oatpp::DTO {
   DTO_INIT(DtoSearchResultsRegions, DTO)
 
   DTO_FIELD(Boolean, success);
-  DTO_FIELD(Vector< String >, names);
+  DTO_FIELD(Vector< String >, names) = {};
 
   DTO_FIELD_INFO(success) {
     info->required    = true;

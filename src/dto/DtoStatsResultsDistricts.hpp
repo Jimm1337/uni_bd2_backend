@@ -16,7 +16,7 @@ class DtoStatsResultsDistricts : public oatpp::DTO {
 
   DTO_FIELD(Boolean, success);
   DTO_FIELD(String, region);
-  DTO_FIELD(UnorderedFields< Object< DtoStatsInfoDistrict > >, info);
+  DTO_FIELD(UnorderedFields< Object< DtoStatsInfoDistrict > >, info) = {};
 
   DTO_FIELD_INFO(success) {
     info->required    = true;
@@ -29,8 +29,9 @@ class DtoStatsResultsDistricts : public oatpp::DTO {
   }
 
   DTO_FIELD_INFO(info) {
-    info->required    = false;
-    info->description = "Districts in region info";
+    info->required = false;
+    info->description =
+      "Districts in region info - key is district name, value is district info";
   }
 };
 

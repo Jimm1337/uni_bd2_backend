@@ -13,9 +13,9 @@
 class DtoStatsInfoDistrict : public oatpp::DTO {
   DTO_INIT(DtoStatsInfoDistrict, DTO)
 
-  DTO_FIELD(String, area);
-  DTO_FIELD(String, totalpopulation);
-  DTO_FIELD(String, populationdensity);
+  DTO_FIELD(Int32, area);
+  DTO_FIELD(Int32, totalpopulation);
+  DTO_FIELD(Float64, populationdensity);
 
   DTO_FIELD_INFO(area) {
     info->required    = true;
