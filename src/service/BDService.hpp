@@ -17,7 +17,6 @@ class BDService {
 private:
   using Status = oatpp::web::protocol::http::Status;
 
-private:
   OATPP_COMPONENT(
     std::shared_ptr< BDDatabase >, m_database); // Inject database component
 
@@ -56,6 +55,9 @@ public:
     oatpp::Object< DtoError >,
     oatpp::Object< DtoStatsResultsMunicipalities > >
   statsMunicipalities(const oatpp::String& district);
+
+private:
+  static oatpp::String fixInputString(const oatpp::String& input);
 };
 
 #endif // CRUD_USERSERVICE_HPP

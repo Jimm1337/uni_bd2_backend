@@ -56,7 +56,6 @@ include_directories(${gsl_SOURCE_DIR}/include)
 
 add_library(uni_bd2_backend-lib
         src/AppComponent.hpp
-        src/controller/BDController.cpp
         src/controller/BDController.hpp
         src/dto/DtoSearchResultsRegions.hpp
         src/dto/DtoSearchResultsDistricts.hpp
