@@ -1,0 +1,90 @@
+Prague | 496 | 1357326
+-
+Benešov | 1475 | 102228  
+Beroun | 704 | 100517
+Kladno | 720 | 168708
+Kolín | 748 | 107268
+Kutná Hora | 917 | 78072 
+Mělník | 701 | 113100
+Mladá Boleslav | 1023 | 133876
+Nymburk | 846 | 105463
+Prague-East | 755 | 198312
+Prague-West | 580 | 158235
+Příbram | 1563 | 117554
+Rakovník | 896 | 56058
+-
+České Budějovice | 1638 | 200426 
+Český Krumlov | 1614 | 62038 
+Jindřichův Hradec | 1944 | 90401 
+Písek | 1127 | 72525 
+Prachatice | 1377 | 51444 
+Strakonice | 1032 | 71571 
+Tábor | 1326 | 103898
+-
+Domažlice | 1052 | 55796 
+Klatovy | 1946 | 86853 
+Plzeň-City | 261 | 201517 
+Plzeň-North | 1287 | 83069 
+Plzeň-South | 1068 | 70989 
+Rokycany | 657 | 50258 
+Tachov | 1378 | 56906
+-
+Cheb | 1046 | 92636 
+Karlovy Vary | 1511 | 114995 
+Sokolov | 754 | 85964
+-
+Chomutov | 936 | 124035 
+Děčín | 909 | 127269 
+Litoměřice | 1032 | 119357 
+Louny | 1121 | 87040 
+Most | 467 | 108116 
+Teplice | 469 | 127681 
+Ústí nad Labem | 405 | 118839
+-
+Česká Lípa | 1073 | 103344 
+Jablonec nad Nisou | 439 | 92908 
+Liberec | 989 | 179921 
+Semily | 662 | 73004
+-
+Hradec Králové | 892 | 166989 
+Jičín | 887 | 80578 
+Náchod | 852 | 110322 
+Rychnov nad Kněžnou | 982 | 80186 
+Trutnov | 1147 | 117192
+-
+Chrudim | 993 | 106398 
+Pardubice | 880 | 179537 
+Svitavy | 1379 | 104576 
+Ústí nad Orlicí | 1267 | 138250
+-
+Havlíčkův Brod | 1265 | 95176 
+Jihlava | 1199 | 116041 
+Pelhřimov | 1290 | 74133 
+Třebíč | 1463 | 110393 
+Žďár nad Sázavou | 1579 | 119034
+-
+Blansko | 862 | 110046 
+Břeclav | 1038 | 117576 
+Brno-City | 230 | 396101 
+Brno-Country | 1499 | 231056 
+Hodonín | 1099 | 152119 
+Vyškov | 869 | 94274 
+Znojmo | 1590 | 116028
+-
+Jeseník | 719 | 36991 
+Olomouc | 1608 | 237940 
+Přerov | 854 | 128180 
+Prostějov | 777 | 108717 
+Šumperk | 1313 | 119974
+-
+Kroměříž | 796 | 104522 
+Uherské Hradiště | 991 | 141496 
+Vsetín | 1131 | 142180 
+Zlín | 1045 | 192333
+-
+Bruntál | 1537 | 89834
+Frýdek-Místek | 1208 | 214669
+Karviná | 356 | 242166
+Nový Jičín | 882 | 151814
+Opava | 1116 | 175042
+Ostrava-City | 332 | 316149

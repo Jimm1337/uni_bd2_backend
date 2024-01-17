@@ -1,0 +1,6462 @@
+Praha 1 | 110 00 
+Praha 10 | 100 00 
+Praha 11 | 149 00 
+Praha 12 | 143 00 
+Praha 13 | 155 00 
+Praha 14 | 198 00 
+Praha 15 | 109 00 
+Praha 16 | 153 00 
+Praha 17 | 163 00 
+Praha 18 | 199 00 
+Praha 19 | 197 00 
+Praha 2 | 120 00 
+Praha 20 | 193 00 
+Praha 21 | 190 16 
+Praha 22 | 104 00 
+Praha 3 | 130 00 
+Praha 4 | 140 00 
+Praha 5 | 150 00 
+Praha 6 | 160 00 
+Praha 7 | 170 00 
+Praha 8 | 180 00 
+Praha 9 | 190 00 
+Praha-Běchovice | 190 11 
+Praha-Benice | 103 00 
+Praha-Březiněves | 182 00 
+Praha-Čakovice | 196 00 
+Praha-Ďáblice | 182 00 
+Praha-Dolní Chabry | 184 00 
+Praha-Dolní Měcholupy | 109 00 
+Praha-Dolní Počernice | 190 12 
+Praha-Dubeč | 107 00 
+Praha-Klánovice | 190 14 
+Praha-Koloděje | 190 16 
+Praha-Kolovraty | 103 00 
+Praha-Královice | 104 00 
+Praha-Křeslice | 104 00 
+Praha-Kunratice | 148 00 
+Praha-Libuš | 142 00 
+Praha-Lipence | 155 31 
+Praha-Lochkov | 154 00 
+Praha-Lysolaje | 165 00 
+Praha-Nebušice | 164 00 
+Praha-Nedvězí | 103 00 
+Praha-Petrovice | 109 00 
+Praha-Přední Kopanina | 164 00 
+Praha-Řeporyje | 155 00 
+Praha-Satalice | 190 15 
+Praha-Slivenec | 154 00 
+Praha-Suchdol | 165 00 
+Praha-Šeberov | 149 00 
+Praha-Štěrboholy | 102 00 
+Praha-Troja | 171 00 
+Praha-Újezd | 149 00 
+Praha-Velká Chuchle | 159 00 
+Praha-Vinoř | 190 17 
+Praha-Zbraslav | 156 00 
+Praha-Zličín | 155 21
+- 
+Benešov | 256 01 
+Bernartice | 257 65 
+Bílkovice | 257 26 
+Blažejovice | 257 68 
+Borovnice | 257 65 
+Bukovany | 257 41 
+Bystřice | 257 51 
+Ctiboř | 258 01 
+Čakov | 257 24 
+Čechtice | 257 65 
+Čerčany | 257 22 
+Červený Újezd | 257 88 
+Český Šternberk | 257 26 
+Čtyřkoly | 257 22 
+Děkanovice | 257 68 
+Divišov | 257 26 
+Dolní Kralovice | 257 68 
+Drahňovice | 257 26 
+Dunice | 257 68 
+Heřmaničky | 257 89 
+Hradiště | 258 01 
+Hulice | 257 63 
+Hvězdonice | 257 24 
+Chářovice | 257 41 
+Chleby | 257 41 
+Chlístov | 256 01 
+Chlum | 257 63 
+Chmelná | 257 65 
+Chocerady | 257 24 
+Choratice | 285 06 
+Chotýšany | 257 28 
+Chrášťany | 256 01 
+Jankov | 257 03 
+Javorník | 257 63 
+Ješetice | 257 89 
+Kamberk | 257 06 
+Keblov | 257 65 
+Kladruby | 257 62 
+Kondrac | 258 01 
+Kozmice | 257 25 
+Krhanice | 257 42 
+Krňany | 257 44 
+Křečovice | 257 56 
+Křivsoudov | 257 66 
+Kuňovice | 257 65 
+Lešany | 257 44 
+Libež | 257 26 
+Litichovice | 257 26 
+Loket | 257 65 
+Louňovice pod Blaníkem | 257 06 
+Lštění | 257 22 
+Maršovice | 257 55 
+Mezno | 257 86 
+Miličín | 257 86 
+Miřetice | 257 65 
+Mnichovice | 257 65 
+Mrač | 257 21 
+Načeradec | 257 08 
+Nespeky | 257 22 
+Netvořice | 257 44 
+Neustupov | 257 86 
+Neveklov | 257 56 
+Olbramovice | 259 01 
+Ostrov | 257 06 
+Ostředek | 257 24 
+Pavlovice | 258 01 
+Petroupim | 256 01 
+Popovice | 257 01 
+Poříčí nad Sázavou | 257 21 
+Postupice | 257 01 
+Pravonín | 257 09 
+Přestavlky u Čerčan | 257 23 
+Psáře | 258 01 
+Pyšely | 251 67 
+Rabyně | 252 08 
+Radošovice | 257 26 
+Rataje | 258 01 
+Ratměřice | 257 03 
+Řehenice | 251 67 
+Řimovice | 258 01 
+Sázava | 285 06 
+Slověnice | 257 26 
+Smilkov | 257 89 
+Snět | 257 68 
+Soběhrdy | 256 01 
+Soutice | 257 71 
+Stranný | 257 56 
+Strojetice | 257 65 
+Struhařov | 256 01 
+Střezimíř | 257 87 
+Studený | 257 68 
+Šetějovice | 257 68 
+Tehov | 258 01 
+Teplýšovice | 256 01 
+Tichonice | 257 63 
+Tisem | 257 56 
+Tomice | 257 68 
+Trhový Štěpánov | 257 63 
+Třebešice | 257 26 
+Týnec nad Sázavou | 257 41 
+Václavice | 256 01 
+Veliš | 257 06 
+Vlašim | 258 01 
+Vodslivy | 257 24 
+Vojkov | 257 53 
+Votice | 259 01 
+Vracovice | 258 01 
+Vranov | 257 22 
+Vrchotovy Janovice | 257 53 
+Všechlapy | 257 26 
+Vysoký Újezd | 257 44 
+Xaverov | 285 06 
+Zdislavice | 257 64 
+Zvěstov | 257 06
+-
+Bavoryně | 267 51
+Beroun | 266 01 
+Běštín | 267 24 
+Broumy | 267 42 
+Březová | 267 51 
+Bubovice | 267 18 
+Bykoš | 267 01 
+Bzová | 267 43 
+Cerhovice | 267 61 
+Drozdov | 267 61 
+Felbabka | 268 01 
+Hlásná Třebaň | 267 18 
+Hořovice | 268 01 
+Hostomice | 267 24 
+Hředle | 267 51 
+Hudlice | 267 03 
+Hvozdec | 267 62 
+Hýskov | 267 06 
+Chaloupky | 267 62 
+Chlustina | 267 51 
+Chodouň | 267 51 
+Chrustenice | 267 12 
+Chyňava | 267 07 
+Jivina | 267 62 
+Karlštejn | 267 18 
+Komárov | 267 62 
+Koněprusy | 266 01 
+Korno | 267 27 
+Kotopeky | 268 01 
+Králův Dvůr | 267 01 
+Kublov | 267 41 
+Lážovice | 267 24 
+Lhotka | 267 23 
+Libomyšl | 267 23 
+Liteň | 267 27 
+Loděnice | 267 12 
+Lochovice | 267 23 
+Lužce | 267 18 
+Malá Víska | 267 62 
+Málkov | 267 01 
+Měňany | 267 27 
+Mezouň | 267 18 
+Mořina | 267 17 
+Mořinka | 267 18 
+Nenačovice | 266 01 
+Nesvačily | 267 27 
+Neumětely | 267 24 
+Nižbor | 267 05 
+Nový Jáchymov | 267 03 
+Olešná | 267 64 
+Osek | 267 62 
+Osov | 267 25 
+Otmíče | 267 51 
+Otročiněves | 267 03 
+Podbrdy | 267 27 
+Podluhy | 268 01 
+Praskolesy | 267 54 
+Rpety | 268 01 
+Skřipel | 267 24 
+Skuhrov | 267 27 
+Srbsko | 267 18 
+Stašov | 267 51 
+Suchomasty | 267 22 
+Svatá | 267 51 
+Svatý Jan pod Skalou | 266 01 
+Svinaře | 267 28 
+Tetín | 266 01 
+Tlustice | 268 01 
+Tmaň | 267 21 
+Točník | 267 51 
+Trubín | 267 01 
+Trubská | 266 01 
+Újezd | 267 61 
+Velký Chlumec | 267 24 
+Vinařice | 267 01 
+Vižina | 267 24 
+Vráž | 267 11 
+Všeradice | 267 26 
+Vysoký Újezd | 267 16 
+Zadní Třebaň | 267 29 
+Zaječov | 267 63 
+Záluží | 267 61 
+Zdice | 267 51 
+Žebrák | 267 53 
+Železná | 266 01
+-
+Běleč | 273 63 
+Běloky | 273 53 
+Beřovice | 273 71 
+Bílichov | 273 74 
+Blevice | 273 28 
+Brandýsek | 273 41 
+Braškov | 273 51 
+Bratronice | 273 63 
+Buštěhrad | 273 43 
+Cvrčovice | 273 41 
+Černuc | 273 23 
+Doksy | 273 64 
+Dolany | 273 51 
+Drnek | 273 77 
+Družec | 273 62 
+Dřetovice | 273 42 
+Dřínov | 273 71 
+Hobšovice | 273 21 
+Horní Bezděkov | 273 51 
+Hořešovice | 273 74 
+Hořešovičky | 273 74 
+Hospozín | 273 22 
+Hostouň | 273 53 
+Hradečno | 273 04 
+Hrdlív | 273 06 
+Hřebeč | 273 45 
+Chržín | 273 24 
+Jarpice | 273 72 
+Jedomělice | 273 78 
+Jemníky | 274 01 
+Kačice | 273 04 
+Kamenné Žehrovice | 273 01 
+Kamenný Most | 273 26 
+Kladno | 272 01 
+Klobuky | 273 74 
+Kmetiněves | 273 22 
+Knovíz | 274 01 
+Koleč | 273 29 
+Královice | 274 01 
+Kutrovice | 273 75 
+Kvílice | 273 75 
+Kyšice | 273 51 
+Lány | 270 61 
+Ledce | 273 05 
+Lhota | 273 01 
+Libochovičky | 273 42 
+Libovice | 273 79 
+Libušín | 273 06 
+Lidice | 273 54 
+Líský | 273 76 
+Loucká | 273 24 
+Makotřasy | 273 54 
+Malé Kyšice | 273 51 
+Malé Přítočno | 273 51 
+Malíkovice | 273 77 
+Neprobylice | 273 75 
+Neuměřice | 273 26 
+Otvovice | 273 27 
+Páleč | 273 71 
+Pavlov | 273 51 
+Pchery | 273 08 
+Pletený Újezd | 273 51 
+Plchov | 273 75 
+Podlešín | 273 25 
+Poštovice | 273 72 
+Pozdeň | 273 76 
+Přelíc | 273 05 
+Řisuty | 273 78 
+Sazená | 273 24 
+Slaný | 274 01 
+Slatina | 273 26 
+Smečno | 273 05 
+Stehelčeves | 273 42 
+Stochov | 273 03 
+Stradonice | 273 71 
+Studeněves | 273 79 
+Svárov | 273 51 
+Svinařov | 273 05 
+Šlapanice | 273 72 
+Třebichovice | 273 06 
+Třebíz | 273 75 
+Třebusice | 273 41 
+Tuchlovice | 273 02 
+Tuřany | 273 79 
+Uhy | 273 24 
+Unhošť | 273 51 
+Velká Dobrá | 273 61 
+Velké Přítočno | 273 51 
+Velvary | 273 24 
+Vinařice | 273 07 
+Vraný | 273 73 
+Vrbičany | 273 74 
+Zájezd | 273 43 
+Zákolany | 273 28 
+Zichovec | 273 74 
+Zlonice | 273 71 
+Zvoleněves | 273 25 
+Želenice | 273 41 
+Žilina | 273 01 
+Žižice | 274 01
+-
+Barchovice | 281 63 
+Bečváry | 281 43 
+Bělušice | 280 02 
+Břežany I | 280 02 
+Břežany II | 282 01 
+Býchory | 280 02 
+Cerhenice | 281 02 
+Církvice | 281 44 
+Červené Pečky | 281 21 
+Český Brod | 282 01 
+Dobřichov | 289 11 
+Dolní Chvatliny | 281 44 
+Dománovice | 280 02 
+Doubravčice | 282 01 
+Drahobudice | 281 44 
+Grunta | 280 02 
+Horní Kruty | 281 46 
+Hradešín | 282 01 
+Choťovice | 289 05 
+Chotutice | 281 03 
+Chrášťany | 282 01 
+Jestřabí Lhota | 280 02 
+Kbel | 280 02 
+Klášterní Skalice | 281 63 
+Klučov | 282 01 
+Kolín | 280 02 
+Konárovice | 281 25 
+Kořenice | 280 02 
+Kouřim | 281 61 
+Krakovany | 281 27 
+Krupá | 281 63 
+Krychnov | 280 02 
+Křečhoř | 280 02 
+Kšely | 282 01 
+Libenice | 280 02 
+Libodřice | 280 02 
+Lipec | 281 26 
+Lošany | 280 02 
+Malotice | 281 63 
+Masojedy | 282 01 
+Mrzky | 282 01 
+Nebovidy | 280 02 
+Němčice | 280 02 
+Nová Ves I | 280 02 
+Ohaře | 281 30 
+Ovčáry | 280 02 
+Pašinka | 280 02 
+Pečky | 289 11 
+Plaňany | 281 04 
+Pňov-Předhradí | 289 41 
+Polepy | 280 02 
+Polní Chrčice | 280 02 
+Polní Voděrady | 280 02 
+Poříčany | 289 14 
+Přehvozdí | 281 63 
+Přistoupim | 282 01 
+Přišimasy | 282 01 
+Radim | 281 03 
+Radovesnice I | 280 02 
+Radovesnice II | 281 28 
+Ratboř | 281 41 
+Ratenice | 289 11 
+Rostoklaty | 281 71 
+Skvrňov | 281 44 
+Starý Kolín | 281 23 
+Svojšice | 281 07 
+Tatce | 289 11 
+Tismice | 282 01 
+Toušice | 281 63 
+Třebovle | 281 63 
+Tři Dvory | 280 02 
+Tuchoraz | 282 01 
+Tuklaty | 250 82 
+Týnec nad Labem | 281 26 
+Uhlířská Lhota | 281 26 
+Veletov | 280 02 
+Velim | 281 01 
+Velký Osek | 281 51 
+Veltruby | 280 02 
+Vitice | 281 06 
+Volárna | 280 02 
+Vrátkov | 282 01 
+Vrbčany | 280 02 
+Zalešany | 280 02 
+Zásmuky | 281 44 
+Žabonosy | 280 02 
+Ždánice | 281 63 
+Žehuň | 289 05 
+Žiželice | 281 29
+-
+Adamov | 286 01 
+Bernardov | 284 01 
+Bílé Podolí | 285 72 
+Bludov | 286 01 
+Bohdaneč | 285 25 
+Brambory | 286 01 
+Bratčice | 286 01 
+Církvice | 285 33 
+Čáslav | 286 01 
+Čejkovice | 286 01 
+Černíny | 284 01 
+Červené Janovice | 285 42 
+Čestín | 285 10 
+Dobrovítov | 286 01 
+Dolní Pohleď | 285 22 
+Drobovice | 286 01 
+Hlízov | 285 32 
+Horka I | 286 01 
+Horka II | 285 22 
+Horky | 286 01 
+Horušice | 285 73 
+Hostovlice | 285 62 
+Hraběšín | 286 01 
+Chabeřice | 285 22 
+Chlístovice | 284 01 
+Chotusice | 285 76 
+Kácov | 285 09 
+Kluky | 286 01 
+Kobylnice | 284 01 
+Košice | 285 04 
+Krchleby | 286 01 
+Křesetice | 285 47 
+Kutná Hora | 284 01 
+Ledečko | 285 06 
+Malešov | 285 41 
+Miskovice | 285 01 
+Močovice | 286 01 
+Nepoměřice | 285 11 
+Nové Dvory | 285 31 
+Okřesaneč | 286 01 
+Onomyšl | 285 04 
+Opatovice I | 286 01 
+Paběnice | 285 43 
+Pertoltice | 285 22 
+Petrovice I | 286 01 
+Petrovice II | 285 22 
+Podveky | 285 06 
+Potěhy | 285 63 
+Rašovice | 285 04 
+Rataje nad Sázavou | 285 07 
+Rohozec | 284 01 
+Řendějov | 285 22 
+Samopše | 285 06 
+Semtěš | 286 01 
+Schořov | 286 01 
+Slavošov | 285 22 
+Soběšín | 285 06 
+Souňov | 286 01 
+Staňkovice | 285 04 
+Starkoč | 286 01 
+Sudějov | 285 04 
+Suchdol | 285 02 
+Svatý Mikuláš | 284 01 
+Šebestěnice | 286 01 
+Štipoklasy | 284 01 
+Třebešice | 286 01 
+Třebětín | 285 22 
+Třebonín | 286 01 
+Tupadly | 285 63 
+Uhlířské Janovice | 285 04 
+Úmonín | 285 46 
+Úžice | 285 04 
+Vavřinec | 285 04 
+Vidice | 284 01 
+Vinaře | 286 01 
+Vlačice | 286 01 
+Vlastějovice | 285 22 
+Vlkaneč | 285 64 
+Vodranty | 286 01 
+Vrdy | 285 71 
+Záboří nad Labem | 285 74 
+Zbizuby | 285 04 
+Zbraslavice | 285 21 
+Zbýšov | 285 65 
+Zruč nad Sázavou | 285 22 
+Žáky | 286 01 
+Žehušice | 285 75 
+Žleby | 285 61
+-
+Býkev | 276 01 
+Byšice | 277 32 
+Cítov | 277 04 
+Čakovičky | 250 63 
+Čečelice | 277 32 
+Dobřeň | 277 21 
+Dolany | 278 01 
+Dolní Beřkovice | 277 01 
+Dolní Zimoř | 277 21 
+Dřínov | 277 45 
+Horní Počaply | 277 03 
+Hořín | 276 01 
+Hostín | 277 32 
+Hostín u Vojkovic | 277 44 
+Chlumín | 277 43 
+Chorušice | 277 37 
+Chvatěruby | 278 01 
+Jeviněves | 277 05 
+Kadlín | 277 35 
+Kanina | 277 35 
+Kly | 277 41 
+Kojetice | 250 72 
+Kokořín | 277 23 
+Kostelec nad Labem | 277 13 
+Kozomín | 277 45 
+Kralupy nad Vltavou | 278 01 
+Ledčice | 277 08 
+Lhotka | 276 01 
+Liběchov | 277 21 
+Libiš | 277 11 
+Liblice | 277 32 
+Lobeč | 277 36 
+Lužec nad Vltavou | 277 06 
+Malý Újezd | 276 01 
+Medonosy | 277 21 
+Mělnické Vtelno | 277 38 
+Mělník | 276 01 
+Mšeno | 277 35 
+Nebužely | 277 34 
+Nedomice | 277 14 
+Nelahozeves | 277 51 
+Neratovice | 277 11 
+Nosálov | 277 35 
+Nová Ves | 277 52 
+Obříství | 277 42 
+Olovnice | 273 26 
+Ovčáry | 277 14 
+Postřižín | 250 70 
+Řepín | 277 33 
+Spomyšl | 277 05 
+Stránka | 277 35 
+Střemy | 277 34 
+Tišice | 277 15 
+Tuhaň | 277 41 
+Tupadly | 277 21 
+Újezdec | 277 45 
+Úžice | 277 45 
+Velký Borek | 276 01 
+Veltrusy | 277 46 
+Vidim | 277 21 
+Vojkovice | 277 44 
+Vraňany | 277 07 
+Všestudy | 277 46 
+Všetaty | 277 16 
+Vysoká | 277 24 
+Zálezlice | 277 45 
+Zlončice | 278 01 
+Zlosyň | 277 44 
+Želízy | 277 21
+-
+Bakov nad Jizerou | 294 01 
+Bělá pod Bezdězem | 294 21 
+Benátky nad Jizerou | 294 71 
+Bezno | 294 29 
+Bílá Hlína | 295 01 
+Bítouchov | 294 01 
+Boreč | 294 26 
+Boseň | 295 01 
+Bradlec | 293 06 
+Branžež | 294 02 
+Brodce | 294 73 
+Březina | 294 11 
+Březno | 294 06 
+Březovice | 294 24 
+Bukovno | 293 01 
+Ctiměřice | 294 46 
+Čachovice | 294 43 
+Čistá | 294 23 
+Dalovice | 293 01 
+Dlouhá Lhota | 294 05 
+Dobrovice | 294 41 
+Dobšín | 294 04 
+Dolní Bousov | 294 04 
+Dolní Krupá | 295 01 
+Dolní Slivno | 294 78 
+Dolní Stakory | 293 01 
+Domousnice | 294 48 
+Doubravička | 294 30 
+Horky nad Jizerou | 294 73 
+Horní Bukovina | 295 01 
+Horní Slivno | 294 79 
+Hrdlořezy | 293 07 
+Hrušov | 294 73 
+Husí Lhota | 294 06 
+Charvatce | 294 45 
+Chocnějovice | 294 13 
+Chotětov | 294 28 
+Chudíř | 294 45 
+Jabkenice | 294 45 
+Jivina | 294 14 
+Jizerní Vtelno | 294 31 
+Josefův Důl | 293 07 
+Katusice | 294 25 
+Klášter Hradiště nad Jizerou | 294 15 
+Kluky | 294 26 
+Kněžmost | 294 02 
+Kobylnice | 294 46 
+Kochánky | 294 74 
+Kolomuty | 293 01 
+Koryta | 294 11 
+Kosmonosy | 293 06 
+Kosořice | 294 41 
+Košátky | 294 79 
+Kováň | 294 25 
+Kovanec | 294 26 
+Krásná Ves | 294 25 
+Krnsko | 294 31 
+Kropáčova Vrutice | 294 79 
+Ledce | 294 47 
+Lhotky | 294 06 
+Lipník | 294 43 
+Loukov | 294 11 
+Loukovec | 294 11 
+Luštěnice | 294 42 
+Mečeříž | 294 77 
+Mladá Boleslav | 293 01 
+Mnichovo Hradiště | 295 01 
+Mohelnice nad Jizerou | 294 13 
+Mukařov | 295 01 
+Němčice | 294 42 
+Nemyslovice | 294 29 
+Nepřevázka | 293 01 
+Neveklovice | 294 13 
+Niměřice | 294 30 
+Nová Telib | 294 06 
+Nová Ves u Bakova | 294 01 
+Obrubce | 294 04 
+Obruby | 294 03 
+Pěčice | 294 46 
+Pětikozly | 294 30 
+Petkovy | 294 04 
+Písková Lhota | 294 31 
+Plazy | 293 01 
+Plužná | 294 23 
+Prodašice | 294 04 
+Předměřice nad Jizerou | 294 74 
+Přepeře | 294 04 
+Ptýrov | 295 01 
+Rabakov | 294 04 
+Rohatsko | 294 04 
+Rokytá | 295 01 
+Rokytovec | 294 30 
+Řepov | 293 01 
+Řitonice | 294 04 
+Sedlec | 294 71 
+Semčice | 294 46 
+Sezemice | 294 11 
+Skalsko | 294 26 
+Skorkov | 294 74 
+Smilovice | 294 42 
+Sojovice | 294 75 
+Sovínky | 294 29 
+Strašnov | 294 31 
+Strážiště | 294 13 
+Strenice | 294 30 
+Sudoměř | 294 25 
+Sukorady | 294 06 
+Tuřice | 294 74 
+Ujkovice | 294 04 
+Velké Všelisy | 294 27 
+Veselice | 294 04 
+Vinařice | 294 41 
+Vinec | 293 01 
+Vlkava | 294 43 
+Vrátno | 294 26 
+Všejany | 294 43 
+Zdětín | 294 71 
+Žďár | 294 12 
+Žerčice | 294 46 
+Židněves | 294 06
+-
+Běrunice | 289 08 
+Bobnice | 289 31 
+Bříství | 289 15 
+Budiměřice | 288 02 
+Černíky | 289 15 
+Čilec | 289 25 
+Činěves | 289 01 
+Dlouhopolsko | 289 03 
+Dobšice | 289 05 
+Dvory | 288 02 
+Dymokury | 289 01 
+Hořany | 289 14 
+Hořátev | 289 13 
+Hradčany | 289 05 
+Hradištko | 289 12 
+Hrubý Jeseník | 289 32 
+Chleby | 289 31 
+Choťánky | 290 01 
+Chotěšice | 289 01 
+Chrást | 289 14 
+Chroustov | 289 02 
+Jíkev | 289 32 
+Jiřice | 289 22 
+Jizbice | 288 02 
+Kamenné Zboží | 288 02 
+Kněžice | 289 02 
+Kněžičky | 289 08 
+Kolaje | 289 04 
+Kostelní Lhota | 289 12 
+Kostomlátky | 289 21 
+Kostomlaty nad Labem | 289 21 
+Košík | 289 35 
+Kounice | 289 15 
+Kouty | 290 01 
+Kovanice | 288 02 
+Krchleby | 288 02 
+Křečkov | 290 01 
+Křinec | 289 33 
+Libice nad Cidlinou | 289 07 
+Loučeň | 289 37 
+Lysá nad Labem | 289 22 
+Mcely | 289 36 
+Městec Králové | 289 03 
+Milčice | 289 11 
+Milovice | 289 23 
+Netřebice | 288 02 
+Nový Dvůr | 289 32 
+Nymburk | 288 02 
+Odřepsy | 289 07 
+Okřínek | 290 01 
+Opočnice | 289 04 
+Opolany | 289 07 
+Oseček | 289 41 
+Oskořínek | 289 32 
+Ostrá | 289 22 
+Pátek | 290 01 
+Písková Lhota | 290 01 
+Písty | 289 13 
+Poděbrady | 290 01 
+Podmoky | 289 04 
+Přerov nad Labem | 289 16 
+Rožďalovice | 289 34 
+Sadská | 289 12 
+Sány | 289 06 
+Seletice | 289 34 
+Semice | 289 17 
+Senice | 290 01 
+Sloveč | 289 03 
+Sokoleč | 290 01 
+Stará Lysá | 289 26 
+Starý Vestec | 289 16 
+Straky | 289 25 
+Stratov | 289 22 
+Třebestovice | 289 12 
+Úmyslovice | 290 01 
+Velenice | 289 01 
+Velenka | 289 12 
+Vestec | 289 33 
+Vlkov pod Oškobrhem | 289 04 
+Vrbice | 289 04 
+Vrbová Lhota | 289 11 
+Všechlapy | 288 02 
+Vykáň | 289 15 
+Záhornice | 289 03 
+Zbožíčko | 289 25 
+Zvěřínek | 289 13 
+Žitovlice | 289 34
+-
+Babice | 251 01 
+Bašť | 250 65 
+Borek | 277 14 
+Bořanovice | 250 65 
+Brandýs nad Labem-Stará Boleslav | 250 01 
+Brázdim | 250 63 
+Březí | 251 01 
+Čelákovice | 250 88 
+Černé Voděrady | 281 63 
+Čestlice | 251 01 
+Dobročovice | 250 82 
+Dobřejovice | 251 01 
+Doubek | 251 01 
+Dřevčice | 250 01 
+Dřísy | 277 14 
+Herink | 251 01 
+Hlavenec | 294 74 
+Horoušany | 250 82 
+Hovorčovice | 250 64 
+Hrusice | 251 66 
+Husinec | 250 68 
+Jenštejn | 250 73 
+Jevany | 281 66 
+Jirny | 250 90 
+Kaliště | 251 65 
+Kamenice | 251 68 
+Káraný | 250 75 
+Klecany | 250 67 
+Klíčany | 250 69 
+Klokočná | 251 64 
+Konětopy | 277 14 
+Konojedy | 281 63 
+Kostelec nad Černými Lesy | 281 63 
+Kostelec u Křížků | 251 68 
+Kostelní Hlavno | 294 76 
+Kozojedy | 281 63 
+Křenek | 277 14 
+Křenice | 250 84 
+Křížkový Újezdec | 251 68 
+Kunice | 251 63 
+Květnice | 250 84 
+Lázně Toušeň | 250 89 
+Lhota | 277 14 
+Líbeznice | 250 65 
+Louňovice | 251 62 
+Máslovice | 250 69 
+Měšice | 250 64 
+Mirošovice | 251 66 
+Mnichovice | 251 64 
+Modletice | 251 01 
+Mochov | 250 87 
+Mratín | 250 63 
+Mukařov | 251 62 
+Nehvizdy | 250 81 
+Nová Ves | 250 63 
+Nový Vestec | 250 75 
+Nučice | 281 63 
+Nupaky | 251 01 
+Odolena Voda | 250 70 
+Oleška | 281 62 
+Ondřejov | 251 65 
+Oplany | 281 63 
+Panenské Břežany | 250 70 
+Pětihosty | 251 67 
+Petříkov | 251 69 
+Podolanka | 250 73 
+Polerady | 250 63 
+Popovičky | 251 01 
+Prusice | 281 63 
+Předboj | 250 72 
+Přezletice | 250 73 
+Radějovice | 251 68 
+Radonice | 250 73 
+Říčany | 251 01 
+Sedlec | 250 65 
+Senohraby | 251 66 
+Sibřina | 250 84 
+Sluhy | 250 63 
+Sluštice | 250 84 
+Strančice | 251 63 
+Struhařov | 251 64 
+Stříbrná Skalice | 281 67 
+Sudovo Hlavno | 294 76 
+Sulice | 251 68 
+Svémyslice | 250 91 
+Světice | 251 01 
+Svojetice | 251 62 
+Šestajovice | 250 92 
+Škvorec | 250 83 
+Štíhlice | 281 63 
+Tehov | 251 01 
+Tehovec | 251 62 
+Úvaly | 250 82 
+Veleň | 250 63 
+Veliká Ves | 250 70 
+Velké Popovice | 251 69 
+Větrušice | 250 67 
+Vlkančice | 281 63 
+Vodochody | 250 69 
+Všestary | 251 63 
+Vyšehořovice | 250 87 
+Výžerky | 281 63 
+Vyžlovka | 281 63 
+Zápy | 250 01 
+Záryby | 277 13 
+Zdiby | 250 66 
+Zeleneč | 250 91 
+Zlatá | 250 83 
+Zlonín | 250 64 
+Zvánovice | 251 65
+- 
+Bojanovice | 252 06 
+Bratřínov | 252 06 
+Březová-Oleško | 252 45 
+Buš | 252 08 
+Černolice | 252 10 
+Černošice | 252 28 
+Červený Újezd | 273 51 
+Číčovice | 252 68 
+Čisovice | 252 04 
+Davle | 252 06 
+Dobrovíz | 252 61 
+Dobříč | 252 25 
+Dobřichovice | 252 29 
+Dolní Břežany | 252 41 
+Drahelčice | 252 19 
+Holubice | 252 65 
+Horoměřice | 252 62 
+Hostivice | 253 01 
+Hradištko | 252 09 
+Hvozdnice | 252 05 
+Choteč | 252 26 
+Chrášťany | 252 19 
+Chýně | 253 01 
+Chýnice | 252 17 
+Jeneč | 252 61 
+Jesenice | 252 42 
+Jílové u Prahy | 254 01 
+Jíloviště | 252 02 
+Jinočany | 252 25 
+Kamenný Přívoz | 252 82 
+Karlík | 252 29 
+Klínec | 252 10 
+Kněževes | 252 68 
+Kosoř | 252 26 
+Kytín | 252 10 
+Lety | 252 29 
+Libčice nad Vltavou | 252 66 
+Libeř | 252 41 
+Lichoceves | 252 64 
+Líšnice | 252 10 
+Měchenice | 252 06 
+Mníšek pod Brdy | 252 10 
+Nučice | 252 16 
+Ohrobec | 252 45 
+Okoř | 252 64 
+Okrouhlo | 254 01 
+Ořech | 252 25 
+Petrov | 252 81 
+Pohoří | 254 01 
+Průhonice | 252 43 
+Psáry | 252 44 
+Ptice | 252 18 
+Roblín | 252 26 
+Roztoky | 252 63 
+Rudná | 252 19 
+Řevnice | 252 30 
+Řitka | 252 03 
+Slapy | 252 08 
+Statenice | 252 62 
+Středokluky | 252 68 
+Svrkyně | 252 64 
+Štěchovice | 252 07 
+Tachlovice | 252 17 
+Trnová | 252 10 
+Třebotov | 252 26 
+Tuchoměřice | 252 67 
+Tursko | 252 65 
+Úholičky | 252 64 
+Úhonice | 252 18 
+Únětice | 252 62 
+Velké Přílepy | 252 64 
+Vestec | 252 42 
+Vonoklasy | 252 28 
+Vrané nad Vltavou | 252 46 
+Všenory | 252 31 
+Zahořany | 252 10 
+Zbuzany | 252 25 
+Zlatníky-Hodkovice | 252 41 
+Zvole | 252 45
+- 
+Bezděkov pod Třemšínem | 262 42 
+Bohostice | 262 31 
+Bohutín | 262 41 
+Borotice | 262 15 
+Bratkovice | 262 23 
+Brdy | 262 23 
+Březnice | 262 72 
+Buková u Příbramě | 262 23 
+Bukovany | 262 72 
+Cetyně | 262 31 
+Čenkov | 262 23 
+Čím | 262 03 
+Daleké Dušníky | 263 01 
+Dlouhá Lhota | 263 01 
+Dobříš | 263 01 
+Dolní Hbity | 262 62 
+Drahenice | 262 85 
+Drahlín | 261 01 
+Drásov | 261 01 
+Drevníky | 263 01 
+Drhovy | 263 01 
+Dubenec | 261 01 
+Dublovice | 262 51 
+Dubno | 261 01 
+Háje | 261 01 
+Hluboš | 262 22 
+Hlubyně | 262 72 
+Horčápsko | 262 72 
+Hřiměždice | 262 14 
+Hudčice | 262 72 
+Hvožďany | 262 44 
+Chotilsko | 262 03 
+Chrást | 262 72 
+Chraštice | 262 72 
+Jablonná | 262 63 
+Jesenice | 264 01 
+Jince | 262 23 
+Kamýk nad Vltavou | 262 63 
+Klučenice | 262 56 
+Kňovice | 264 01 
+Korkyně | 262 06 
+Kosova Hora | 262 91 
+Kotenčice | 262 23 
+Koupě | 262 72 
+Kozárovice | 262 84 
+Krásná Hora nad Vltavou | 262 56 
+Křepenice | 264 01 
+Křešín | 262 23 
+Láz | 262 41 
+Lazsko | 262 31 
+Lešetice | 262 31 
+Lhota u Příbramě | 261 01 
+Malá Hraštice | 262 03 
+Milešov | 262 56 
+Milín | 261 01 
+Modřovice | 262 42 
+Mokrovraty | 262 03 
+Nalžovice | 262 93 
+Narysov | 261 01 
+Nečín | 262 13 
+Nedrahovice | 264 01 
+Nechvalice | 264 01 
+Nepomuk | 262 42 
+Nestrašovice | 262 72 
+Nová Ves pod Pleší | 262 04 
+Nové Dvory | 262 03 
+Nový Knín | 262 03 
+Občov | 261 01 
+Obecnice | 262 21 
+Obory | 263 01 
+Obořiště | 262 12 
+Ohrazenice | 262 23 
+Osečany | 264 01 
+Ostrov | 262 72 
+Ouběnice | 263 01 
+Pečice | 262 32 
+Petrovice | 262 55 
+Pičín | 262 25 
+Počaply | 262 72 
+Počepice | 262 55 
+Podlesí | 261 01 
+Prosenická Lhota | 264 01 
+Příbram | 261 01 
+Příčovy | 264 01 
+Radětice | 262 31 
+Radíč | 264 01 
+Rosovice | 262 11 
+Rožmitál pod Třemšínem | 262 42 
+Rybníky | 263 01 
+Sádek | 261 01 
+Sedlčany | 264 01 
+Sedlec-Prčice | 257 91 
+Sedlice | 262 42 
+Smolotely | 262 63 
+Solenice | 262 63 
+Stará Huť | 262 02 
+Starosedlský Hrádek | 262 72 
+Suchodol | 261 01 
+Svaté Pole | 263 01 
+Svatý Jan | 262 56 
+Svojšice | 262 72 
+Štětkovice | 264 01 
+Těchařovice | 262 31 
+Tochovice | 262 81 
+Trhové Dušníky | 261 01 
+Třebsko | 262 42 
+Tušovice | 262 72 
+Velká Lečice | 262 05 
+Věšín | 262 43 
+Višňová | 262 61 
+Volenice | 262 72 
+Voznice | 263 01 
+Vrančice | 262 31 
+Vranovice | 262 42 
+Vševily | 262 72 
+Vysoká u Příbramě | 262 42 
+Vysoký Chlumec | 262 52 
+Zalužany | 262 84 
+Zbenice | 262 31 
+Zduchovice | 262 63 
+Županovice | 263 01
+- 
+Bdín | 270 54 
+Branov | 270 23 
+Břežany | 270 34 
+Čistá | 270 34 
+Děkov | 270 04 
+Drahouš | 270 33 
+Hořesedly | 270 04 
+Hořovičky | 270 03 
+Hracholusky | 270 41 
+Hřebečníky | 270 41 
+Hředle | 270 08 
+Hvozd | 270 35 
+Chrášťany | 270 01 
+Janov | 270 06 
+Jesenice | 270 33 
+Kalivody | 270 54 
+Karlova Ves | 270 23 
+Kněževes | 270 01 
+Kolešov | 270 04 
+Kolešovice | 270 02 
+Kounov | 270 06 
+Kozojedy | 270 54 
+Krakov | 270 35 
+Krakovec | 270 35 
+Kroučová | 270 54 
+Krty | 270 33 
+Krupá | 270 09 
+Krušovice | 270 53 
+Křivoklát | 270 23 
+Lašovice | 270 21 
+Lišany | 270 52 
+Lubná | 270 36 
+Lužná | 270 51 
+Malinová | 270 35 
+Městečko | 270 23 
+Milostín | 270 05 
+Milý | 270 54 
+Mšec | 270 64 
+Mšecké Žehrovice | 270 64 
+Mutějovice | 270 07 
+Nesuchyně | 270 07 
+Nezabudice | 270 23 
+Nové Strašecí | 271 01 
+Nový Dům | 269 01 
+Olešná | 269 01 
+Oráčov | 270 32 
+Panoší Újezd | 270 21 
+Pavlíkov | 270 21 
+Petrovice | 270 35 
+Pochvalov | 270 55 
+Přerubenice | 270 54 
+Příčina | 270 35 
+Přílepy | 270 01 
+Pšovlky | 270 31 
+Pustověty | 270 23 
+Račice | 270 24 
+Rakovník | 269 01 
+Roztoky | 270 23 
+Ruda | 271 01 
+Rynholec | 270 62 
+Řeřichy | 270 35 
+Řevničov | 270 54 
+Senec | 270 36 
+Senomaty | 270 31 
+Skryje | 270 42 
+Slabce | 270 41 
+Smilovice | 270 54 
+Srbeč | 270 65 
+Svojetín | 270 04 
+Sýkořice | 270 24 
+Šanov | 270 31 
+Šípy | 270 34 
+Švihov | 270 33 
+Třeboc | 270 54 
+Třtice | 271 01 
+Václavy | 270 35 
+Velká Buková | 270 23 
+Velká Chmelištná | 270 34 
+Všesulov | 270 34 
+Všetaty | 270 21 
+Zavidov | 270 35 
+Zbečno | 270 24 
+Žďár | 270 33
+- 
+Adamov | 373 71 
+Bečice | 375 01 
+Borek | 370 10 
+Borovany | 373 12 
+Borovnice | 370 07 
+Boršov nad Vltavou | 373 82 
+Bošilec | 373 65 
+Branišov | 373 84 
+Břehov | 373 41 
+Čakov | 373 83 
+Čejkovice | 373 41 
+Čenkov u Bechyně | 391 65 
+České Budějovice | 370 01 
+Čížkrajice | 374 01 
+Dasný | 373 41 
+Dívčice | 373 48 
+Dobrá Voda u Českých Budějovic | 373 16 
+Dobšice | 375 01 
+Dolní Bukovsko | 373 65 
+Doubravice | 370 08 
+Doudleby | 370 07 
+Drahotěšice | 373 41 
+Dražíč | 375 01 
+Dříteň | 373 51 
+Dubičné | 373 71 
+Dubné | 373 84 
+Dynín | 373 64 
+Habří | 373 84 
+Hartmanice | 373 65 
+Heřmaň | 370 07 
+Hlavatce | 373 48 
+Hlincová Hora | 373 71 
+Hluboká nad Vltavou | 373 41 
+Homole | 370 01 
+Horní Kněžeklady | 375 01 
+Horní Stropnice | 373 35 
+Hosín | 373 41 
+Hosty | 375 01 
+Hradce | 370 01 
+Hranice | 373 33 
+Hrdějovice | 373 61 
+Hůry | 373 71 
+Hvozdec | 373 72 
+Chotýčany | 373 62 
+Chrášťany | 373 04 
+Jankov | 373 84 
+Jílovice | 373 32 
+Jivno | 373 71 
+Kamenná | 373 33 
+Kamenný Újezd | 373 81 
+Komařice | 373 14 
+Kvítkovice | 373 84 
+Ledenice | 373 11 
+Libín | 373 73 
+Libníč | 373 71 
+Lipí | 373 84 
+Lišov | 373 72 
+Litvínovice | 370 01 
+Ločenice | 373 22 
+Mazelov | 373 63 
+Mladošovice | 379 01 
+Modrá Hůrka | 375 01 
+Mokrý Lom | 374 01 
+Mydlovary | 373 49 
+Nákří | 373 48 
+Nedabyle | 370 06 
+Neplachov | 373 65 
+Nová Ves | 373 15 
+Nové Hrady | 373 33 
+Olešnice | 373 31 
+Olešník | 373 50 
+Ostrolovský Újezd | 374 01 
+Petříkov | 374 01 
+Pištín | 373 46 
+Planá | 370 01 
+Plav | 370 07 
+Radošovice | 373 41 
+Roudné | 370 07 
+Rudolfov | 373 71 
+Římov | 373 24 
+Sedlec | 373 47 
+Slavče | 373 21 
+Srubec | 370 06 
+Staré Hodějovice | 370 08 
+Strážkovice | 374 01 
+Strýčice | 373 41 
+Střížov | 374 01 
+Svatý Jan nad Malší | 373 23 
+Ševětín | 373 63 
+Štěpánovice | 373 73 
+Temelín | 373 01 
+Trhové Sviny | 374 01 
+Týn nad Vltavou | 375 01 
+Úsilné | 370 10 
+Včelná | 373 82 
+Vidov | 370 07 
+Vitín | 373 63 
+Vlkov | 373 41 
+Vrábče | 370 01 
+Vráto | 370 01 
+Všemyslice | 373 02 
+Záboří | 373 84 
+Zahájí | 373 48 
+Závraty | 370 01 
+Zliv | 373 44 
+Zvíkov | 373 72 
+Žabovřesky | 373 41 
+Žár | 373 33 
+Žimutice | 373 66
+- 
+Benešov nad Černou | 382 82 
+Besednice | 382 81 
+Bohdalovice | 382 11 
+Boletice | 382 29 
+Brloh | 382 06 
+Bujanov | 382 41 
+Černá v Pošumaví | 382 23 
+Český Krumlov | 381 01 
+Dolní Dvořiště | 382 72 
+Dolní Třebonín | 382 01 
+Frymburk | 382 79 
+Holubov | 382 03 
+Horní Dvořiště | 382 93 
+Horní Planá | 382 26 
+Hořice na Šumavě | 382 22 
+Chlumec | 382 32 
+Chvalšiny | 382 08 
+Kájov | 382 21 
+Kaplice | 382 41 
+Křemže | 382 03 
+Lipno nad Vltavou | 382 78 
+Loučovice | 382 76 
+Malonty | 382 91 
+Malšín | 382 73 
+Mirkovice | 382 31 
+Mojné | 382 32 
+Netřebice | 382 32 
+Nová Ves | 382 03 
+Omlenice | 382 41 
+Pohorská Ves | 382 83 
+Přední Výtoň | 382 79 
+Přídolí | 381 01 
+Přísečná | 381 01 
+Rožmberk nad Vltavou | 382 18 
+Rožmitál na Šumavě | 382 92 
+Soběnov | 382 41 
+Srnín | 381 01 
+Střítež | 382 32 
+Světlík | 382 16 
+Velešín | 382 32 
+Větřní | 382 11 
+Věžovatá Pláně | 382 32 
+Vyšší Brod | 382 73 
+Zlatá Koruna | 382 02 
+Zubčice | 382 32 
+Zvíkov | 382 32
+- 
+Báňovice | 380 01 
+Bednárec | 378 42 
+Bednáreček | 378 42 
+Blažejov | 378 52 
+Bořetín | 378 53 
+Březina | 378 21 
+Budeč | 378 92 
+Budíškovice | 378 91 
+Cep | 379 01 
+Cizkrajov | 378 81 
+Červený Hrádek | 380 01 
+České Velenice | 378 10 
+Český Rudolec | 378 83 
+Číměř | 378 32 
+Člunek | 378 61 
+Dačice | 380 01 
+Dešná | 378 73 
+Deštná | 378 25 
+Dívčí Kopy | 378 42 
+Dobrohošť | 380 01 
+Dolní Pěna | 377 01 
+Dolní Žďár | 378 02 
+Domanín | 379 01 
+Doňov | 378 21 
+Drunče | 378 21 
+Dunajovice | 379 01 
+Dvory nad Lužnicí | 378 08 
+Frahelž | 378 16 
+Hadravova Rosička | 378 42 
+Halámky | 378 06 
+Hamr | 378 04 
+Hatín | 377 01 
+Heřmaneč | 378 53 
+Horní Meziříčko | 378 53 
+Horní Němčice | 378 53 
+Horní Pěna | 378 31 
+Horní Radouň | 378 43 
+Horní Skrýchov | 377 01 
+Horní Slatina | 380 01 
+Hospříz | 377 01 
+Hrachoviště | 379 01 
+Hříšice | 380 01 
+Chlum u Třeboně | 378 04 
+Jarošov nad Nežárkou | 378 41 
+Jilem | 378 53 
+Jindřichův Hradec | 377 01 
+Kačlehy | 377 01 
+Kamenný Malíkov | 378 42 
+Kardašova Řečice | 378 21 
+Klec | 378 16 
+Kostelní Radouň | 378 42 
+Kostelní Vydří | 380 01 
+Kunžak | 378 62 
+Lásenice | 378 01 
+Lodhéřov | 378 26 
+Lomnice nad Lužnicí | 378 16 
+Lužnice | 378 16 
+Majdalena | 378 04 
+Nová Bystřice | 378 33 
+Nová Olešná | 378 53 
+Nová Včelnice | 378 42 
+Nová Ves nad Lužnicí | 378 09 
+Novosedly nad Nežárkou | 378 17 
+Okrouhlá Radouň | 378 42 
+Peč | 380 01 
+Písečné | 378 72 
+Pístina | 378 02 
+Plavsko | 378 02 
+Pleše | 378 21 
+Pluhův Žďár | 378 24 
+Polště | 377 01 
+Ponědraž | 378 16 
+Ponědrážka | 378 16 
+Popelín | 378 55 
+Příbraz | 378 02 
+Rapšach | 378 07 
+Ratiboř | 377 01 
+Rodvínov | 377 01 
+Roseč | 378 46 
+Rosička | 378 21 
+Slavonice | 378 81 
+Smržov | 378 16 
+Staňkov | 378 04 
+Staré Hobzí | 378 71 
+Staré Město pod Landštejnem | 378 82 
+Stráž nad Nežárkou | 378 02 
+Strmilov | 378 53 
+Stříbřec | 378 18 
+Střížovice | 378 53 
+Studená | 378 56 
+Suchdol nad Lužnicí | 378 06 
+Světce | 378 21 
+Třebětice | 380 01 
+Třeboň | 379 01 
+Újezdec | 378 21 
+Velký Ratmírov | 377 01 
+Vícemil | 378 21 
+Višňová | 378 21 
+Vlčetínec | 378 42 
+Volfířov | 380 01 
+Vydří | 378 02 
+Záblatí | 378 16 
+Záhoří | 378 21 
+Zahrádky | 378 53 
+Žďár | 378 42 
+Županovice | 378 81
+- 
+Albrechtice nad Vltavou | 398 16 
+Bernartice | 398 43 
+Borovany | 398 43 
+Boudy | 398 04 
+Božetice | 399 01 
+Branice | 398 43 
+Cerhonice | 398 04 
+Čimelice | 398 04 
+Čížová | 398 31 
+Dobev | 397 01 
+Dolní Novosedly | 397 01 
+Drhovle | 397 01 
+Heřmaň | 398 11 
+Horosedly | 398 04 
+Hrazany | 399 01 
+Hrejkovice | 398 59 
+Chyšky | 398 53 
+Jetětice | 398 48 
+Jickovice | 399 01 
+Kestřany | 398 21 
+Kluky | 398 19 
+Kostelec nad Vltavou | 398 58 
+Kovářov | 398 55 
+Kožlí | 398 04 
+Králova Lhota | 398 04 
+Křenovice | 398 43 
+Křižanov | 398 43 
+Kučeř | 398 34 
+Květov | 399 01 
+Lety | 398 04 
+Milevsko | 399 01 
+Minice | 398 04 
+Mirotice | 398 01 
+Mirovice | 398 06 
+Mišovice | 398 04 
+Myslín | 398 04 
+Nerestce | 398 04 
+Nevězice | 398 04 
+Okrouhlá | 398 43 
+Olešná | 398 43 
+Orlík nad Vltavou | 398 07 
+Osek | 399 01 
+Oslov | 398 35 
+Ostrovec | 398 33 
+Paseky | 398 11 
+Písek | 397 01 
+Podolí I | 398 43 
+Probulov | 398 04 
+Protivín | 398 11 
+Přeborov | 399 01 
+Předotice | 397 01 
+Přeštěnice | 399 01 
+Putim | 397 01 
+Rakovice | 398 04 
+Ražice | 398 22 
+Sepekov | 398 51 
+Skály | 398 11 
+Slabčice | 398 47 
+Smetanova Lhota | 398 04 
+Stehlovice | 398 43 
+Tálín | 398 15 
+Temešvár | 397 01 
+Varvažov | 397 01 
+Veselíčko | 398 42 
+Vlastec | 397 01 
+Vlksice | 399 01 
+Vojníkov | 397 01 
+Vráž | 398 32 
+Vrcovice | 397 01 
+Záhoří | 398 18 
+Zbelítov | 399 01 
+Zběšičky | 398 43 
+Zhoř | 399 01 
+Zvíkovské Podhradí | 397 01 
+Žďár | 398 11
+- 
+Babice | 384 11 
+Bohumilice | 384 81 
+Bohunice | 384 22 
+Borová Lada | 384 92 
+Bošice | 384 81 
+Budkov | 384 22 
+Buk | 384 21 
+Bušanovice | 384 22 
+Čkyně | 384 81 
+Drslavice | 384 21 
+Dub | 384 25 
+Dvory | 384 21 
+Horní Vltavice | 384 91 
+Hracholusky | 383 01 
+Husinec | 384 21 
+Chlumany | 384 22 
+Chroboly | 384 04 
+Chvalovice | 384 11 
+Kratušín | 384 21 
+Křišťanov | 383 01 
+Ktiš | 384 03 
+Kubova Huť | 385 01 
+Kvilda | 384 93 
+Lažiště | 384 32 
+Lčovice | 384 81 
+Lenora | 384 42 
+Lhenice | 384 02 
+Lipovice | 384 22 
+Lužice | 384 11 
+Mahouš | 384 11 
+Malovice | 384 11 
+Mičovice | 383 01 
+Nebahovy | 384 01 
+Němčice | 384 11 
+Netolice | 384 11 
+Nicov | 384 73 
+Nová Pec | 384 62 
+Nové Hutě | 385 01 
+Olšovice | 384 11 
+Pěčnov | 384 21 
+Prachatice | 383 01 
+Radhostice | 384 81 
+Stachy | 384 73 
+Stožec | 384 44 
+Strážný | 384 43 
+Strunkovice nad Blanicí | 384 26 
+Svatá Maří | 385 01 
+Šumavské Hoštice | 384 71 
+Těšovice | 384 21 
+Tvrzice | 384 22 
+Újezdec | 384 22 
+Vacov | 384 86 
+Vimperk | 385 01 
+Vitějovice | 384 27 
+Vlachovo Březí | 384 22 
+Volary | 384 51 
+Vrbice | 384 73 
+Záblatí | 384 33 
+Zábrdí | 384 21 
+Zálezly | 384 81 
+Zbytiny | 384 41 
+Zdíkov | 384 72 
+Žárovná | 384 21 
+Želnava | 384 51 
+Žernovice | 383 01
+- 
+Bavorov | 387 73 
+Bělčice | 387 43 
+Bezdědovice | 388 01 
+Bílsko | 387 73 
+Blatná | 388 01 
+Bratronice | 388 01 
+Březí | 262 42 
+Budyně | 387 73 
+Buzice | 388 01 
+Cehnice | 387 52 
+Čečelovice | 388 01 
+Čejetice | 386 01 
+Čepřovice | 387 56 
+Čestice | 387 19 
+Číčenice | 387 71 
+Doubravice | 387 35 
+Drahonice | 389 01 
+Drachkov | 386 01 
+Drážov | 387 19 
+Droužetice | 386 01 
+Dřešín | 387 19 
+Hajany | 388 01 
+Hájek | 387 73 
+Hlupín | 386 01 
+Horní Poříčí | 386 01 
+Hornosín | 387 42 
+Hoslovice | 387 19 
+Hoštice | 387 01 
+Chelčice | 389 01 
+Chlum | 388 01 
+Chobot | 388 01 
+Chrášťovice | 386 01 
+Jinín | 386 01 
+Kadov | 387 33 
+Kalenice | 387 16 
+Katovice | 387 11 
+Kladruby | 387 16 
+Kocelovice | 387 42 
+Krajníčko | 387 73 
+Kraselov | 387 20 
+Krašlovice | 389 01 
+Krejnice | 387 16 
+Krty-Hradec | 386 01 
+Kuřimany | 386 01 
+Kváskovice | 386 01 
+Lažánky | 388 01 
+Lažany | 388 01 
+Libějovice | 387 72 
+Libětice | 386 01 
+Litochovice | 387 01 
+Lnáře | 387 42 
+Lom | 388 01 
+Mačkov | 388 01 
+Malenice | 387 06 
+Mečichov | 387 36 
+Měkynec | 387 73 
+Milejovice | 387 01 
+Miloňovice | 386 01 
+Mnichov | 386 01 
+Mutěnice | 386 01 
+Myštice | 388 01 
+Nebřehovice | 386 01 
+Němčice | 387 19 
+Němětice | 387 01 
+Nihošovice | 387 01 
+Nišovice | 387 01 
+Nová Ves | 387 19 
+Novosedly | 387 16 
+Osek | 386 01 
+Paračov | 386 01 
+Pivkovice | 387 73 
+Pohorovice | 389 01 
+Pracejovice | 386 01 
+Předmíř | 387 42 
+Přední Zborovice | 387 01 
+Předslavice | 387 01 
+Přechovice | 387 01 
+Přešťovice | 386 01 
+Radějovice | 387 73 
+Radomyšl | 387 31 
+Radošovice | 386 01 
+Rovná | 386 01 
+Řepice | 386 01 
+Sedlice | 387 32 
+Skály | 386 01 
+Skočice | 387 75 
+Slaník | 386 01 
+Sousedovice | 386 01 
+Stožice | 389 01 
+Strakonice | 386 01 
+Strašice | 387 16 
+Strunkovice nad Volyňkou | 387 01 
+Střelské Hoštice | 387 15 
+Škvořetice | 388 01 
+Štěchovice | 387 16 
+Štěkeň | 387 51 
+Tchořovice | 388 01 
+Truskovice | 389 01 
+Třebohostice | 387 37 
+Třešovice | 386 01 
+Úlehle | 387 19 
+Únice | 386 01 
+Uzenice | 388 01 
+Uzeničky | 388 01 
+Vacovice | 387 19 
+Velká Turná | 386 01 
+Vodňany | 389 01 
+Volenice | 387 16 
+Volyně | 387 01 
+Záboří | 387 34 
+Zahorčice | 387 19 
+Zvotoky | 387 16
+- 
+Balkova Lhota | 391 31 
+Bečice | 391 75 
+Bechyně | 391 65 
+Běleč | 391 43 
+Borkovice | 391 91 
+Borotín | 391 35 
+Bradáčov | 391 43 
+Březnice | 391 71 
+Budislav | 392 01 
+Černýšovice | 391 65 
+Dírná | 391 27 
+Dlouhá Lhota | 391 55 
+Dobronice u Bechyně | 391 65 
+Dolní Hořice | 391 55 
+Dolní Hrachovice | 391 43 
+Drahov | 391 81 
+Dráchov | 392 01 
+Dražice | 391 31 
+Dražičky | 391 75 
+Drhovice | 391 31 
+Haškovcova Lhota | 391 65 
+Hlasivo | 391 43 
+Hlavatce | 391 73 
+Hodětín | 391 65 
+Hodonice | 391 65 
+Chotěmice | 392 01 
+Chotoviny | 391 37 
+Choustník | 391 18 
+Chrbonín | 391 55 
+Chýnov | 391 55 
+Jedlany | 391 37 
+Jistebnice | 391 33 
+Katov | 392 01 
+Klenovice | 392 01 
+Komárov | 392 01 
+Košice | 391 17 
+Košín | 391 37 
+Krátošice | 392 01 
+Krtov | 392 01 
+Libějice | 391 11 
+Lom | 391 11 
+Malšice | 391 75 
+Mažice | 391 81 
+Meziříčí | 391 31 
+Mezná | 392 01 
+Mladá Vožice | 391 43 
+Mlýny | 392 01 
+Myslkovice | 391 16 
+Nadějkov | 398 52 
+Nasavrky | 391 31 
+Nemyšl | 391 43 
+Nová Ves u Chýnova | 391 55 
+Nová Ves u Mladé Vožice | 391 43 
+Oldřichov | 391 43 
+Opařany | 391 61 
+Planá nad Lužnicí | 391 11 
+Pohnánec | 391 43 
+Pohnání | 391 43 
+Pojbuky | 391 43 
+Přehořov | 392 01 
+Psárov | 392 01 
+Radenín | 391 20 
+Radětice | 391 65 
+Radimovice u Tábora | 391 31 
+Radimovice u Želče | 391 11 
+Radkov | 391 31 
+Rataje | 391 65 
+Ratibořské Hory | 391 42 
+Rodná | 391 43 
+Roudná | 392 01 
+Řemíčov | 391 43 
+Řepeč | 391 61 
+Řípec | 391 81 
+Sedlečko u Soběslavě | 392 01 
+Sezimovo Ústí | 391 01 
+Skalice | 391 11 
+Skopytce | 392 01 
+Skrýchov u Malšic | 391 75 
+Slapsko | 391 43 
+Slapy | 391 76 
+Smilovy Hory | 391 52 
+Soběslav | 392 01 
+Stádlec | 391 62 
+Sudoměřice u Bechyně | 391 72 
+Sudoměřice u Tábora | 391 36 
+Sviny | 391 81 
+Svrabov | 391 31 
+Šebířov | 391 43 
+Tábor | 390 01 
+Třebějice | 392 01 
+Tučapy | 391 26 
+Turovec | 391 21 
+Ústrašice | 391 11 
+Val | 391 81 
+Vesce | 392 01 
+Veselí nad Lužnicí | 391 81 
+Vilice | 391 43 
+Vlastiboř | 392 01 
+Vlčeves | 392 01 
+Vlkov | 391 81 
+Vodice | 391 53 
+Zadní Střítež | 391 43 
+Záhoří | 391 65 
+Zálší | 391 81 
+Zhoř u Mladé Vožice | 391 43 
+Zhoř u Tábora | 391 11 
+Zlukov | 391 81 
+Zvěrotice | 392 01 
+Želeč | 391 74 
+Žíšov | 391 81
+- 
+Babylon | 344 01 
+Bělá nad Radbuzou | 345 26 
+Blížejov | 346 01 
+Brnířov | 345 06 
+Bukovec | 345 62 
+Čečovice | 345 62 
+Čermná | 345 61 
+Černovice | 345 62 
+Česká Kubice | 344 01 
+Díly | 344 01 
+Domažlice | 344 01 
+Drahotín | 345 22 
+Draženov | 344 01 
+Hlohová | 345 61 
+Hlohovčice | 345 61 
+Holýšov | 345 62 
+Hora Svatého Václava | 345 22 
+Horní Kamenice | 345 62 
+Horšovský Týn | 346 01 
+Hostouň | 345 25 
+Hradiště | 345 43 
+Hvožďany | 345 22 
+Chocomyšl | 345 43 
+Chodov | 345 33 
+Chodská Lhota | 345 06 
+Chrastavice | 344 01 
+Kanice | 345 43 
+Kaničky | 345 43 
+Kdyně | 345 06 
+Klenčí pod Čerchovem | 345 34 
+Koloveč | 345 43 
+Kout na Šumavě | 344 01 
+Křenovy | 345 61 
+Kvíčovice | 345 62 
+Libkov | 345 06 
+Loučim | 345 06 
+Luženičky | 344 01 
+Meclov | 346 01 
+Mezholezy (dříve okres Domažlice) | 345 06 
+Mezholezy (dříve okres Horšovský Týn) | 346 01 
+Milavče | 344 01 
+Mířkov | 346 01 
+Mnichov | 345 22 
+Močerady | 345 61 
+Mrákov | 345 01 
+Mutěnín | 345 25 
+Nemanice | 344 01 
+Němčice | 345 06 
+Neuměř | 345 62 
+Nevolice | 344 01 
+Nová Ves | 345 06 
+Nový Kramolín | 344 01 
+Osvračín | 345 61 
+Otov | 345 22 
+Pařezov | 344 01 
+Pasečnice | 344 01 
+Pec | 344 01 
+Pelechy | 344 01 
+Poběžovice | 345 22 
+Pocinovice | 345 06 
+Poděvousy | 345 61 
+Postřekov | 345 35 
+Puclice | 345 61 
+Rybník | 345 25 
+Semněvice | 346 01 
+Spáňov | 344 01 
+Srbice | 345 43 
+Srby | 346 01 
+Staňkov | 345 61 
+Stráž | 344 01 
+Štichov | 345 62 
+Tlumačov | 344 01 
+Trhanov | 345 33 
+Úboč | 345 43 
+Újezd | 344 01 
+Únějovice | 345 43 
+Úsilov | 345 06 
+Velký Malahov | 346 01 
+Vidice | 346 01 
+Vlkanov | 345 22 
+Všekary | 345 62 
+Všepadly | 345 43 
+Všeruby | 345 06 
+Zahořany | 344 01 
+Ždánov | 344 01
+- 
+Běhařov | 340 21 
+Běšiny | 339 01 
+Bezděkov | 339 01 
+Biřkov | 334 01 
+Bolešiny | 339 01 
+Břežany | 341 01 
+Budětice | 342 01 
+Bukovník | 342 01 
+Čachrov | 339 01 
+Černíkov | 345 06 
+Červené Poříčí | 340 12 
+Číhaň | 341 42 
+Čímice | 342 01 
+Dešenice | 340 22 
+Dlažov | 340 21 
+Dlouhá Ves | 342 01 
+Dobršín | 342 01 
+Dolany | 339 01 
+Domoraz | 342 01 
+Dražovice | 342 01 
+Frymburk | 342 01 
+Hamry | 340 22 
+Hartmanice | 342 01 
+Hejná | 341 01 
+Hlavňovice | 341 42 
+Hnačov | 340 34 
+Horažďovice | 341 01 
+Horská Kvilda | 385 01 
+Hrádek | 342 01 
+Hradešice | 341 01 
+Chanovice | 341 01 
+Chlistov | 339 01 
+Chudenice | 339 01 
+Chudenín | 340 22 
+Janovice nad Úhlavou | 340 21 
+Javor | 340 21 
+Ježovy | 340 12 
+Kašperské Hory | 341 92 
+Kejnice | 341 01 
+Klatovy | 339 01 
+Klenová | 340 21 
+Kolinec | 341 42 
+Kovčín | 341 01 
+Křenice | 340 12 
+Kvášňovice | 341 01 
+Lomec | 339 01 
+Malý Bor | 341 01 
+Maňovice | 341 01 
+Měčín | 340 12 
+Mezihoří | 340 12 
+Mlýnské Struhadlo | 339 01 
+Modrava | 341 92 
+Mochtín | 339 01 
+Mokrosuky | 342 01 
+Myslív | 341 01 
+Myslovice | 339 01 
+Nalžovské Hory | 341 01 
+Nehodiv | 341 01 
+Nezamyslice | 342 01 
+Nezdice na Šumavě | 342 01 
+Nýrsko | 340 22 
+Obytce | 339 01 
+Olšany | 341 01 
+Ostřetice | 339 01 
+Pačejov | 341 01 
+Petrovice u Sušice | 342 01 
+Plánice | 340 34 
+Podmokly | 342 01 
+Poleň | 339 01 
+Prášily | 342 01 
+Předslav | 339 01 
+Rabí | 342 01 
+Rejštejn | 341 92 
+Slatina | 341 01 
+Soběšice | 342 01 
+Srní | 341 92 
+Strašín | 342 01 
+Strážov | 340 21 
+Sušice | 342 01 
+Svéradice | 341 01 
+Švihov | 340 12 
+Tužice | 341 42 
+Týnec | 340 21 
+Újezd u Plánice | 339 01 
+Velhartice | 341 42 
+Velké Hydčice | 341 01 
+Velký Bor | 341 01 
+Vrhaveč | 339 01 
+Vřeskovice | 334 01 
+Zavlekov | 341 42 
+Zborovy | 340 34 
+Železná Ruda | 340 04 
+Žihobce | 342 01 
+Žichovice | 342 01
+- 
+Dýšina | 330 02 
+Chrást | 330 03 
+Chválenice | 332 04 
+Kyšice | 337 01 
+Letkov | 326 00 
+Lhůta | 326 00 
+Losiná | 332 04 
+Mokrouše | 326 00 
+Nezbavětice | 332 04 
+Nezvěstice | 332 04 
+Plzeň 1 | 323 00 
+Plzeň 10-Lhota | 301 00 
+Plzeň 2-Slovany | 326 00 
+Plzeň 3 | 301 00 
+Plzeň 4 | 312 00 
+Plzeň 5-Křimice | 322 00 
+Plzeň 6-Litice | 321 00 
+Plzeň 7-Radčice | 322 00 
+Plzeň 8-Černice | 326 00 
+Plzeň 9-Malesice | 330 33 
+Starý Plzenec | 332 02 
+Šťáhlavy | 332 03 
+Štěnovický Borek | 332 09 
+Tymákov | 326 00
+- 
+Bdeněves | 330 32 
+Bezvěrov | 330 41 
+Bílov | 331 41 
+Blatnice | 330 23 
+Blažim | 330 38 
+Bohy | 331 41 
+Brodeslavy | 331 41 
+Bučí | 331 52 
+Čeminy | 330 33 
+Černíkovice | 331 41 
+Čerňovice | 330 36 
+Česká Bříza | 330 11 
+Dobříč | 331 51 
+Dolany | 330 11 
+Dolní Bělá | 331 52 
+Dolní Hradiště | 331 51 
+Dražeň | 331 01 
+Druztová | 330 11 
+Heřmanova Huť | 330 24 
+Hlince | 331 41 
+Hněvnice | 330 23 
+Holovousy | 331 41 
+Horní Bělá | 331 52 
+Horní Bříza | 330 12 
+Hromnice | 330 11 
+Hvozd | 331 01 
+Chotíkov | 330 11 
+Chříč | 331 41 
+Jarov | 331 51 
+Kaceřov | 331 51 
+Kaznějov | 331 51 
+Kbelany | 330 23 
+Kočín | 331 41 
+Kopidlo | 331 41 
+Koryta | 331 51 
+Kozojedy | 331 41 
+Kozolupy | 330 32 
+Kožlany | 331 41 
+Kralovice | 331 41 
+Krašovice | 330 13 
+Krsy | 330 38 
+Křelovice | 330 36 
+Kunějovice | 330 35 
+Ledce | 330 11 
+Líně | 330 21 
+Líšťany | 330 35 
+Líté | 331 52 
+Lochousice | 330 23 
+Loza | 331 52 
+Manětín | 331 62 
+Město Touškov | 330 33 
+Mladotice | 331 41 
+Mrtník | 331 52 
+Myslinka | 330 23 
+Nadryby | 330 11 
+Nečtiny | 331 62 
+Nekmíř | 331 52 
+Nevřeň | 330 11 
+Nýřany | 330 23 
+Obora | 331 51 
+Ostrov u Bezdružic | 330 38 
+Pastuchovice | 331 65 
+Pernarec | 330 36 
+Pláně | 331 01 
+Plasy | 331 01 
+Plešnice | 330 33 
+Pňovany | 330 33 
+Potvorov | 331 41 
+Přehýšov | 330 23 
+Příšov | 330 11 
+Rochlov | 330 23 
+Rybnice | 331 51 
+Sedlec | 331 41 
+Slatina | 331 41 
+Studená | 331 41 
+Štichovice | 331 41 
+Tatiná | 330 11 
+Tis u Blatna | 331 65 
+Tlučná | 330 26 
+Trnová | 330 13 
+Třemošná | 330 11 
+Úherce | 330 23 
+Újezd nade Mží | 330 33 
+Úlice | 330 33 
+Úněšov | 330 38 
+Úterý | 330 41 
+Vejprnice | 330 27 
+Velečín | 331 65 
+Vochov | 330 23 
+Všehrdy | 331 41 
+Všeruby | 330 16 
+Výrov | 331 41 
+Vysoká Libyně | 331 41 
+Zahrádka | 330 35 
+Zbůch | 330 22 
+Zruč-Senec | 330 08 
+Žihle | 331 65 
+Žilov | 330 11
+- 
+Blovice | 336 01 
+Bolkov | 334 01 
+Borovno | 335 61 
+Borovy | 334 01 
+Buková | 334 52 
+Čižice | 332 09 
+Čížkov | 335 64 
+Čmelíny | 335 01 
+Dnešice | 334 01 
+Dobřany | 334 41 
+Dolce | 334 01 
+Dolní Lukavice | 334 01 
+Drahkov | 336 01 
+Honezovice | 333 01 
+Horní Lukavice | 334 01 
+Horšice | 334 01 
+Hradec | 333 01 
+Hradiště | 335 44 
+Chlum | 332 04 
+Chlumčany | 334 42 
+Chlumy | 335 01 
+Chocenice | 336 01 
+Chotěšov | 332 14 
+Jarov | 335 01 
+Kasejovice | 335 44 
+Kbel | 340 12 
+Klášter | 335 01 
+Kotovice | 333 01 
+Kozlovice | 335 01 
+Kramolín | 335 01 
+Letiny | 336 01 
+Lisov | 333 01 
+Líšina | 333 01 
+Louňová | 336 01 
+Lužany | 334 01 
+Měcholupy | 335 01 
+Merklín | 334 52 
+Mileč | 335 01 
+Milínov | 332 04 
+Míšov | 335 61 
+Mladý Smolivec | 335 01 
+Mohelnice | 335 01 
+Nebílovy | 332 04 
+Nekvasovy | 335 01 
+Nepomuk | 335 01 
+Netunice | 332 04 
+Neurazy | 335 01 
+Nezdice | 334 01 
+Nezdřev | 335 44 
+Nová Ves | 334 41 
+Nové Mitrovice | 335 61 
+Oplot | 334 01 
+Oselce | 335 01 
+Otěšice | 334 01 
+Polánka | 335 01 
+Prádlo | 335 01 
+Předenice | 332 09 
+Přestavlky | 334 01 
+Přeštice | 334 01 
+Příchovice | 334 01 
+Ptenín | 334 52 
+Radkovice | 334 01 
+Roupov | 334 01 
+Řenče | 334 01 
+Seč | 336 01 
+Sedliště | 335 01 
+Skašov | 336 01 
+Soběkury | 334 01 
+Spálené Poříčí | 335 61 
+Srby | 335 01 
+Stod | 333 01 
+Střelice | 333 01 
+Střížovice | 332 04 
+Štěnovice | 332 09 
+Tojice | 335 01 
+Třebčice | 335 01 
+Týniště | 334 01 
+Únětice | 336 01 
+Útušice | 332 09 
+Ves Touškov | 333 01 
+Vlčí | 334 01 
+Vlčtejn | 332 04 
+Vrčeň | 335 01 
+Vstiš | 334 41 
+Zdemyslice | 336 01 
+Zemětice | 334 52 
+Žákava | 332 04 
+Ždírec | 336 01 
+Žinkovy | 335 01 
+Životice | 335 44
+- 
+Bezděkov | 338 24 
+Břasy | 338 24 
+Březina | 338 24 
+Bujesily | 331 41 
+Bušovice | 338 24 
+Cekov | 338 08 
+Čilá | 338 08 
+Dobřív | 337 01 
+Drahoňův Újezd | 338 08 
+Ejpovice | 337 01 
+Hlohovice | 338 08 
+Holoubkov | 338 01 
+Hrádek | 338 42 
+Hradiště | 338 08 
+Hůrky | 337 01 
+Cheznovice | 338 06 
+Chlum | 338 08 
+Chomle | 338 28 
+Kakejcov | 338 43 
+Kamenec | 338 28 
+Kamenný Újezd | 337 01 
+Kařez | 338 08 
+Kařízek | 338 08 
+Klabava | 337 01 
+Kladruby | 338 08 
+Kornatice | 338 43 
+Lhota pod Radčem | 337 01 
+Lhotka u Radnic | 338 24 
+Liblín | 331 41 
+Líšná | 338 08 
+Litohlavy | 337 01 
+Medový Újezd | 337 01 
+Mešno | 338 43 
+Mirošov | 338 43 
+Mlečice | 338 08 
+Mýto | 338 05 
+Němčovice | 338 24 
+Nevid | 337 01 
+Osek | 337 01 
+Ostrovec-Lhotka | 338 08 
+Plískov | 338 08 
+Podmokly | 338 08 
+Příkosice | 338 43 
+Přívětice | 338 28 
+Radnice | 338 28 
+Raková | 337 01 
+Rokycany | 337 01 
+Sebečice | 338 08 
+Sirá | 337 01 
+Skomelno | 338 28 
+Skořice | 338 43 
+Smědčice | 338 24 
+Strašice | 338 45 
+Svojkovice | 337 01 
+Štítov | 338 43 
+Těně | 338 45 
+Terešov | 338 08 
+Těškov | 337 01 
+Trokavec | 338 43 
+Týček | 338 08 
+Újezd u Svatého Kříže | 338 24 
+Vejvanov | 338 28 
+Veselá | 337 01 
+Vísky | 338 43 
+Volduchy | 337 01 
+Všenice | 338 24 
+Zbiroh | 338 08 
+Zvíkovec | 338 08
+- 
+Benešovice | 349 01 
+Bezdružice | 349 52 
+Bor | 348 02 
+Brod nad Tichou | 348 15 
+Broumov | 348 15 
+Cebiv | 349 52 
+Ctiboř | 347 01 
+Částkov | 347 01 
+Černošín | 349 01 
+Dlouhý Újezd | 347 01 
+Erpužice | 349 01 
+Halže | 347 01 
+Horní Kozolupy | 349 52 
+Hošťka | 348 06 
+Chodová Planá | 348 15 
+Chodský Újezd | 348 15 
+Kladruby | 349 61 
+Kočov | 348 15 
+Kokašice | 349 52 
+Konstantinovy Lázně | 349 52 
+Kostelec | 349 01 
+Kšice | 349 01 
+Lesná | 347 01 
+Lestkov | 349 52 
+Lom u Tachova | 347 01 
+Milíře | 347 01 
+Obora | 347 01 
+Olbramov | 349 01 
+Ošelín | 349 01 
+Planá | 348 15 
+Prostiboř | 349 01 
+Přimda | 348 06 
+Rozvadov | 348 06 
+Skapce | 349 01 
+Staré Sedliště | 347 01 
+Staré Sedlo | 348 02 
+Stráž | 348 02 
+Stříbro | 349 01 
+Studánka | 347 01 
+Sulislav | 349 01 
+Svojšín | 349 01 
+Sytno | 349 01 
+Tachov | 347 01 
+Tisová | 347 01 
+Trpísty | 349 01 
+Třemešné | 348 06 
+Únehle | 349 01 
+Vranov | 349 01 
+Zadní Chodov | 348 15 
+Záchlumí | 349 01 
+Zhoř | 349 01
+- 
+Aš | 352 01 
+Dolní Žandov | 350 02 
+Drmoul | 353 01 
+Františkovy Lázně | 351 01 
+Hazlov | 350 02 
+Hranice | 351 24 
+Cheb | 350 02 
+Krásná | 352 01 
+Křižovatka | 351 34 
+Lázně Kynžvart | 354 91 
+Libá | 350 02 
+Lipová | 350 02 
+Luby | 351 37 
+Mariánské Lázně | 353 01 
+Milhostov | 350 02 
+Milíkov | 350 02 
+Mnichov | 353 01 
+Nebanice | 350 02 
+Nový Kostel | 351 34 
+Odrava | 350 02 
+Okrouhlá | 350 02 
+Ovesné Kladruby | 353 01 
+Plesná | 351 35 
+Podhradí | 352 01 
+Pomezí nad Ohří | 350 02 
+Poustka | 350 02 
+Prameny | 353 01 
+Skalná | 351 34 
+Stará Voda | 353 01 
+Teplá | 364 61 
+Trstěnice | 353 01 
+Třebeň | 351 34 
+Tři Sekery | 353 01 
+Tuřany | 350 02 
+Valy | 353 01 
+Velká Hleďsebe | 353 01 
+Velký Luh | 351 34 
+Vlkovice | 353 01 
+Vojtanov | 351 34 
+Zádub-Závišín | 353 01
+- 
+Abertamy | 362 35 
+Andělská Hora | 364 71 
+Bečov nad Teplou | 364 64 
+Bochov | 364 71 
+Boží Dar | 363 01 
+Božičany | 362 25 
+Březová | 360 01 
+Černava | 362 21 
+Čichalov | 364 52 
+Dalovice | 360 02 
+Děpoltovice | 362 25 
+Hájek | 363 01 
+Horní Blatná | 362 35 
+Hory | 360 01 
+Hradiště | 364 71 
+Hroznětín | 362 33 
+Chodov | 364 64 
+Chyše | 364 52 
+Jáchymov | 362 51 
+Jenišov | 360 01 
+Karlovy Vary | 360 01 
+Kolová | 360 01 
+Krásné Údolí | 364 01 
+Krásný Les | 363 01 
+Kyselka | 360 02 
+Merklín | 362 34 
+Mírová | 357 35 
+Nejdek | 362 21 
+Nová Role | 362 25 
+Nové Hamry | 362 21 
+Ostrov | 363 01 
+Otovice | 360 01 
+Otročín | 364 01 
+Pernink | 362 35 
+Pila | 360 01 
+Potůčky | 362 35 
+Pšov | 364 52 
+Sadov | 360 01 
+Smolné Pece | 362 25 
+Stanovice | 360 01 
+Stráž nad Ohří | 363 01 
+Stružná | 364 71 
+Šemnice | 360 02 
+Štědrá | 364 52 
+Teplička | 364 64 
+Toužim | 364 01 
+Útvina | 364 01 
+Valeč | 364 52 
+Velichov | 363 01 
+Verušičky | 364 52 
+Vojkovice | 363 01 
+Vrbice | 364 52 
+Vysoká Pec | 362 21 
+Žlutice | 364 52
+- 
+Březová | 356 01 
+Bublava | 358 01 
+Bukovany | 357 55 
+Citice | 356 01 
+Dasnice | 356 01 
+Dolní Nivy | 356 01 
+Dolní Rychnov | 356 04 
+Habartov | 357 09 
+Horní Slavkov | 357 31 
+Chlum Svaté Maří | 357 09 
+Chodov | 357 35 
+Jindřichovice | 358 01 
+Josefov | 357 09 
+Kaceřov | 357 51 
+Krajková | 357 09 
+Královské Poříčí | 356 01 
+Kraslice | 358 01 
+Krásno | 357 31 
+Kynšperk nad Ohří | 357 51 
+Libavské Údolí | 357 51 
+Loket | 357 33 
+Lomnice | 356 01 
+Nová Ves | 364 64 
+Nové Sedlo | 357 34 
+Oloví | 357 07 
+Přebuz | 358 01 
+Rotava | 357 01 
+Rovná | 356 01 
+Sokolov | 356 01 
+Staré Sedlo | 356 01 
+Stříbrná | 358 01 
+Svatava | 357 03 
+Šabina | 356 01 
+Šindelová | 358 01 
+Tatrovice | 357 35 
+Těšovice | 356 01 
+Vintířov | 357 35 
+Vřesová | 357 35
+- 
+Bílence | 430 01 
+Blatno | 430 01 
+Boleboř | 431 21 
+Březno | 431 45 
+Černovice | 430 01 
+Domašín | 431 51 
+Droužkovice | 431 44 
+Hora Svatého Šebestiána | 431 82 
+Hrušovany | 431 43 
+Chbany | 431 57 
+Chomutov | 430 01 
+Jirkov | 431 11 
+Kadaň | 432 01 
+Kalek | 431 32 
+Klášterec nad Ohří | 431 51 
+Kovářská | 431 86 
+Kryštofovy Hamry | 431 91 
+Křimov | 430 01 
+Libědice | 438 01 
+Loučná pod Klínovcem | 431 91 
+Málkov | 430 01 
+Mašťov | 431 56 
+Měděnec | 431 84 
+Místo | 431 58 
+Nezabylice | 430 01 
+Okounov | 431 51 
+Otvice | 431 11 
+Perštejn | 431 63 
+Pesvice | 431 11 
+Pětipsy | 431 53 
+Račetice | 438 01 
+Radonice | 431 55 
+Rokle | 432 01 
+Spořice | 431 01 
+Strupčice | 431 14 
+Údlice | 431 41 
+Vejprty | 431 91 
+Veliká Ves | 441 01 
+Vilémov | 431 54 
+Vrskmaň | 431 15 
+Všehrdy | 430 01 
+Všestudy | 431 11 
+Výsluní | 431 83 
+Vysoká Pec | 431 59
+- 
+Arnoltice | 407 14 
+Benešov nad Ploučnicí | 407 22 
+Bynovec | 407 14 
+Česká Kamenice | 407 21 
+Děčín | 405 02 
+Dobkovice | 407 03 
+Dobrná | 407 41 
+Dolní Habartice | 407 22 
+Dolní Podluží | 407 55 
+Dolní Poustevna | 407 82 
+Doubice | 407 46 
+Františkov nad Ploučnicí | 407 23 
+Heřmanov | 407 22 
+Horní Habartice | 407 22 
+Horní Podluží | 407 57 
+Hřensko | 407 17 
+Huntířov | 407 42 
+Chřibská | 407 44 
+Janov | 407 14 
+Janská | 407 21 
+Jetřichovice | 407 16 
+Jílové | 407 01 
+Jiřetín pod Jedlovou | 407 56 
+Jiříkov | 407 53 
+Kámen | 407 13 
+Krásná Lípa | 407 46 
+Kunratice | 407 21 
+Kytlice | 407 45 
+Labská Stráň | 407 14 
+Lipová | 407 81 
+Lobendava | 407 84 
+Ludvíkovice | 407 13 
+Malá Veleň | 407 22 
+Malšovice | 405 02 
+Markvartice | 407 42 
+Merboltice | 407 25 
+Mikulášovice | 407 79 
+Rumburk | 408 01 
+Růžová | 407 14 
+Rybniště | 407 51 
+Srbská Kamenice | 407 15 
+Staré Křečany | 407 61 
+Starý Šachov | 407 25 
+Šluknov | 407 77 
+Těchlovice | 407 11 
+Valkeřice | 407 25 
+Varnsdorf | 407 47 
+Velká Bukovina | 407 29 
+Velký Šenov | 407 78 
+Verneřice | 407 25 
+Veselé | 407 42 
+Vilémov | 407 80
+- 
+Bechlín | 411 86 
+Bohušovice nad Ohří | 411 56 
+Brňany | 412 01 
+Brozany nad Ohří | 411 81 
+Brzánky | 413 01 
+Bříza | 413 01 
+Budyně nad Ohří | 411 18 
+Býčkovice | 412 01 
+Ctiněves | 413 01 
+Černěves | 413 01 
+Černiv | 410 02 
+Černouček | 413 01 
+Čížkovice | 411 12 
+Děčany | 411 15 
+Dlažkovice | 411 15 
+Dobříň | 413 01 
+Doksany | 411 82 
+Dolánky nad Ohří | 413 01 
+Drahobuz | 411 45 
+Dušníky | 413 01 
+Evaň | 410 02 
+Hlinná | 412 01 
+Horní Beřkovice | 411 85 
+Horní Řepčice | 411 45 
+Hoštka | 411 72 
+Hrobce | 411 83 
+Chodouny | 411 71 
+Chodovlice | 411 15 
+Chotěšov | 410 02 
+Chotiměř | 410 02 
+Chotiněves | 411 45 
+Chudoslavice | 412 01 
+Jenčice | 411 15 
+Kamýk | 412 01 
+Keblice | 410 02 
+Klapý | 411 16 
+Kleneč | 413 01 
+Kostomlaty pod Řípem | 413 01 
+Krabčice | 411 87 
+Křesín | 410 02 
+Křešice | 411 48 
+Kyškovice | 413 01 
+Levín | 411 45 
+Lhotka nad Labem | 410 02 
+Liběšice | 411 46 
+Libkovice pod Řípem | 413 01 
+Libochovany | 411 03 
+Libochovice | 410 02 
+Libotenice | 412 01 
+Litoměřice | 412 01 
+Lkáň | 411 15 
+Lovečkovice | 411 45 
+Lovosice | 410 02 
+Lukavec | 410 02 
+Malé Žernoseky | 410 02 
+Malíč | 412 01 
+Martiněves | 411 19 
+Michalovice | 412 01 
+Miřejovice | 412 01 
+Mlékojedy | 412 01 
+Mnetěš | 413 01 
+Mšené-lázně | 411 19 
+Nové Dvory | 413 01 
+Oleško | 412 01 
+Píšťany | 411 01 
+Ploskovice | 411 42 
+Podsedice | 411 15 
+Polepy | 411 47 
+Prackovice nad Labem | 411 33 
+Přestavlky | 413 01 
+Račice | 411 08 
+Račiněves | 413 01 
+Radovesice | 410 02 
+Rochov | 413 01 
+Roudnice nad Labem | 413 01 
+Sedlec | 411 15 
+Siřejovice | 410 02 
+Slatina | 410 02 
+Snědovice | 411 74 
+Staňkovice | 412 01 
+Straškov-Vodochody | 411 84 
+Sulejovice | 411 11 
+Štětí | 411 08 
+Terezín | 411 55 
+Travčice | 412 01 
+Trnovany | 412 01 
+Třebenice | 411 13 
+Třebívlice | 411 15 
+Třebušín | 412 01 
+Úpohlavy | 410 02 
+Úštěk | 411 45 
+Vědomice | 413 01 
+Velemín | 411 31 
+Velké Žernoseky | 412 01 
+Vchynice | 410 02 
+Vlastislav | 411 14 
+Vražkov | 413 01 
+Vrbice | 411 64 
+Vrbičany | 411 21 
+Vrutice | 411 47 
+Záluží | 413 01 
+Žabovřesky nad Ohří | 410 02 
+Žalhostice | 411 01 
+Židovice | 411 83 
+Žitenice | 411 41
+- 
+Bitozeves | 440 01 
+Blatno | 439 84 
+Blažim | 440 01 
+Blšany | 439 88 
+Blšany u Loun | 440 01 
+Brodec | 440 01 
+Břvany | 440 01 
+Cítoliby | 439 02 
+Čeradice | 438 01 
+Černčice | 439 01 
+Deštnice | 438 01 
+Dobroměřice | 440 01 
+Domoušice | 439 68 
+Holedeč | 438 01 
+Hříškov | 439 04 
+Hřivice | 439 65 
+Chlumčany | 439 03 
+Chožov | 439 22 
+Chraberce | 440 01 
+Jimlín | 440 01 
+Koštice | 439 21 
+Kozly | 440 01 
+Krásný Dvůr | 439 72 
+Kryry | 439 81 
+Lenešice | 439 23 
+Libčeves | 439 26 
+Liběšice | 438 01 
+Libočany | 439 75 
+Libořice | 438 01 
+Lipno | 438 01 
+Lišany | 440 01 
+Líšťany | 440 01 
+Louny | 440 01 
+Lubenec | 439 83 
+Měcholupy | 439 31 
+Nepomyšl | 439 71 
+Nová Ves | 440 01 
+Nové Sedlo | 438 01 
+Obora | 440 01 
+Očihov | 439 87 
+Opočno | 440 01 
+Panenský Týnec | 439 05 
+Peruc | 439 07 
+Petrohrad | 439 85 
+Pnětluky | 440 01 
+Počedělice | 440 01 
+Podbořanský Rohozec | 441 01 
+Podbořany | 441 01 
+Postoloprty | 439 42 
+Raná | 439 24 
+Ročov | 439 67 
+Slavětín | 439 09 
+Smolnice | 439 14 
+Staňkovice | 439 49 
+Toužetín | 440 01 
+Tuchořice | 439 69 
+Úherce | 440 01 
+Velemyšleves | 438 01 
+Veltěže | 440 01 
+Vinařice | 439 15 
+Vrbno nad Lesy | 439 06 
+Vroutek | 439 82 
+Vršovice | 440 01 
+Výškov | 440 01 
+Zálužice | 438 01 
+Zbrašín | 440 01 
+Žatec | 438 01 
+Želkovice | 440 01 
+Žerotín | 440 01 
+Žiželice | 438 01
+- 
+Bečov | 435 26 
+Bělušice | 434 01 
+Braňany | 435 22 
+Brandov | 435 47 
+Český Jiřetín | 436 01 
+Havraň | 435 01 
+Hora Svaté Kateřiny | 435 46 
+Horní Jiřetín | 435 43 
+Klíny | 436 01 
+Korozluky | 434 01 
+Lišnice | 434 01 
+Litvínov | 436 01 
+Lom | 435 11 
+Louka u Litvínova | 435 33 
+Lužice | 435 24 
+Malé Březno | 434 01 
+Mariánské Radčice | 435 32 
+Meziboří | 435 13 
+Most | 434 01 
+Nová Ves v Horách | 435 45 
+Obrnice | 435 21 
+Patokryje | 435 21 
+Polerady | 434 01 
+Skršín | 434 01 
+Volevčice | 434 01 
+Želenice | 434 01
+- 
+Bílina | 418 01 
+Bořislav | 417 63 
+Bystřany | 417 61 
+Bžany | 417 63 
+Dubí | 417 01 
+Duchcov | 419 01 
+Háj u Duchcova | 417 22 
+Hostomice | 417 52 
+Hrob | 417 04 
+Hrobčice | 417 57 
+Jeníkov | 417 24 
+Kladruby | 415 01 
+Kostomlaty pod Milešovkou | 417 54 
+Košťany | 417 23 
+Krupka | 417 41 
+Lahošť | 417 25 
+Ledvice | 417 72 
+Lukov | 418 04 
+Měrunice | 418 04 
+Mikulov | 417 04 
+Modlany | 417 13 
+Moldava | 417 81 
+Novosedlice | 417 31 
+Ohníč | 417 65 
+Osek | 417 05 
+Proboštov | 417 12 
+Rtyně nad Bílinou | 417 62 
+Srbice | 417 13 
+Světec | 417 53 
+Teplice | 415 01 
+Újezdeček | 415 01 
+Zabrušany | 417 71 
+Žalany | 417 63 
+Žim | 417 63
+- 
+Dolní Zálezly | 403 01 
+Habrovany | 403 13 
+Homole u Panny | 403 23 
+Chabařovice | 403 17 
+Chlumec | 403 39 
+Chuderov | 400 11 
+Libouchec | 403 35 
+Malé Březno | 403 23 
+Malečov | 403 27 
+Petrovice | 403 37 
+Povrly | 400 02 
+Přestanov | 403 17 
+Ryjice | 403 31 
+Řehlovice | 403 13 
+Stebno | 400 04 
+Tašov | 403 27 
+Telnice | 403 38 
+Tisá | 403 36 
+Trmice | 400 04 
+Ústí nad | Lab em
+Ústí nad Labem-město | 400 01 
+Ústí nad Labem-Neštěmice | 400 07 
+Ústí nad Labem-Severní Terasa | 400 11 
+Ústí nad Labem-Střekov | 400 03 
+Velké Březno | 403 23 
+Velké Chvojno | 403 34 
+Zubrnice | 403 23
+- 
+Bezděz | 471 62 
+Blatce | 472 01 
+Blíževedly | 471 04 
+Bohatice | 471 23 
+Brniště | 471 29 
+Cvikov | 471 54 
+Česká Lípa | 470 01 
+Doksy | 472 01 
+Dubá | 472 01 
+Dubnice | 471 26 
+Hamr na Jezeře | 471 28 
+Holany | 471 01 
+Horní Libchava | 471 11 
+Horní Police | 471 06 
+Chlum | 472 01 
+Chotovice | 473 01 
+Jestřebí | 471 61 
+Kamenický Šenov | 471 14 
+Kozly | 470 01 
+Kravaře | 471 03 
+Krompach | 471 57 
+Kunratice u Cvikova | 471 55 
+Kvítkov | 470 01 
+Luka | 472 01 
+Mařenice | 471 56 
+Mimoň | 471 24 
+Noviny pod Ralskem | 471 24 
+Nový Bor | 473 01 
+Nový Oldřichov | 471 13 
+Okna | 471 62 
+Okrouhlá | 473 01 
+Pertoltice pod Ralskem | 471 24 
+Polevsko | 471 16 
+Provodín | 471 67 
+Prysk | 471 15 
+Radvanec | 473 01 
+Ralsko | 471 24 
+Skalice u České Lípy | 471 17 
+Skalka u Doks | 472 01 
+Sloup v Čechách | 471 52 
+Slunečná | 473 01 
+Sosnová | 470 01 
+Stráž pod Ralskem | 471 27 
+Stružnice | 470 02 
+Stvolínky | 471 02 
+Svojkov | 471 52 
+Svor | 473 01 
+Tachov | 472 01 
+Tuhaň | 472 01 
+Velenice | 470 02 
+Velký Valtinov | 471 25 
+Volfartice | 471 12 
+Vrchovany | 472 01 
+Zahrádky | 471 01 
+Zákupy | 471 23 
+Žandov | 471 07 
+Ždírec | 472 01
+- 
+Albrechtice v Jizerských horách | 468 43 
+Bedřichov | 468 12 
+Dalešice | 468 02 
+Desná | 468 61 
+Držkov | 468 24 
+Frýdštejn | 463 42 
+Jablonec nad Nisou | 466 01 
+Janov nad Nisou | 466 01 
+Jenišovice | 468 33 
+Jílové u Držkova | 468 22 
+Jiřetín pod Bukovou | 468 43 
+Josefův Důl | 468 44 
+Koberovy | 468 22 
+Kořenov | 468 49 
+Líšný | 468 22 
+Loužnice | 468 22 
+Lučany nad Nisou | 468 71 
+Malá Skála | 468 22 
+Maršovice | 468 01 
+Nová Ves nad Nisou | 468 27 
+Pěnčín | 468 21 
+Plavy | 468 46 
+Pulečný | 468 02 
+Radčice | 468 22 
+Rádlo | 468 03 
+Rychnov u Jablonce nad Nisou | 468 02 
+Skuhrov | 468 22 
+Smržovka | 468 51 
+Tanvald | 468 41 
+Velké Hamry | 468 45 
+Vlastiboř | 468 22 
+Zásada | 468 25 
+Zlatá Olešnice | 468 47 
+Železný Brod | 468 22
+- 
+Bílá | 463 43 
+Bílý Kostel nad Nisou | 463 31 
+Bílý Potok | 463 62 
+Bulovka | 464 01 
+Cetenov | 463 48 
+Černousy | 464 01 
+Český Dub | 463 43 
+Čtveřín | 463 45 
+Dětřichov | 464 01 
+Dlouhý Most | 463 12 
+Dolní Řasnice | 464 01 
+Frýdlant | 464 01 
+Habartice | 464 01 
+Hejnice | 463 62 
+Heřmanice | 464 01 
+Hlavice | 463 48 
+Hodkovice nad Mohelkou | 463 42 
+Horní Řasnice | 464 01 
+Hrádek nad Nisou | 463 34 
+Chotyně | 463 34 
+Chrastava | 463 31 
+Jablonné v Podještědí | 471 25 
+Janovice v Podještědí | 463 53 
+Janův Důl | 463 52 
+Jeřmanice | 463 12 
+Jindřichovice pod Smrkem | 463 65 
+Kobyly | 463 45 
+Krásný Les | 464 01 
+Kryštofovo Údolí | 460 01 
+Křižany | 463 53 
+Kunratice | 464 01 
+Lázně Libverda | 463 62 
+Lažany | 463 45 
+Liberec (nečleněné město) | 460 06 
+Liberec-Vratislavice nad Nisou | 463 11 
+Mníšek | 463 31 
+Nová Ves | 463 31 
+Nové Město pod Smrkem | 463 65 
+Oldřichov v Hájích | 463 31 
+Osečná | 463 52 
+Paceřice | 463 44 
+Pěnčín | 463 45 
+Pertoltice | 464 01 
+Proseč pod Ještědem | 463 43 
+Příšovice | 463 46 
+Radimovice | 463 44 
+Raspenava | 464 01 
+Rynoltice | 463 53 
+Soběslavice | 463 45 
+Stráž nad Nisou | 463 03 
+Světlá pod Ještědem | 463 43 
+Svijanský Újezd | 463 45 
+Svijany | 463 46 
+Sychrov | 463 44 
+Šimonovice | 463 12 
+Višňová | 464 01 
+Vlastibořice | 463 44 
+Všelibice | 463 48 
+Zdislava | 463 53 
+Žďárek | 463 44
+- 
+Bělá | 514 01 
+Benecko | 512 37 
+Benešov u Semil | 512 06 
+Bozkov | 512 13 
+Bradlecká Lhota | 507 13 
+Bukovina u Čisté | 514 01 
+Bystrá nad Jizerou | 513 01 
+Čistá u Horek | 512 35 
+Háje nad Jizerou | 513 01 
+Harrachov | 512 46 
+Holenice | 506 01 
+Horka u Staré Paky | 512 34 
+Horní Branná | 512 36 
+Hrubá Skála | 511 01 
+Chuchelna | 513 01 
+Jablonec nad Jizerou | 512 43 
+Jesenný | 512 12 
+Jestřabí v Krkonoších | 514 01 
+Jilemnice | 514 01 
+Kacanovy | 511 01 
+Karlovice | 511 01 
+Klokočí | 511 01 
+Košťálov | 512 02 
+Kruh | 514 01 
+Ktová | 512 63 
+Levínská Olešnice | 514 01 
+Libštát | 512 03 
+Lomnice nad Popelkou | 512 51 
+Loučky | 511 01 
+Martinice v Krkonoších | 512 32 
+Mírová pod Kozákovem | 511 01 
+Modřišice | 511 01 
+Mříčná | 512 04 
+Nová Ves nad Popelkou | 512 71 
+Ohrazenice | 511 01 
+Olešnice | 511 01 
+Paseky nad Jizerou | 512 47 
+Peřimov | 512 04 
+Poniklá | 512 42 
+Přepeře | 512 61 
+Příkrý | 513 01 
+Radostná pod Kozákovem | 512 63 
+Rakousy | 511 01 
+Rokytnice nad Jizerou | 512 44 
+Roprachtice | 513 01 
+Rovensko pod Troskami | 512 63 
+Roztoky u Jilemnice | 512 31 
+Roztoky u Semil | 513 01 
+Semily | 513 01 
+Slaná | 512 01 
+Stružinec | 512 51 
+Studenec | 512 33 
+Svojek | 507 91 
+Syřenov | 512 51 
+Tatobity | 512 53 
+Troskovice | 512 63 
+Turnov | 511 01 
+Veselá | 512 52 
+Víchová nad Jizerou | 512 41 
+Vítkovice | 512 38 
+Všeň | 512 65 
+Vyskeř | 512 64 
+Vysoké nad Jizerou | 512 11 
+Záhoří | 513 01 
+Žernov | 512 63
+- 
+Babice | 503 51 
+Barchov | 504 01 
+Běleč nad Orlicí | 503 46 
+Benátky | 503 03 
+Blešno | 503 46 
+Boharyně | 503 23 
+Černilov | 503 43 
+Černožice | 503 04 
+Čistěves | 503 15 
+Divec | 500 03 
+Dobřenice | 503 25 
+Dohalice | 503 13 
+Dolní Přím | 503 16 
+Habřina | 503 03 
+Hlušice | 503 56 
+Hněvčeves | 503 15 
+Holohlavy | 503 03 
+Hořiněves | 503 06 
+Hradec Králové | 500 02 
+Hrádek | 503 15 
+Humburky | 504 01 
+Hvozdnice | 503 27 
+Chlumec nad Cidlinou | 503 51 
+Chudeřice | 503 51 
+Jeníkovice | 503 46 
+Jílovice | 517 72 
+Káranice | 503 66 
+Klamoš | 503 51 
+Kobylice | 504 01 
+Kosice | 503 51 
+Kosičky | 503 65 
+Králíky | 504 01 
+Kratonohy | 503 24 
+Kunčice | 503 15 
+Ledce | 517 71 
+Lejšovka | 503 03 
+Lhota pod Libčany | 503 27 
+Libčany | 503 22 
+Libníkovice | 503 46 
+Librantice | 503 46 
+Libřice | 503 44 
+Lišice | 503 51 
+Lodín | 503 15 
+Lochenice | 503 02 
+Lovčice | 503 61 
+Lužany | 503 05 
+Lužec nad Cidlinou | 503 62 
+Máslojedy | 503 03 
+Měník | 503 64 
+Mlékosrby | 503 51 
+Mokrovousy | 503 15 
+Myštěves | 503 15 
+Mžany | 503 15 
+Neděliště | 503 12 
+Nechanice | 503 15 
+Nepolisy | 503 63 
+Nové Město | 503 51 
+Nový Bydžov | 504 01 
+Obědovice | 503 51 
+Ohnišťany | 503 54 
+Olešnice | 503 51 
+Osice | 503 26 
+Osičky | 503 27 
+Petrovice | 503 55 
+Písek | 503 51 
+Prasek | 504 01 
+Praskačka | 503 33 
+Předměřice nad Labem | 503 02 
+Převýšov | 503 51 
+Pšánky | 503 15 
+Puchlovice | 503 15 
+Račice nad Trotinou | 503 03 
+Radíkovice | 503 27 
+Radostov | 503 27 
+Roudnice | 503 27 
+Sadová | 503 15 
+Sendražice | 503 03 
+Skalice | 503 03 
+Skřivany | 503 52 
+Sloupno | 503 53 
+Smidary | 503 53 
+Smiřice | 503 03 
+Smržov | 503 03 
+Sovětice | 503 15 
+Stará Voda | 503 51 
+Starý Bydžov | 503 57 
+Stěžery | 503 21 
+Stračov | 503 14 
+Střezetice | 503 12 
+Světí | 503 12 
+Syrovátka | 503 27 
+Šaplava | 503 53 
+Těchlovice | 503 27 
+Třebechovice pod Orebem | 503 46 
+Třesovice | 503 15 
+Urbanice | 503 27 
+Vinary | 503 53 
+Vrchovnice | 503 03 
+Všestary | 503 12 
+Výrava | 503 03 
+Vysoká nad Labem | 503 31 
+Vysoký Újezd | 517 71 
+Zachrašťany | 504 01 
+Zdechovice | 504 01
+- 
+Bačalky | 507 23 
+Bašnice | 508 01 
+Běchary | 507 32 
+Bílsko u Hořic | 508 01 
+Boháňka | 508 01 
+Borek | 507 71 
+Brada-Rybníček | 506 01 
+Březina | 506 01 
+Bříšťany | 508 01 
+Budčeves | 507 32 
+Bukvice | 506 01 
+Butoves | 506 01 
+Bystřice | 507 23 
+Cerekvice nad Bystřicí | 507 77 
+Červená Třemešná | 508 01 
+Češov | 506 01 
+Dětenice | 507 24 
+Dílce | 506 01 
+Dobrá Voda u Hořic | 507 73 
+Dolní Lochov | 506 01 
+Dřevěnice | 507 13 
+Holín | 506 01 
+Holovousy | 508 01 
+Hořice | 508 01 
+Cholenice | 507 32 
+Chomutice | 507 53 
+Choteč | 507 81 
+Chyjice | 506 01 
+Jeřice | 508 01 
+Jičín | 506 01 
+Jičíněves | 507 31 
+Jinolice | 506 01 
+Kacákova Lhota | 506 01 
+Kbelnice | 506 01 
+Kněžnice | 506 01 
+Konecchlumí | 507 05 
+Kopidlno | 507 32 
+Kostelec | 506 01 
+Kovač | 506 01 
+Kozojedy | 507 03 
+Kyje | 507 13 
+Lázně Bělohrad | 507 81 
+Libáň | 507 23 
+Libošovice | 507 44 
+Libuň | 507 15 
+Lískovice | 508 01 
+Lukavec u Hořic | 508 01 
+Lužany | 507 06 
+Markvartice | 507 42 
+Miletín | 507 71 
+Milovice u Hořic | 508 01 
+Mladějov | 507 45 
+Mlázovice | 507 58 
+Nemyčeves | 506 01 
+Nevratice | 508 01 
+Nová Paka | 509 01 
+Ohařice | 506 01 
+Ohaveč | 506 01 
+Osek | 507 43 
+Ostroměř | 507 52 
+Ostružno | 506 01 
+Pecka | 507 82 
+Petrovičky | 508 01 
+Podhorní Újezd a Vojice | 507 54 
+Podhradí | 506 01 
+Podůlší | 506 01 
+Radim | 507 12 
+Rašín | 508 01 
+Rohoznice | 507 71 
+Rokytňany | 507 23 
+Samšina | 506 01 
+Sběř | 507 03 
+Sedliště | 507 23 
+Sekeřice | 507 03 
+Slatiny | 506 01 
+Slavhostice | 507 32 
+Sobčice | 508 01 
+Soběraz | 507 13 
+Sobotka | 507 43 
+Stará Paka | 507 91 
+Staré Hrady | 507 23 
+Staré Místo | 506 01 
+Staré Smrkovice | 508 01 
+Střevač | 507 22 
+Sukorady | 508 01 
+Svatojanský Újezd | 507 81 
+Šárovcova Lhota | 507 81 
+Tetín | 507 71 
+Třebnouševes | 508 01 
+Třtěnice | 507 04 
+Tuř | 506 01 
+Úbislavice | 507 92 
+Údrnice | 507 23 
+Úhlejov | 507 71 
+Újezd pod Troskami | 512 63 
+Úlibice | 507 07 
+Valdice | 507 11 
+Veliš | 507 21 
+Vidochov | 509 01 
+Vitiněves | 506 01 
+Volanice | 507 03 
+Vrbice | 507 03 
+Vršce | 507 33 
+Vřesník | 507 71 
+Vysoké Veselí | 507 03 
+Zámostí-Blata | 506 01 
+Zelenecká Lhota | 507 23 
+Železnice | 507 13 
+Žeretice | 507 02 
+Židovice | 507 32 
+Žlunice | 507 34
+- 
+Adršpach | 549 57 
+Bezděkov nad Metují | 549 64 
+Bohuslavice | 549 06 
+Borová | 547 01 
+Božanov | 549 74 
+Broumov | 550 01 
+Brzice | 552 05 
+Bukovice | 549 54 
+Černčice | 549 01 
+Červená Hora | 549 41 
+Červený Kostelec | 549 41 
+Česká Čermná | 549 21 
+Česká Metuje | 549 56 
+Česká Skalice | 552 03 
+Dolany | 552 01 
+Dolní Radechová | 549 11 
+Hejtmánkovice | 550 01 
+Heřmanice | 552 12 
+Heřmánkovice | 549 84 
+Horní Radechová | 549 46 
+Hořenice | 551 01 
+Hořičky | 552 05 
+Hronov | 549 31 
+Hynčice | 549 83 
+Chvalkovice | 552 04 
+Jaroměř | 551 01 
+Jasenná | 552 22 
+Jestřebí | 549 01 
+Jetřichov | 549 83 
+Kramolna | 547 01 
+Křinice | 550 01 
+Lhota pod Hořičkami | 552 05 
+Libchyně | 549 01 
+Litoboř | 552 05 
+Machov | 549 63 
+Martínkovice | 549 73 
+Mezilečí | 552 05 
+Mezilesí | 549 23 
+Meziměstí | 549 81 
+Nahořany | 549 07 
+Náchod | 547 01 
+Nové Město nad Metují | 549 01 
+Nový Hrádek | 549 22 
+Nový Ples | 551 01 
+Otovice | 549 72 
+Police nad Metují | 549 54 
+Provodov-Šonov | 549 08 
+Přibyslav | 549 01 
+Rasošky | 552 21 
+Rožnov | 551 01 
+Rychnovek | 552 25 
+Říkov | 552 03 
+Sendraž | 549 01 
+Slatina nad Úpou | 549 47 
+Slavětín nad Metují | 549 01 
+Slavoňov | 549 01 
+Stárkov | 549 36 
+Studnice | 549 48 
+Suchý Důl | 549 62 
+Šestajovice | 551 01 
+Šonov | 549 71 
+Teplice nad Metují | 549 57 
+Velichovky | 552 11 
+Velká Jesenice | 552 24 
+Velké Petrovice | 549 54 
+Velké Poříčí | 549 32 
+Velký Třebešov | 552 02 
+Vernéřovice | 549 82 
+Vestec | 552 05 
+Vlkov | 551 01 
+Vršovka | 549 01 
+Vysoká Srbská | 549 31 
+Vysokov | 547 01 
+Zábrodí | 549 41 
+Zaloňov | 551 01 
+Žďár nad Metují | 549 55 
+Žďárky | 549 37 
+Žernov | 552 03
+- 
+Albrechtice nad Orlicí | 517 22 
+Bačetín | 518 01 
+Bartošovice v Orlických horách | 517 61 
+Bílý Újezd | 518 01 
+Bohdašín | 518 01 
+Bolehošť | 517 31 
+Borohrádek | 517 24 
+Borovnice | 517 41 
+Bystré | 518 01 
+Byzhradec | 518 01 
+Častolovice | 517 50 
+Čermná nad Orlicí | 517 25 
+Černíkovice | 517 04 
+České Meziříčí | 517 71 
+Čestice | 517 41 
+Deštné v Orlických horách | 517 91 
+Dobré | 517 93 
+Dobruška | 518 01 
+Dobřany | 518 01 
+Doudleby nad Orlicí | 517 42 
+Hřibiny-Ledská | 517 41 
+Chleny | 517 45 
+Chlístov | 518 01 
+Jahodov | 516 01 
+Janov | 518 01 
+Javornice | 517 11 
+Kostelec nad Orlicí | 517 41 
+Kostelecké Horky | 517 41 
+Kounov | 517 92 
+Králova Lhota | 517 71 
+Krchleby | 517 41 
+Kvasiny | 517 02 
+Lhoty u Potštejna | 517 41 
+Libel | 517 41 
+Liberk | 517 12 
+Lično | 517 35 
+Lípa nad Orlicí | 517 21 
+Lukavice | 516 03 
+Lupenice | 517 41 
+Mokré | 517 71 
+Nová Ves | 517 21 
+Očelice | 517 71 
+Ohnišov | 517 84 
+Olešnice | 517 36 
+Olešnice v Orlických horách | 517 83 
+Opočno | 517 73 
+Orlické Záhoří | 517 64 
+Osečnice | 517 03 
+Pěčín | 517 57 
+Podbřezí | 518 03 
+Pohoří | 518 01 
+Polom | 517 41 
+Potštejn | 517 43 
+Proruby | 517 41 
+Přepychy | 517 32 
+Rohenice | 517 71 
+Rokytnice v Orlických horách | 517 61 
+Rybná nad Zdobnicí | 517 55 
+Rychnov nad Kněžnou | 516 01 
+Říčky v Orlických horách | 517 61 
+Sedloňov | 517 91 
+Semechnice | 518 01 
+Skuhrov nad Bělou | 517 03 
+Slatina nad Zdobnicí | 517 56 
+Sněžné | 518 01 
+Solnice | 517 01 
+Svídnice | 517 41 
+Synkov-Slemeno | 516 01 
+Trnov | 517 33 
+Třebešov | 516 01 
+Tutleky | 517 41 
+Týniště nad Orlicí | 517 21 
+Val | 518 01 
+Vamberk | 517 54 
+Voděrady | 517 34 
+Vrbice | 517 41 
+Záměl | 517 43 
+Zdelov | 517 21 
+Zdobnice | 516 01 
+Žďár nad Orlicí | 517 23
+- 
+Batňovice | 542 37 
+Bernartice | 542 04 
+Bílá Třemešná | 544 72 
+Bílé Poličany | 544 52 
+Borovnice | 544 77 
+Borovnička | 544 75 
+Čermná | 543 77 
+Černý Důl | 543 44 
+Dolní Branná | 543 62 
+Dolní Brusnice | 544 72 
+Dolní Dvůr | 543 42 
+Dolní Kalná | 543 74 
+Dolní Lánov | 543 41 
+Dolní Olešnice | 543 75 
+Doubravice | 544 51 
+Dubenec | 544 55 
+Dvůr Králové nad Labem | 544 01 
+Hajnice | 544 66 
+Havlovice | 542 38 
+Horní Brusnice | 544 74 
+Horní Kalná | 543 71 
+Horní Maršov | 542 26 
+Horní Olešnice | 543 71 
+Hostinné | 543 71 
+Hřibojedy | 544 01 
+Chotěvice | 543 76 
+Choustníkovo Hradiště | 544 42 
+Chvaleč | 542 11 
+Janské Lázně | 542 25 
+Jívka | 542 13 
+Klášterská Lhota | 543 71 
+Kocbeře | 544 64 
+Kohoutov | 544 01 
+Královec | 542 03 
+Kuks | 544 43 
+Kunčice nad Labem | 543 61 
+Lampertice | 541 01 
+Lánov | 543 41 
+Lanžov | 544 01 
+Libňatov | 542 36 
+Libotov | 544 01 
+Litíč | 544 01 
+Malá Úpa | 542 27 
+Malé Svatoňovice | 542 34 
+Maršov u Úpice | 542 32 
+Mladé Buky | 542 23 
+Mostek | 544 75 
+Nemojov | 544 61 
+Pec pod Sněžkou | 542 21 
+Pilníkov | 542 42 
+Prosečné | 543 73 
+Radvanice | 542 12 
+Rtyně v Podkrkonoší | 542 33 
+Rudník | 543 72 
+Stanovice | 544 01 
+Staré Buky | 541 01 
+Strážné | 543 52 
+Suchovršice | 542 32 
+Svoboda nad Úpou | 542 24 
+Špindlerův Mlýn | 543 51 
+Trotina | 544 01 
+Trutnov | 541 01 
+Třebihošť | 544 01 
+Úpice | 542 32 
+Velké Svatoňovice | 542 35 
+Velký Vřešťov | 544 54 
+Vilantice | 544 01 
+Vítězná | 544 62 
+Vlčice | 541 01 
+Vlčkovice v Podkrkonoší | 544 01 
+Vrchlabí | 543 01 
+Zábřezí-Řečice | 544 01 
+Zdobín | 544 01 
+Zlatá Olešnice | 541 01 
+Žacléř | 542 01
+- 
+Běstvina | 538 45 
+Biskupice | 538 43 
+Bítovany | 538 51 
+Bojanov | 538 26 
+Bor u Skutče | 539 44 
+Bořice | 538 62 
+Bousov | 538 43 
+Bylany | 538 01 
+Ctětín | 538 25 
+Čankovice | 538 62 
+České Lhotice | 538 25 
+Dědová | 539 01 
+Dolní Bezděkov | 538 62 
+Dřenice | 537 01 
+Dvakačovice | 538 62 
+Hamry | 539 01 
+Heřmanův Městec | 538 03 
+Hlinsko | 539 01 
+Hluboká | 539 73 
+Hodonín | 538 25 
+Holetín | 539 71 
+Honbice | 538 62 
+Horka | 538 51 
+Horní Bradlo | 539 53 
+Hošťalovice | 538 03 
+Hrochův Týnec | 538 62 
+Hroubovice | 538 54 
+Chrast | 538 51 
+Chroustovice | 538 63 
+Chrudim | 537 01 
+Jeníkov | 539 01 
+Jenišovice | 538 64 
+Kameničky | 539 41 
+Kladno | 539 01 
+Klešice | 538 03 
+Kněžice | 538 43 
+Kočí | 538 61 
+Kostelec u Heřmanova Městce | 538 03 
+Krásné | 538 25 
+Krouna | 539 43 
+Křižanovice | 538 21 
+Lány | 537 01 
+Leštinka | 539 73 
+Libkov | 538 25 
+Liboměřice | 538 21 
+Licibořice | 538 23 
+Lipovec | 538 43 
+Lozice | 538 54 
+Lukavice | 538 21 
+Luže | 538 54 
+Míčov-Sušice | 538 03 
+Miřetice | 539 55 
+Mladoňovice | 538 21 
+Morašice | 538 02 
+Mrákotín | 539 01 
+Nabočany | 538 62 
+Načešice | 538 03 
+Nasavrky | 538 25 
+Orel | 538 21 
+Ostrov | 538 63 
+Otradov | 539 43 
+Perálec | 539 44 
+Podhořany u Ronova | 538 41 
+Pokřikov | 539 01 
+Prachovice | 538 04 
+Proseč | 539 44 
+Prosetín | 539 76 
+Předhradí | 539 74 
+Přestavlky | 538 62 
+Rabštejnská Lhota | 537 01 
+Raná | 539 72 
+Ronov nad Doubravou | 538 42 
+Rosice | 538 34 
+Rozhovice | 538 03 
+Řestoky | 538 51 
+Seč | 538 07 
+Skuteč | 539 73 
+Slatiňany | 538 21 
+Smrček | 538 51 
+Sobětuchy | 537 01 
+Stolany | 538 03 
+Střemošice | 538 54 
+Studnice | 539 01 
+Svídnice | 538 24 
+Svratouch | 539 42 
+Tisovec | 539 73 
+Trhová Kamenice | 539 52 
+Trojovice | 538 33 
+Třemošnice | 538 43 
+Třibřichy | 537 01 
+Tuněchody | 537 01 
+Úherčice | 538 03 
+Úhřetice | 538 32 
+Vápenný Podol | 538 03 
+Včelákov | 539 57 
+Vejvanovice | 538 62 
+Vítanov | 539 01 
+Vojtěchov | 539 01 
+Vortová | 539 61 
+Vrbatův Kostelec | 539 56 
+Všeradov | 539 01 
+Vysočina | 539 01 
+Vyžice | 538 03 
+Zaječice | 538 35 
+Zájezdec | 538 51 
+Zderaz | 539 44 
+Žlebské Chvalovice | 538 43 
+Žumberk | 538 36
+- 
+Barchov | 530 02 
+Bezděkov | 535 01 
+Borek | 534 01 
+Brloh | 535 01 
+Břehy | 535 01 
+Bukovina nad Labem | 533 52 
+Bukovina u Přelouče | 535 01 
+Bukovka | 533 41 
+Býšť | 533 22 
+Časy | 534 01 
+Čeperka | 533 45 
+Čepí | 533 32 
+Černá u Bohdanče | 533 41 
+Dašice | 533 03 
+Dolany | 533 45 
+Dolní Roveň | 533 71 
+Dolní Ředice | 533 75 
+Dříteč | 533 05 
+Dubany | 530 02 
+Hlavečník | 533 15 
+Holice | 534 01 
+Holotín | 535 01 
+Horní Jelení | 533 74 
+Horní Ředice | 533 75 
+Hrobice | 533 52 
+Choltice | 533 61 
+Choteč | 533 04 
+Chrtníky | 535 01 
+Chvaletice | 533 12 
+Chvojenec | 534 01 
+Chýšť | 533 16 
+Jankovice | 535 01 
+Jaroslav | 534 01 
+Jedousov | 535 01 
+Jeníkovice | 535 01 
+Jezbořice | 530 02 
+Kasalice | 533 41 
+Kladruby nad Labem | 533 12 
+Kojice | 533 12 
+Kostěnice | 530 02 
+Křičeň | 533 41 
+Kunětice | 533 04 
+Labské Chrčice | 281 26 
+Lány u Dašic | 530 02 
+Lázně Bohdaneč | 533 41 
+Libišany | 533 45 
+Lipoltice | 533 64 
+Litošice | 535 01 
+Malé Výkleky | 533 16 
+Mikulovice | 530 02 
+Mokošín | 535 01 
+Morašice | 535 01 
+Moravany | 533 72 
+Němčice | 533 52 
+Neratov | 533 41 
+Opatovice nad Labem | 533 45 
+Ostřešany | 530 02 
+Ostřetín | 534 01 
+Pardubice I | 530 02 
+Pardubice II | 530 09 
+Pardubice III | 530 12 
+Pardubice IV | 530 03 
+Pardubice V | 530 02 
+Pardubice VI | 530 06 
+Pardubice VII | 533 53 
+Pardubice VIII | 530 02 
+Plch | 533 45 
+Poběžovice u Holic | 534 01 
+Poběžovice u Přelouče | 535 01 
+Podůlšany | 533 45 
+Pravy | 533 41 
+Přelouč | 535 01 
+Přelovice | 533 41 
+Přepychy | 533 16 
+Ráby | 533 52 
+Rohovládova Bělá | 533 43 
+Rohoznice | 533 41 
+Rokytno | 533 04 
+Rybitví | 533 54 
+Řečany nad Labem | 533 13 
+Selmice | 535 01 
+Semín | 535 01 
+Sezemice | 533 04 
+Slepotice | 530 02 
+Sopřeč | 533 16 
+Sovolusky | 535 01 
+Spojil | 530 02 
+Srch | 533 52 
+Srnojedy | 530 02 
+Staré Hradiště | 533 52 
+Staré Jesenčany | 530 02 
+Staré Ždánice | 533 44 
+Starý Mateřov | 530 02 
+Stéblová | 533 45 
+Stojice | 535 01 
+Strašov | 533 16 
+Svinčany | 535 01 
+Svojšice | 533 62 
+Tetov | 533 16 
+Trnávka | 535 01 
+Trusnov | 534 01 
+Třebosice | 530 02 
+Turkovice | 533 63 
+Uhersko | 533 73 
+Úhřetická Lhota | 530 02 
+Újezd u Přelouče | 533 16 
+Újezd u Sezemic | 533 04 
+Urbanice | 535 01 
+Valy | 535 01 
+Vápno | 533 16 
+Veliny | 534 01 
+Veselí | 535 01 
+Vlčí Habřina | 533 41 
+Voleč | 533 41 
+Vysoké Chvojno | 533 21 
+Vyšehněvice | 533 41 
+Zdechovice | 533 11 
+Žáravice | 533 16 
+Živanice | 533 42
+- 
+Banín | 568 02 
+Bělá nad Svitavou | 569 05 
+Bělá u Jevíčka | 569 43 
+Benátky | 570 01 
+Bezděčí u Trnávky | 569 43 
+Biskupice | 569 43 
+Bohuňov | 569 04 
+Bohuňovice | 570 01 
+Borová | 569 82 
+Borušov | 571 01 
+Brněnec | 569 04 
+Březina | 569 23 
+Březinky | 569 43 
+Březiny | 572 01 
+Březová nad Svitavou | 569 02 
+Budislav | 569 65 
+Bystré | 569 92 
+Cerekvice nad Loučnou | 569 53 
+Čistá | 569 56 
+Desná | 570 01 
+Dětřichov | 568 02 
+Dětřichov u Moravské Třebové | 571 01 
+Dlouhá Loučka | 569 43 
+Dolní Újezd | 569 61 
+Gruna | 571 01 
+Hartinkov | 569 43 
+Hartmanice | 569 92 
+Horky | 570 01 
+Horní Újezd | 570 01 
+Hradec nad Svitavou | 569 01 
+Chmelík | 570 01 
+Chornice | 569 42 
+Chotěnov | 570 01 
+Chotovice | 570 01 
+Chrastavec | 569 04 
+Janov | 569 55 
+Janůvky | 569 43 
+Jaroměřice | 569 44 
+Jarošov | 569 66 
+Javorník | 568 02 
+Jedlová | 569 91 
+Jevíčko | 569 43 
+Kamenec u Poličky | 572 01 
+Kamenná Horka | 568 02 
+Karle | 568 02 
+Koclířov | 569 11 
+Korouhev | 569 93 
+Koruna | 563 01 
+Křenov | 569 22 
+Kukle | 568 02 
+Kunčina | 569 24 
+Květná | 572 01 
+Lavičné | 569 04 
+Linhartice | 571 01 
+Litomyšl | 570 01 
+Lubná | 569 63 
+Makov | 570 01 
+Malíkov | 571 01 
+Městečko Trnávka | 569 41 
+Mikuleč | 568 02 
+Mladějov na Moravě | 569 35 
+Morašice | 569 51 
+Moravská Třebová | 571 01 
+Nedvězí | 569 92 
+Němčice | 561 18 
+Nová Sídla | 570 01 
+Nová Ves u Jarošova | 570 01 
+Oldřiš | 569 82 
+Opatov | 569 12 
+Opatovec | 568 02 
+Osík | 569 67 
+Pohledy | 568 02 
+Polička | 572 01 
+Pomezí | 569 71 
+Poříčí u Litomyšle | 570 01 
+Příluka | 539 44 
+Pustá Kamenice | 569 82 
+Pustá Rybná | 572 01 
+Radiměř | 569 07 
+Radkov | 571 01 
+Rohozná | 569 72 
+Rozhraní | 569 03 
+Rozstání | 571 01 
+Rudná | 569 04 
+Rychnov na Moravě | 569 34 
+Řídký | 570 01 
+Sádek | 572 01 
+Sebranice | 569 62 
+Sedliště | 570 01 
+Sklené | 568 02 
+Slatina | 569 43 
+Sloupnice | 565 53 
+Staré Město | 569 32 
+Stašov | 572 01 
+Strakov | 570 01 
+Suchá Lhota | 570 01 
+Svitavy | 568 02 
+Svojanov | 569 73 
+Široký Důl | 572 01 
+Študlov | 569 04 
+Telecí | 569 94 
+Trpín | 569 74 
+Trstěnice | 569 57 
+Tržek | 570 01 
+Třebařov | 569 33 
+Újezdec | 570 01 
+Útěchov | 571 01 
+Vendolí | 569 14 
+Vidlatá Seč | 570 01 
+Víska u Jevíčka | 569 43 
+Vítějeves | 569 06 
+Vlčkov | 560 02 
+Vranová Lhota | 571 01 
+Vrážné | 569 43 
+Vysoká | 569 43 
+Želivsko | 569 04
+- 
+Albrechtice | 563 01 
+Anenská Studánka | 563 01 
+Běstovice | 565 01 
+Bošín | 565 01 
+Brandýs nad Orlicí | 561 12 
+Bučina | 566 01 
+Bystřec | 561 54 
+Cotkytle | 561 32 
+Čenkovice | 561 64 
+Červená Voda | 561 61 
+Česká Rybná | 561 85 
+Česká Třebová | 560 02 
+České Heřmanice | 565 52 
+České Libchavy | 561 14 
+České Petrovice | 564 01 
+Damníkov | 561 23 
+Dlouhá Třebová | 561 17 
+Dlouhoňovice | 564 01 
+Dobříkov | 566 01 
+Dolní Čermná | 561 53 
+Dolní Dobrouč | 561 02 
+Dolní Morava | 561 69 
+Džbánov | 566 01 
+Hejnice | 564 01 
+Helvíkovice | 564 01 
+Hnátnice | 561 01 
+Horní Čermná | 561 56 
+Horní Heřmanice | 561 33 
+Horní Třešňovec | 563 01 
+Hrádek | 562 01 
+Hrušová | 565 55 
+Choceň | 565 01 
+Jablonné nad Orlicí | 561 64 
+Jamné nad Orlicí | 561 65 
+Javorník | 566 01 
+Jehnědí | 562 01 
+Kameničná | 564 01 
+Klášterec nad Orlicí | 561 82 
+Koldín | 565 01 
+Kosořín | 565 01 
+Králíky | 788 33 
+Krasíkov | 563 01 
+Kunvald | 561 81 
+Lanškroun | 563 01 
+Leština | 539 44 
+Letohrad | 561 51 
+Libecina | 566 01 
+Libchavy | 561 16 
+Lichkov | 561 68 
+Líšnice | 561 84 
+Lubník | 563 01 
+Lukavice | 561 51 
+Luková | 561 23 
+Mistrovice | 561 64 
+Mladkov | 561 67 
+Mostek | 565 01 
+Nasavrky | 565 01 
+Nekoř | 561 63 
+Nové Hrady | 539 45 
+Orlické Podhůří | 562 01 
+Orličky | 561 55 
+Ostrov | 561 22 
+Oucmanice | 562 01 
+Pastviny | 564 01 
+Petrovice | 563 01 
+Písečná | 561 70 
+Plchovice | 565 01 
+Podlesí | 562 01 
+Přívrat | 560 02 
+Pustina | 566 01 
+Radhošť | 534 01 
+Rudoltice | 561 25 
+Rybník | 560 02 
+Řepníky | 538 65 
+Řetová | 561 41 
+Řetůvka | 561 41 
+Sázava | 563 01 
+Seč | 562 01 
+Semanín | 560 02 
+Skořenice | 565 01 
+Slatina | 566 01 
+Sobkovice | 561 64 
+Sopotnice | 561 15 
+Sruby | 565 44 
+Stradouň | 538 63 
+Strážná | 563 01 
+Studené | 561 64 
+Sudislav nad Orlicí | 562 01 
+Sudslava | 561 13 
+Svatý Jiří | 565 01 
+Šedivec | 564 01 
+Tatenice | 561 31 
+Těchonín | 561 66 
+Tisová | 566 01 
+Trpík | 563 01 
+Třebovice | 561 24 
+Týnišťko | 566 01 
+Újezd u Chocně | 565 01 
+Ústí nad Orlicí | 562 01 
+Velká Skrovnice | 562 01 
+Verměřovice | 561 52 
+Vinary | 538 63 
+Voděrady | 566 01 
+Vraclav | 565 42 
+Vračovice-Orlov | 566 01 
+Výprachtice | 561 34 
+Vysoké Mýto | 566 01 
+Zádolí | 566 01 
+Záchlumí | 561 86 
+Zálší | 565 01 
+Zámrsk | 565 43 
+Zářecká Lhota | 565 01 
+Žamberk | 564 01 
+Žampach | 564 01 
+Žichlínek | 563 01
+- 
+Bačkov | 582 91 
+Bartoušov | 580 01 
+Bělá | 584 01 
+Bezděkov | 583 01 
+Bojiště | 584 01 
+Boňkov | 582 55 
+Borek | 582 82 
+Břevnice | 580 01 
+Čachotín | 583 01 
+Čečkovice | 583 01 
+Česká Bělá | 582 61 
+Číhošť | 582 87 
+Dlouhá Ves | 582 22 
+Dolní Krupá | 582 71 
+Dolní Město | 582 33 
+Dolní Sokolovec | 583 01 
+Druhanov | 582 91 
+Golčův Jeníkov | 582 82 
+Habry | 582 81 
+Havlíčkova Borová | 582 23 
+Havlíčkův Brod | 580 01 
+Herálec | 582 55 
+Heřmanice | 582 82 
+Hněvkovice | 582 94 
+Horní Krupá | 580 01 
+Horní Paseka | 584 01 
+Hradec | 584 01 
+Hurtova Lhota | 580 01 
+Chotěboř | 583 01 
+Chrtníč | 582 82 
+Chřenovice | 584 01 
+Jedlá | 584 01 
+Jeřišno | 582 74 
+Jilem | 583 01 
+Jitkov | 583 01 
+Kámen | 582 42 
+Kamenná Lhota | 582 92 
+Klokočov | 583 01 
+Knyk | 580 01 
+Kochánov | 582 53 
+Kojetín | 580 01 
+Kouty | 584 01 
+Kozlov | 584 01 
+Kožlí | 582 93 
+Kraborovice | 582 82 
+Krásná Hora | 582 34 
+Krátká Ves | 582 22 
+Krucemburk | 582 66 
+Kunemil | 582 91 
+Květinov | 580 01 
+Kyjov | 580 01 
+Kynice | 584 01 
+Lány | 583 01 
+Ledeč nad Sázavou | 584 01 
+Leškovice | 582 82 
+Leština u Světlé | 582 86 
+Libice nad Doubravou | 582 77 
+Lípa | 582 57 
+Lipnice nad Sázavou | 582 32 
+Lučice | 582 35 
+Malčín | 582 91 
+Maleč | 582 76 
+Michalovice | 580 01 
+Modlíkov | 582 22 
+Nejepín | 583 01 
+Nová Ves u Chotěboře | 582 73 
+Nová Ves u Leštiny | 582 82 
+Nová Ves u Světlé | 582 91 
+Okrouhlice | 582 31 
+Okrouhlička | 582 53 
+Olešenka | 582 22 
+Olešná | 580 01 
+Ostrov | 584 01 
+Oudoleň | 582 24 
+Ovesná Lhota | 582 91 
+Pavlov | 584 01 
+Podmoklany | 582 64 
+Podmoky | 582 82 
+Pohled | 582 21 
+Pohleď | 582 91 
+Prosíčka | 584 01 
+Přibyslav | 582 22 
+Příseka | 582 91 
+Radostín | 580 01 
+Rozsochatec | 582 72 
+Rušinov | 583 01 
+Rybníček | 582 82 
+Sázavka | 582 44 
+Sedletín | 583 01 
+Skorkov | 582 53 
+Skryje | 582 82 
+Skuhrov | 582 41 
+Slavětín | 582 63 
+Slavíkov | 582 65 
+Slavníč | 582 55 
+Sloupno | 583 01 
+Služátky | 582 91 
+Sobíňov | 582 62 
+Stříbrné Hory | 582 22 
+Světlá nad Sázavou | 582 91 
+Šlapanov | 582 51 
+Štoky | 582 53 
+Tis | 582 43 
+Trpišovice | 584 01 
+Uhelná Příbram | 582 45 
+Úhořilka | 582 53 
+Úsobí | 582 54 
+Vepříkov | 583 01 
+Veselý Žďár | 580 01 
+Věž | 582 56 
+Věžnice | 582 52 
+Vilémov | 582 83 
+Vilémovice | 584 01 
+Víska | 583 01 
+Vlkanov | 582 91 
+Vysoká | 580 01 
+Zvěstovice | 582 82 
+Ždírec | 580 01 
+Ždírec nad Doubravou | 582 63 
+Žižkovo Pole | 582 22
+- 
+Arnolec | 588 27 
+Batelov | 588 51 
+Bílý Kámen | 588 41 
+Bítovčice | 588 22 
+Bohuslavice | 588 56 
+Borovná | 588 56 
+Boršov | 588 05 
+Brtnice | 588 32 
+Brtnička | 675 27 
+Brzkov | 588 13 
+Cejle | 588 51 
+Cerekvička-Rosice | 588 33 
+Černíč | 588 56 
+Čížov | 586 01 
+Dlouhá Brtnice | 588 34 
+Dobronín | 588 12 
+Dobroutov | 588 13 
+Dolní Cerekev | 588 45 
+Dolní Vilímeč | 588 56 
+Doupě | 588 56 
+Dudín | 588 05 
+Dušejov | 588 05 
+Dvorce | 588 51 
+Dyjice | 588 56 
+Hladov | 588 33 
+Hodice | 589 01 
+Hojkov | 588 05 
+Horní Dubenky | 588 52 
+Horní Myslová | 588 56 
+Hostětice | 588 56 
+Hrutov | 675 27 
+Hubenov | 588 05 
+Hybrálec | 586 01 
+Jamné | 588 27 
+Jersín | 588 25 
+Jezdovice | 589 01 
+Ježená | 588 41 
+Jihlava | 586 01 
+Jihlávka | 588 51 
+Jindřichovice | 675 26 
+Kalhov | 588 42 
+Kaliště | 588 51 
+Kamenice | 588 23 
+Kamenná | 588 13 
+Klatovec | 588 51 
+Kněžice | 675 29 
+Knínice | 588 56 
+Kostelec | 588 61 
+Kostelní Myslová | 588 56 
+Kozlov | 588 21 
+Krahulčí | 588 56 
+Krasonice | 588 64 
+Lhotka | 588 56 
+Luka nad Jihlavou | 588 22 
+Malý Beranov | 586 03 
+Markvartice | 588 56 
+Měšín | 586 01 
+Milíčov | 588 05 
+Mirošov | 588 05 
+Mrákotín | 588 54 
+Mysletice | 588 56 
+Mysliboř | 588 62 
+Nadějov | 588 27 
+Nevcehle | 588 62 
+Nová Říše | 588 65 
+Olšany | 588 56 
+Olší | 588 56 
+Opatov | 588 05 
+Ořechov | 588 62 
+Otín | 588 33 
+Panenská Rozsíčka | 589 01 
+Panské Dubenky | 378 53 
+Pavlov | 588 33 
+Plandry | 588 41 
+Polná | 588 13 
+Puklice | 588 31 
+Radkov | 588 56 
+Rančířov | 586 01 
+Rantířov | 588 41 
+Rohozná | 588 44 
+Rozseč | 588 66 
+Růžená | 589 01 
+Rybné | 588 27 
+Řásná | 588 56 
+Řídelov | 588 56 
+Sedlatice | 588 56 
+Sedlejov | 588 62 
+Smrčná | 588 01 
+Stáj | 588 27 
+Stará Říše | 588 67 
+Stonařov | 588 33 
+Strachoňovice | 588 56 
+Střítež | 588 11 
+Suchá | 588 33 
+Svojkovice | 588 56 
+Šimanov | 588 42 
+Švábov | 588 51 
+Telč | 588 56 
+Třešť | 589 01 
+Třeštice | 588 56 
+Urbanov | 588 62 
+Ústí | 588 42 
+Vanov | 588 56 
+Vanůvek | 588 56 
+Vápovice | 588 56 
+Velký Beranov | 588 21 
+Větrný Jeníkov | 588 42 
+Věžnice | 588 27 
+Věžnička | 588 13 
+Vílanec | 588 35 
+Volevčice | 588 56 
+Vyskytná nad Jihlavou | 588 41 
+Vysoké Studnice | 588 21 
+Vystrčenovice | 588 56 
+Záborná | 588 13 
+Zadní Vydří | 588 56 
+Zbilidy | 588 42 
+Zbinohy | 588 42 
+Zdeňkov | 588 56 
+Zhoř | 588 26 
+Zvolenovice | 588 56 
+Žatec | 588 62 
+Ždírec | 588 13
+- 
+Arneštovice | 394 21 
+Bácovice | 393 01 
+Bělá | 393 01 
+Bohdalín | 394 91 
+Bořetice | 394 21 
+Bořetín | 394 70 
+Božejov | 394 61 
+Bratřice | 395 01 
+Budíkov | 396 01 
+Buřenice | 394 24 
+Bystrá | 396 01 
+Cetoraz | 394 11 
+Čáslavsko | 394 26 
+Častrov | 394 63 
+Čejov | 396 01 
+Čelistná | 393 01 
+Černov | 393 01 
+Černovice | 394 94 
+Červená Řečice | 394 46 
+Čížkov | 393 01 
+Dehtáře | 393 01 
+Dobrá Voda | 394 02 
+Dobrá Voda u Pacova | 395 01 
+Dubovice | 393 01 
+Důl | 395 01 
+Eš | 394 13 
+Hojanovice | 396 01 
+Hojovice | 394 94 
+Horní Cerekev | 394 03 
+Horní Rápotice | 396 01 
+Horní Ves | 393 01 
+Hořepník | 394 21 
+Hořice | 396 01 
+Humpolec | 396 01 
+Chýstovice | 394 22 
+Chyšná | 394 22 
+Jankov | 393 01 
+Ježov | 396 01 
+Jiřice | 396 01 
+Kaliště | 394 51 
+Kámen | 394 13 
+Kamenice nad Lipou | 394 70 
+Kejžlice | 394 52 
+Koberovice | 394 59 
+Kojčice | 394 09 
+Komorovice | 396 01 
+Košetice | 394 22 
+Krasíkovice | 393 01 
+Křeč | 394 95 
+Křelovice | 394 45 
+Křešín | 394 24 
+Leskovice | 394 14 
+Lesná | 394 21 
+Lhota-Vlasenice | 394 70 
+Libkova Voda | 394 62 
+Lidmaň | 394 94 
+Litohošť | 394 14 
+Lukavec | 394 26 
+Martinice u Onšova | 394 22 
+Mezilesí | 395 01 
+Mezná | 393 01 
+Mladé Bříště | 394 43 
+Mnich | 394 92 
+Moraveč | 393 01 
+Mysletín | 396 01 
+Nová Buková | 393 01 
+Nová Cerekev | 394 15 
+Nový Rychnov | 394 04 
+Obrataň | 394 12 
+Olešná | 393 01 
+Ondřejov | 393 01 
+Onšov | 394 22 
+Pacov | 395 01 
+Pavlov | 393 01 
+Pelhřimov | 393 01 
+Píšť | 396 01 
+Počátky | 394 64 
+Polesí | 394 68 
+Pošná | 395 01 
+Proseč | 396 01 
+Proseč pod Křemešníkem | 393 01 
+Putimov | 393 01 
+Rodinov | 394 70 
+Rovná | 394 21 
+Rynárec | 394 01 
+Řečice | 396 01 
+Salačova Lhota | 395 01 
+Samšín | 395 01 
+Sedlice | 396 01 
+Senožaty | 394 56 
+Staré Bříště | 396 01 
+Stojčín | 394 68 
+Střítež | 393 01 
+Střítež pod Křemešníkem | 393 01 
+Svépravice | 393 01 
+Syrov | 396 01 
+Těchobuz | 395 01 
+Těmice | 394 96 
+Ústrašín | 393 01 
+Útěchovice | 394 21 
+Útěchovice pod Stražištěm | 394 22 
+Útěchovičky | 394 14 
+Včelnička | 394 70 
+Velká Chyška | 394 28 
+Velký Rybník | 393 01 
+Veselá | 394 70 
+Věžná | 395 01 
+Vojslavice | 396 01 
+Vokov | 393 01 
+Vyklantice | 394 27 
+Vyskytná | 394 05 
+Vysoká Lhota | 395 01 
+Vystrkov | 396 01 
+Zachotín | 393 01 
+Zajíčkov | 393 01 
+Zhořec | 395 01 
+Zlátenka | 395 01 
+Želiv | 394 44 
+Žirov | 393 01 
+Žirovnice | 394 68
+- 
+Babice | 675 44 
+Bačice | 675 55 
+Bačkovice | 675 32 
+Benetice | 675 06 
+Biskupice-Pulkov | 675 58 
+Blatnice | 675 51 
+Bohušice | 675 51 
+Bochovice | 675 05 
+Bransouze | 675 21 
+Březník | 675 74 
+Budišov | 675 03 
+Budkov | 675 42 
+Cidlina | 675 44 
+Čáslavice | 675 24 
+Častohostice | 676 02 
+Čechočovice | 675 22 
+Čechtín | 675 07 
+Červená Lhota | 675 07 
+Číhalín | 675 07 
+Číchov | 675 21 
+Čikov | 675 78 
+Číměř | 675 01 
+Dalešice | 675 54 
+Dědice | 675 41 
+Dešov | 675 33 
+Dolní Lažany | 675 51 
+Dolní Vilémovice | 675 52 
+Domamil | 675 43 
+Dukovany | 675 56 
+Hartvíkovice | 675 76 
+Heraltice | 675 21 
+Hluboké | 675 71 
+Hodov | 675 04 
+Horní Heřmanice | 675 05 
+Horní Smrčné | 675 07 
+Horní Újezd | 675 22 
+Horní Vilémovice | 675 07 
+Hornice | 675 32 
+Hrotovice | 675 55 
+Hroznatín | 675 05 
+Hvězdoňovice | 675 21 
+Chlístov | 675 22 
+Chlum | 675 07 
+Chotěbudice | 675 31 
+Jakubov u Moravských Budějovic | 675 44 
+Jaroměřice nad Rokytnou | 675 51 
+Jasenice | 675 71 
+Jemnice | 675 31 
+Jinošov | 675 71 
+Jiratice | 675 32 
+Kamenná | 675 03 
+Kdousov | 675 32 
+Kladeruby nad Oslavou | 675 75 
+Klučov | 675 52 
+Kojatice | 675 32 
+Kojatín | 675 03 
+Kojetice | 675 23 
+Komárovice | 675 26 
+Koněšín | 675 02 
+Kostníky | 675 32 
+Kouty | 675 08 
+Kozlany | 675 02 
+Kožichovice | 674 01 
+Krahulov | 675 21 
+Kralice nad Oslavou | 675 73 
+Kramolín | 675 77 
+Krhov | 675 55 
+Krokočín | 675 71 
+Kuroslepy | 675 75 
+Láz | 675 41 
+Lesná | 675 26 
+Lesní Jakubov | 675 73 
+Lesonice | 675 44 
+Lesůňky | 675 51 
+Lhánice | 675 75 
+Lhotice | 675 31 
+Lipník | 675 52 
+Litohoř | 675 44 
+Litovany | 675 57 
+Lomy | 675 31 
+Loukovice | 675 22 
+Lovčovice | 675 31 
+Lukov | 676 02 
+Markvartice | 675 22 
+Martínkov | 675 44 
+Mastník | 675 22 
+Menhartice | 675 31 
+Meziříčko | 675 26 
+Mikulovice | 675 22 
+Mladoňovice | 675 32 
+Mohelno | 675 75 
+Moravské Budějovice | 676 02 
+Myslibořice | 675 60 
+Naloučany | 675 71 
+Náměšť nad Oslavou | 675 71 
+Nárameč | 675 03 
+Nimpšov | 675 41 
+Nová Ves | 675 21 
+Nové Syrovice | 675 41 
+Nový Telečkov | 675 05 
+Ocmanice | 675 71 
+Odunec | 675 55 
+Okarec | 675 02 
+Okřešice | 674 01 
+Okříšky | 675 21 
+Opatov | 675 28 
+Oponešice | 675 32 
+Ostašov | 675 52 
+Pálovice | 675 31 
+Petrovice | 675 21 
+Petrůvky | 675 52 
+Pokojovice | 675 21 
+Police | 675 34 
+Popůvky | 675 75 
+Pozďatín | 675 03 
+Přeckov | 675 05 
+Předín | 675 27 
+Přešovice | 675 57 
+Přibyslavice | 675 21 
+Příštpo | 675 51 
+Pucov | 675 71 
+Pyšel | 675 71 
+Rácovice | 675 32 
+Račice | 675 55 
+Radkovice u Budče | 380 01 
+Radkovice u Hrotovic | 675 59 
+Radonín | 675 21 
+Radošov | 675 07 
+Radotice | 675 32 
+Rapotice | 675 73 
+Rohy | 675 05 
+Rokytnice nad Rokytnou | 675 25 
+Rouchovany | 675 57 
+Rudíkov | 675 05 
+Římov | 675 22 
+Sedlec | 675 71 
+Slavětice | 675 55 
+Slavičky | 675 01 
+Slavíkovice | 675 31 
+Smrk | 675 01 
+Stařeč | 675 22 
+Stropešín | 675 55 
+Střítež | 674 01 
+Studenec | 675 02 
+Studnice | 675 03 
+Sudice | 675 73 
+Svatoslav | 675 07 
+Šebkovice | 675 45 
+Štěměchy | 675 27 
+Štěpkov | 675 26 
+Trnava | 674 01 
+Třebelovice | 675 32 
+Třebenice | 675 52 
+Třebíč | 674 01 
+Třesov | 675 02 
+Valdíkov | 675 03 
+Valeč | 675 53 
+Vícenice | 676 02 
+Vícenice u Náměště nad Oslavou | 675 71 
+Vladislav | 675 01 
+Vlčatín | 675 05 
+Výčapy | 674 01 
+Zahrádka | 675 71 
+Zárubice | 675 52 
+Zašovice | 675 21 
+Zvěrkovice | 676 02 
+Želetava | 675 26
+- 
+Baliny | 594 01 
+Blažkov | 592 51 
+Blízkov | 594 42 
+Bobrová | 592 55 
+Bobrůvka | 592 55 
+Bohdalec | 592 55 
+Bohdalov | 592 13 
+Bohuňov | 593 01 
+Borovnice | 592 42 
+Bory | 594 61 
+Březejc | 594 01 
+Březí | 594 53 
+Březí nad Oslavou | 592 14 
+Březské | 594 53 
+Budeč | 592 14 
+Bukov | 592 51 
+Bystřice nad Pernštejnem | 593 01 
+Býšovec | 593 01 
+Cikháj | 591 02 
+Černá | 594 42 
+Dalečín | 592 41 
+Daňkovice | 592 03 
+Dlouhé | 592 55 
+Dobrá Voda | 594 51 
+Dolní Heřmanice | 594 01 
+Dolní Libochová | 592 53 
+Dolní Rožínka | 592 51 
+Fryšava pod Žákovou horou | 592 04 
+Hamry nad Sázavou | 591 01 
+Herálec | 592 01 
+Heřmanov | 594 58 
+Hodíškov | 591 01 
+Horní Libochová | 594 51 
+Horní Radslavice | 594 01 
+Horní Rožínka | 592 51 
+Chlum-Korouhvice | 592 65 
+Chlumek | 594 42 
+Chlumětín | 592 02 
+Jabloňov | 594 01 
+Jámy | 592 32 
+Javorek | 592 03 
+Jimramov | 592 42 
+Jívoví | 594 51 
+Kadolec | 594 51 
+Kadov | 592 03 
+Karlov | 591 01 
+Kněževes | 594 44 
+Koroužné | 593 01 
+Kotlasy | 592 14 
+Kozlov | 594 51 
+Krásné | 592 03 
+Krásněves | 594 44 
+Křídla | 592 31 
+Křižánky | 592 02 
+Křižanov | 594 51 
+Křoví | 594 54 
+Kuklík | 592 03 
+Kundratice | 594 51 
+Kyjov | 592 14 
+Lavičky | 594 01 
+Lhotka | 591 01 
+Lísek | 592 45 
+Líšná | 592 03 
+Malá Losenice | 592 11 
+Martinice | 594 01 
+Matějov | 592 12 
+Měřín | 594 42 
+Meziříčko | 588 27 
+Milasín | 592 51 
+Milešín | 594 51 
+Mirošov | 592 55 
+Moravec | 592 54 
+Moravecké Pavlovice | 592 62 
+Netín | 594 44 
+Nížkov | 592 12 
+Nová Ves | 594 51 
+Nová Ves u Nového Města na Moravě | 592 31 
+Nové Dvory | 592 12 
+Nové Město na Moravě | 592 31 
+Nové Sady | 595 01 
+Nové Veselí | 592 14 
+Nový Jimramov | 592 42 
+Nyklovice | 592 65 
+Obyčtov | 591 01 
+Ořechov | 594 52 
+Oslavice | 594 01 
+Oslavička | 675 05 
+Osová Bítýška | 594 53 
+Osové | 594 01 
+Ostrov nad Oslavou | 594 45 
+Otín | 594 01 
+Pavlínov | 594 01 
+Pavlov | 594 44 
+Petráveč | 594 01 
+Pikárec | 592 53 
+Písečné | 593 01 
+Počítky | 591 01 
+Poděšín | 592 12 
+Podolí | 592 55 
+Pokojov | 592 14 
+Polnička | 591 02 
+Prosetín | 592 64 
+Račice | 592 55 
+Račín | 592 11 
+Radenice | 591 01 
+Radešín | 592 55 
+Radešínská Svratka | 592 33 
+Radkov | 592 53 
+Radňoves | 594 51 
+Radňovice | 592 31 
+Radostín | 591 01 
+Radostín nad Oslavou | 594 44 
+Rodkov | 592 51 
+Rosička | 592 12 
+Rousměrov | 591 01 
+Rovečné | 592 65 
+Rozseč | 594 51 
+Rozsochy | 592 57 
+Rožná | 592 52 
+Ruda | 594 01 
+Rudolec | 592 14 
+Řečice | 592 33 
+Sázava | 592 11 
+Sazomín | 591 01 
+Sejřek | 592 62 
+Sirákov | 592 12 
+Sklené | 591 01 
+Sklené nad Oslavou | 591 01 
+Skorotice | 592 62 
+Skřinářov | 594 53 
+Sněžné | 592 03 
+Spělkov | 592 03 
+Strachujov | 592 42 
+Stránecká Zhoř | 594 42 
+Strážek | 592 53 
+Střítež | 592 51 
+Sulkovec | 592 65 
+Světnov | 591 02 
+Sviny | 594 51 
+Svratka | 592 02 
+Škrdlovice | 591 01 
+Štěpánov nad Svratkou | 592 63 
+Tasov | 675 79 
+Tři Studně | 592 04 
+Ubušínek | 592 65 
+Uhřínov | 594 41 
+Ujčov | 592 62 
+Újezd | 592 12 
+Unčín | 592 42 
+Vatín | 591 01 
+Věcov | 592 44 
+Věchnov | 593 01 
+Velká Bíteš | 595 01 
+Velká Losenice | 592 11 
+Velké Janovice | 593 01 
+Velké Meziříčí | 594 01 
+Velké Tresné | 592 65 
+Vepřová | 592 11 
+Věstín | 592 65 
+Věžná | 593 01 
+Vídeň | 594 01 
+Vidonín | 594 57 
+Vír | 592 66 
+Vlachovice | 592 31 
+Vlkov | 594 53 
+Vojnův Městec | 591 01 
+Vysoké | 591 01 
+Záblatí | 594 53 
+Zadní Zhořec | 594 44 
+Znětínek | 594 44 
+Zubří | 592 31 
+Zvole | 592 56 
+Ždánice | 593 01 
+Žďár nad Sázavou | 591 01
+- 
+Adamov | 679 04 
+Bedřichov | 679 71 
+Benešov | 679 53 
+Blansko | 678 01 
+Borotín | 679 37 
+Bořitov | 679 21 
+Boskovice | 680 01 
+Brťov-Jeneč | 679 21 
+Bukovina | 679 05 
+Bukovinka | 679 05 
+Býkovice | 679 71 
+Cetkovice | 679 38 
+Crhov | 679 74 
+Černá Hora | 679 21 
+Černovice | 679 75 
+Deštná | 679 61 
+Dlouhá Lhota | 679 71 
+Doubravice nad Svitavou | 679 11 
+Drnovice | 679 76 
+Habrůvka | 679 05 
+Hodonín | 679 71 
+Holštejn | 679 13 
+Horní Poříčí | 679 62 
+Horní Smržov | 679 61 
+Chrudichromy | 680 01 
+Jabloňany | 679 01 
+Jedovnice | 679 06 
+Kněževes | 679 74 
+Knínice u Boskovic | 679 34 
+Kořenec | 680 01 
+Kotvrdovice | 679 07 
+Kozárov | 679 71 
+Krasová | 679 06 
+Krhov | 679 01 
+Křetín | 679 62 
+Křtěnov | 679 74 
+Křtiny | 679 05 
+Kulířov | 679 06 
+Kunčina Ves | 679 71 
+Kunice | 679 71 
+Kuničky | 679 02 
+Kunštát | 679 72 
+Lazinov | 679 62 
+Lažany | 679 22 
+Letovice | 679 61 
+Lhota Rapotina | 679 01 
+Lhota u Lysic | 679 71 
+Lhota u Olešnice | 679 74 
+Lipovec | 679 15 
+Lipůvka | 679 22 
+Louka | 679 74 
+Lubě | 679 21 
+Ludíkov | 680 01 
+Lysice | 679 71 
+Makov | 679 72 
+Malá Lhota | 679 21 
+Malá Roudka | 679 63 
+Míchov | 679 61 
+Milonice | 679 22 
+Němčice | 679 51 
+Nýrov | 679 72 
+Obora | 679 01 
+Okrouhlá | 680 01 
+Olešnice | 679 74 
+Olomučany | 679 03 
+Ostrov u Macochy | 679 14 
+Pamětice | 679 61 
+Petrov | 679 62 
+Petrovice | 679 02 
+Prostřední Poříčí | 679 62 
+Rájec-Jestřebí | 679 02 
+Ráječko | 679 02 
+Roubanina | 679 61 
+Rozseč nad Kunštátem | 679 73 
+Rozsíčka | 679 74 
+Rudice | 679 06 
+Sebranice | 679 31 
+Senetářov | 679 06 
+Skalice nad Svitavou | 679 01 
+Skrchov | 679 65 
+Sloup | 679 13 
+Spešov | 679 02 
+Stvolová | 679 61 
+Sudice | 680 01 
+Suchý | 680 01 
+Sulíkov | 679 62 
+Světlá | 679 63 
+Svinošice | 679 22 
+Svitávka | 679 32 
+Šebetov | 679 35 
+Šebrov-Kateřina | 679 22 
+Šošůvka | 679 13 
+Štěchov | 679 71 
+Tasovice | 679 71 
+Uhřice | 679 63 
+Újezd u Boskovic | 680 01 
+Újezd u Černé Hory | 679 22 
+Úsobrno | 679 39 
+Ústup | 679 74 
+Valchov | 680 01 
+Vanovice | 679 36 
+Vavřinec | 679 13 
+Vážany | 680 01 
+Velenov | 680 01 
+Velké Opatovice | 679 63 
+Vilémovice | 679 06 
+Vísky | 679 33 
+Voděrady | 679 01 
+Vranová | 679 62 
+Vysočany | 679 13 
+Závist | 679 22 
+Zbraslavec | 679 72 
+Žďár | 679 02 
+Žďárná | 679 52 
+Žernovník | 679 21 
+Žerůtky | 679 71
+- 
+Bavory | 692 01 
+Boleradice | 691 12 
+Borkovany | 691 75 
+Bořetice | 691 08 
+Brod nad Dyjí | 692 01 
+Brumovice | 691 11 
+Břeclav | 690 02 
+Březí | 691 81 
+Bulhary | 691 89 
+Diváky | 691 71 
+Dobré Pole | 691 81 
+Dolní Dunajovice | 691 85 
+Dolní Věstonice | 691 29 
+Drnholec | 691 83 
+Hlohovec | 691 43 
+Horní Bojanovice | 693 01 
+Horní Věstonice | 692 01 
+Hrušky | 691 56 
+Hustopeče | 693 01 
+Jevišovka | 691 83 
+Kašnice | 691 72 
+Klentnice | 692 01 
+Klobouky u Brna | 691 72 
+Kobylí | 691 10 
+Kostice | 691 52 
+Krumvíř | 691 73 
+Křepice | 691 65 
+Kurdějov | 693 01 
+Ladná | 691 46 
+Lanžhot | 691 51 
+Lednice | 691 44 
+Mikulov | 692 01 
+Milovice | 691 88 
+Moravská Nová Ves | 691 55 
+Moravský Žižkov | 691 01 
+Morkůvky | 691 72 
+Němčičky | 691 07 
+Nikolčice | 693 01 
+Novosedly | 691 82 
+Nový Přerov | 691 82 
+Pavlov | 692 01 
+Perná | 691 86 
+Podivín | 691 45 
+Popice | 691 27 
+Pouzdřany | 691 26 
+Přítluky | 691 04 
+Rakvice | 691 03 
+Sedlec | 691 21 
+Starovice | 693 01 
+Starovičky | 693 01 
+Strachotín | 692 01 
+Šakvice | 691 67 
+Šitbořice | 691 76 
+Tvrdonice | 691 53 
+Týnec | 691 54 
+Uherčice | 691 62 
+Valtice | 691 42 
+Velké Bílovice | 691 02 
+Velké Hostěrádky | 691 74 
+Velké Němčice | 691 63 
+Velké Pavlovice | 691 06 
+Vrbice | 691 09 
+Zaječí | 69105
+- 298 
+Brno-Bohunice | 625 00 
+Brno-Bosonohy | 642 00 
+Brno-Bystrc | 635 00 
+Brno-Černovice | 618 00 
+Brno-Chrlice | 643 00 
+Brno-Ivanovice | 621 00 
+Brno-Jehnice | 621 00 
+Brno-jih | 617 00 
+Brno-Jundrov | 637 00 
+Brno-Kníničky | 635 00 
+Brno-Kohoutovice | 623 00 
+Brno-Komín | 624 00 
+Brno-Královo Pole | 612 00 
+Brno-Líšeň | 628 00 
+Brno-Maloměřice a Obřany | 614 00 
+Brno-Medlánky | 621 00 
+Brno-Nový Lískovec | 634 00 
+Brno-Ořešín | 621 00 
+Brno-Řečkovice a Mokrá Hora | 621 00 
+Brno-sever | 614 00 
+Brno-Slatina | 627 00 
+Brno-Starý Lískovec | 625 00 
+Brno-střed | 602 00 
+Brno-Tuřany | 620 00 
+Brno-Útěchov | 644 00 
+Brno-Vinohrady | 628 00 
+Brno-Žabovřesky | 616 00 
+Brno-Žebětín | 641 00 
+Brno-Židenice | 615 00
+- 
+Babice nad Svitavou | 664 01 
+Babice u Rosic | 664 84 
+Běleč | 679 23 
+Bílovice nad Svitavou | 664 01 
+Biskoupky | 664 91 
+Blažovice | 664 08 
+Blučina | 664 56 
+Borač | 592 61 
+Borovník | 594 51 
+Braníškov | 664 71 
+Branišovice | 671 77 
+Bratčice | 664 67 
+Brumov | 679 23 
+Březina (dříve okres Blansko) | 679 05 
+Březina (dříve okres Tišnov) | 666 01 
+Bukovice | 679 23 
+Cvrčovice | 691 23 
+Čebín | 664 23 
+Černvír | 592 62 
+Česká | 664 31 
+Čučice | 664 91 
+Deblín | 664 75 
+Dolní Kounice | 664 64 
+Dolní Loučky | 594 55 
+Domašov | 664 83 
+Doubravník | 592 61 
+Drahonín | 592 61 
+Drásov | 664 24 
+Hajany | 664 43 
+Heroltice | 666 01 
+Hlína | 664 91 
+Hluboké Dvory | 679 23 
+Holasice | 664 61 
+Horní Loučky | 594 55 
+Hostěnice | 664 04 
+Hradčany | 666 03 
+Hrušovany u Brna | 664 62 
+Hvozdec | 664 71 
+Chudčice | 664 71 
+Ivaň | 691 23 
+Ivančice | 664 91 
+Javůrek | 664 83 
+Jinačovice | 664 34 
+Jiříkovice | 664 51 
+Kaly | 594 55 
+Kanice | 664 01 
+Katov | 594 55 
+Ketkovice | 664 91 
+Kobylnice | 664 51 
+Kovalovice | 664 06 
+Kratochvilka | 664 91 
+Křižínkov | 594 53 
+Kupařovice | 664 64 
+Kuřim | 664 34 
+Kuřimská Nová Ves | 594 55 
+Kuřimské Jestřabí | 594 55 
+Lažánky | 664 71 
+Ledce | 664 62 
+Lelekovice | 664 31 
+Lesní Hluboké | 664 83 
+Litostrov | 664 83 
+Loděnice | 671 75 
+Lomnice | 679 23 
+Lomnička | 666 01 
+Lubné | 594 51 
+Lukovany | 664 84 
+Malešovice | 664 65 
+Malhostovice | 666 03 
+Maršov | 664 71 
+Medlov | 664 66 
+Mělčany | 664 64 
+Měnín | 664 57 
+Modřice | 664 42 
+Mokrá-Horákov | 664 04 
+Moravany | 664 48 
+Moravské Bránice | 664 64 
+Moravské Knínice | 664 34 
+Moutnice | 664 55 
+Nebovidy | 664 48 
+Nedvědice | 592 62 
+Nelepeč-Žernůvka | 666 01 
+Němčičky | 664 66 
+Neslovice | 664 91 
+Nesvačilka | 664 54 
+Níhov | 594 55 
+Nosislav | 691 64 
+Nová Ves | 664 91 
+Nové Bránice | 664 64 
+Odrovice | 664 64 
+Ochoz u Brna | 664 02 
+Ochoz u Tišnova | 679 23 
+Olší | 592 61 
+Omice | 664 41 
+Opatovice | 664 61 
+Ořechov | 664 44 
+Osiky | 679 23 
+Oslavany | 664 12 
+Ostopovice | 664 49 
+Ostrovačice | 664 81 
+Otmarov | 664 57 
+Pasohlávky | 691 22 
+Pernštejnské Jestřabí | 592 61 
+Podolí | 664 03 
+Pohořelice | 691 23 
+Ponětovice | 664 51 
+Popovice | 664 61 
+Popůvky | 664 41 
+Pozořice | 664 07 
+Prace | 664 58 
+Pravlov | 664 64 
+Prštice | 664 46 
+Předklášteří | 666 02 
+Přibice | 691 24 
+Příbram na Moravě | 664 84 
+Přibyslavice | 664 83 
+Přísnotice | 664 63 
+Radostice | 664 46 
+Rajhrad | 664 61 
+Rajhradice | 664 61 
+Rašov | 679 23 
+Rebešovice | 664 61 
+Rohozec | 679 23 
+Rojetín | 594 51 
+Rosice | 665 01 
+Rozdrojovice | 664 34 
+Rudka | 664 83 
+Řícmanice | 664 01 
+Říčany | 664 82 
+Říčky | 664 83 
+Řikonín | 594 51 
+Senorady | 675 75 
+Sentice | 666 03 
+Silůvky | 664 46 
+Sivice | 664 07 
+Skalička | 666 03 
+Skryje | 594 55 
+Sobotovice | 664 67 
+Sokolnice | 664 52 
+Stanoviště | 664 84 
+Strhaře | 679 23 
+Střelice | 664 47 
+Svatoslav | 666 01 
+Synalov | 679 23 
+Syrovice | 664 67 
+Šerkovice | 666 01 
+Šlapanice | 664 51 
+Štěpánovice | 666 02 
+Šumice | 671 75 
+Telnice | 664 59 
+Těšany | 664 54 
+Tetčice | 664 17 
+Tišnov | 666 01 
+Tišnovská Nová Ves | 594 51 
+Trboušany | 664 64 
+Troskotovice | 671 78 
+Troubsko | 664 41 
+Tvarožná | 664 05 
+Újezd u Brna | 664 53 
+Újezd u Rosic | 664 84 
+Újezd u Tišnova | 594 55 
+Unín | 679 24 
+Unkovice | 664 63 
+Úsuší | 666 01 
+Velatice | 664 05 
+Veverská Bítýška | 664 71 
+Veverské Knínice | 664 81 
+Viničné Šumice | 664 06 
+Vlasatice | 691 30 
+Vohančice | 666 01 
+Vojkovice | 667 01 
+Vranov | 664 32 
+Vranovice | 691 25 
+Vratislávka | 594 51 
+Všechovice | 666 03 
+Vysoké Popovice | 664 84 
+Zakřany | 664 84 
+Zálesná Zhoř | 664 84 
+Zastávka | 664 84 
+Zbraslav | 664 84 
+Zbýšov | 664 11 
+Zhoř | 679 23 
+Žabčice | 664 63 
+Žatčany | 664 53 
+Žďárec | 594 56 
+Želešice | 664 43 
+Železné | 666 01 
+Židlochovice | 667 01
+- 
+Archlebov | 696 33 
+Blatnice pod Svatým Antonínkem | 696 71 
+Blatnička | 696 71 
+Bukovany | 696 31 
+Bzenec | 696 81 
+Čejč | 696 14 
+Čejkovice | 696 15 
+Čeložnice | 696 51 
+Dambořice | 696 35 
+Dolní Bojanovice | 696 17 
+Domanín | 696 83 
+Dražůvky | 696 33 
+Dubňany | 696 03 
+Hodonín | 695 01 
+Hovorany | 696 12 
+Hroznová Lhota | 696 63 
+Hrubá Vrbka | 696 73 
+Hýsly | 696 50 
+Javorník | 696 74 
+Ježov | 696 48 
+Josefov | 696 21 
+Karlín | 696 14 
+Kelčany | 696 49 
+Kněždub | 696 64 
+Kostelec | 696 51 
+Kozojídky | 696 63 
+Kuželov | 696 73 
+Kyjov | 697 01 
+Labuty | 696 48 
+Lipov | 696 72 
+Louka | 696 76 
+Lovčice | 696 39 
+Lužice | 696 18 
+Malá Vrbka | 696 73 
+Mikulčice | 696 19 
+Milotice | 696 05 
+Moravany | 696 50 
+Moravský Písek | 696 85 
+Mouchnice | 683 33 
+Mutěnice | 696 11 
+Násedlovice | 696 36 
+Nechvalín | 696 31 
+Nenkovice | 696 37 
+Nová Lhota | 696 74 
+Nový Poddvorov | 696 16 
+Ostrovánky | 696 31 
+Petrov | 696 65 
+Prušánky | 696 21 
+Radějov | 696 67 
+Ratíškovice | 696 02 
+Rohatec | 696 01 
+Skalka | 696 48 
+Skoronice | 696 41 
+Sobůlky | 697 01 
+Starý Poddvorov | 696 16 
+Stavěšice | 696 38 
+Strážnice | 696 62 
+Strážovice | 696 38 
+Sudoměřice | 696 66 
+Suchov | 696 71 
+Svatobořice-Mistřín | 696 04 
+Syrovín | 696 84 
+Šardice | 696 13 
+Tasov | 696 63 
+Těmice | 696 84 
+Terezín | 696 14 
+Tvarožná Lhota | 696 64 
+Uhřice | 696 34 
+Vacenovice | 696 06 
+Velká nad Veličkou | 696 74 
+Veselí nad Moravou | 698 01 
+Věteřov | 697 01 
+Vlkoš | 696 41 
+Vnorovy | 696 61 
+Vracov | 696 42 
+Vřesovice | 696 48 
+Žádovice | 696 49 
+Žarošice | 696 34 
+Ždánice | 696 32 
+Želetice | 696 37 
+Žeravice | 696 47 
+Žeraviny | 696 63
+- 
+Bohaté Málkovice | 685 01 
+Bohdalice-Pavlovice | 683 41 
+Bošovice | 683 54 
+Brankovice | 683 33 
+Březina | 682 01 
+Bučovice | 685 01 
+Dětkovice | 683 23 
+Dobročkovice | 683 33 
+Dražovice | 683 01 
+Drnovice | 683 04 
+Drysice | 683 21 
+Habrovany | 683 01 
+Heršpice | 684 01 
+Hlubočany | 682 01 
+Hodějice | 684 01 
+Holubice | 683 51 
+Hostěrádky-Rešov | 683 52 
+Hoštice-Heroltice | 682 01 
+Hrušky | 683 52 
+Hvězdlice | 683 41 
+Chvalkovice | 683 41 
+Ivanovice na Hané | 683 23 
+Ježkovice | 683 04 
+Kobeřice u Brna | 684 01 
+Kojátky | 685 01 
+Komořany | 683 01 
+Kozlany | 683 41 
+Kožušice | 683 33 
+Krásensko | 683 04 
+Křenovice | 683 52 
+Křižanovice | 685 01 
+Křižanovice u Vyškova | 682 01 
+Kučerov | 682 01 
+Letonice | 683 35 
+Lovčičky | 683 54 
+Luleč | 683 03 
+Lysovice | 682 01 
+Malínky | 683 33 
+Medlovice | 682 01 
+Milešovice | 683 54 
+Milonice | 683 33 
+Moravské Málkovice | 682 01 
+Mouřínov | 685 01 
+Němčany | 684 01 
+Nemochovice | 683 33 
+Nemojany | 683 03 
+Nemotice | 683 33 
+Nesovice | 683 33 
+Nevojice | 685 01 
+Nížkovice | 684 01 
+Nové Sady | 682 01 
+Olšany | 683 01 
+Orlovice | 682 01 
+Otnice | 683 54 
+Podbřežice | 683 01 
+Podivice | 683 21 
+Podomí | 683 04 
+Prusy-Boškůvky | 682 01 
+Pustiměř | 683 21 
+Račice-Pístovice | 683 05 
+Radslavice | 683 21 
+Rašovice | 685 01 
+Rostěnice-Zvonovice | 682 01 
+Rousínov | 683 01 
+Ruprechtov | 683 04 
+Rybníček | 682 01 
+Slavkov u Brna | 684 01 
+Snovídky | 683 33 
+Studnice | 682 01 
+Šaratice | 683 52 
+Švábenice | 683 23 
+Topolany | 682 01 
+Tučapy | 683 01 
+Uhřice | 683 33 
+Vážany | 682 01 
+Vážany nad Litavou | 684 01 
+Velešovice | 683 01 
+Vyškov | 682 01 
+Zbýšov | 683 52 
+Zelená Hora | 683 21
+- 
+Bantice | 671 61 
+Běhařovice | 671 39 
+Bezkov | 669 02 
+Bítov | 671 10 
+Blanné | 671 54 
+Blížkovice | 671 55 
+Bohutice | 671 76 
+Bojanovice | 671 53 
+Borotice | 671 78 
+Boskovštejn | 671 54 
+Božice | 671 64 
+Břežany | 671 65 
+Citonice | 671 01 
+Ctidružice | 671 54 
+Čejkovice | 671 78 
+Čermákovice | 671 73 
+Černín | 671 53 
+Damnice | 671 78 
+Dobelice | 672 01 
+Dobřínsko | 672 01 
+Dobšice | 671 82 
+Dolenice | 671 78 
+Dolní Dubňany | 671 73 
+Dyjákovice | 671 26 
+Dyjákovičky | 669 02 
+Dyje | 669 02 
+Džbánice | 671 71 
+Grešlové Mýto | 671 56 
+Havraníky | 669 02 
+Hevlín | 671 69 
+Hluboké Mašůvky | 671 52 
+Hnanice | 669 02 
+Hodonice | 671 25 
+Horní Břečkov | 671 02 
+Horní Dubňany | 671 73 
+Horní Dunajovice | 671 34 
+Horní Kounice | 671 40 
+Hostěradice | 671 71 
+Hostim | 671 54 
+Hrabětice | 671 68 
+Hrádek | 671 27 
+Hrušovany nad Jevišovkou | 671 67 
+Chvalatice | 671 02 
+Chvalovice | 669 02 
+Jamolice | 672 01 
+Jaroslavice | 671 28 
+Jevišovice | 671 53 
+Jezeřany-Maršovice | 671 75 
+Jiřice u Miroslavi | 671 78 
+Jiřice u Moravských Budějovic | 671 54 
+Kadov | 672 01 
+Korolupy | 671 07 
+Kravsko | 671 51 
+Krhovice | 671 28 
+Křepice | 671 40 
+Křídlůvky | 671 28 
+Kubšice | 671 76 
+Kuchařovice | 669 02 
+Kyjovice | 671 61 
+Lančov | 671 06 
+Lechovice | 671 63 
+Lesná | 671 02 
+Lesonice | 672 01 
+Litobratřice | 671 78 
+Lubnice | 671 07 
+Lukov | 669 02 
+Mackovice | 671 78 
+Mašovice | 669 02 
+Medlice | 671 40 
+Mikulovice | 671 33 
+Milíčovice | 669 02 
+Miroslav | 671 72 
+Miroslavské Knínice | 671 72 
+Morašice | 671 71 
+Moravský Krumlov | 672 01 
+Našiměřice | 671 76 
+Němčičky | 671 53 
+Nový Šaldorf-Sedlešovice | 671 81 
+Olbramkostel | 671 51 
+Olbramovice | 671 76 
+Oleksovice | 671 62 
+Onšov | 671 02 
+Oslnovice | 671 07 
+Pavlice | 671 56 
+Petrovice | 672 01 
+Plaveč | 671 32 
+Plenkovice | 671 51 
+Podhradí nad Dyjí | 671 06 
+Podmolí | 669 02 
+Podmyče | 671 06 
+Práče | 671 61 
+Pravice | 671 78 
+Prokopov | 671 54 
+Prosiměřice | 671 61 
+Přeskače | 671 40 
+Rešice | 671 73 
+Rozkoš | 671 53 
+Rudlice | 671 53 
+Rybníky | 672 01 
+Skalice | 671 71 
+Slatina | 671 53 
+Slup | 671 28 
+Stálky | 671 06 
+Starý Petřín | 671 06 
+Stošíkovice na Louce | 671 61 
+Strachotice | 671 29 
+Střelice | 671 53 
+Suchohrdly | 669 02 
+Suchohrdly u Miroslavi | 671 72 
+Šafov | 671 06 
+Šanov | 671 68 
+Šatov | 671 22 
+Štítary | 671 02 
+Šumná | 671 02 
+Tasovice | 671 25 
+Tavíkovice | 671 40 
+Těšetice | 671 61 
+Trnové Pole | 671 78 
+Trstěnice | 671 71 
+Tulešice | 671 73 
+Tvořihráz | 671 34 
+Uherčice | 671 07 
+Újezd | 671 40 
+Únanov | 671 31 
+Valtrovice | 671 28 
+Vedrovice | 671 75 
+Velký Karlov | 671 28 
+Vémyslice | 671 42 
+Vevčice | 671 53 
+Višňové | 671 38 
+Vítonice | 671 61 
+Vracovice | 671 02 
+Vranov nad Dyjí | 671 03 
+Vranovská Ves | 671 51 
+Vratěnín | 671 07 
+Vrbovec | 671 24 
+Výrovice | 671 34 
+Vysočany | 671 07 
+Zálesí | 671 02 
+Zblovice | 671 07 
+Znojmo | 669 02 
+Želetice | 671 34 
+Žerotice | 671 34 
+Žerůtky | 671 51
+- 
+Bělá pod Pradědem | 790 01 
+Bernartice | 790 57 
+Bílá Voda | 790 69 
+Černá Voda | 790 54 
+Česká Ves | 790 81 
+Hradec-Nová Ves | 790 84 
+Javorník | 790 70 
+Jeseník | 790 01 
+Kobylá nad Vidnavkou | 790 65 
+Lipová-lázně | 790 61 
+Mikulovice | 790 84 
+Ostružná | 788 25 
+Písečná | 790 82 
+Skorošice | 790 65 
+Stará Červená Voda | 790 53 
+Supíkovice | 790 51 
+Uhelná | 790 70 
+Vápenná | 790 64 
+Velká Kraš | 790 58 
+Velké Kunětice | 790 52 
+Vidnava | 790 55 
+Vlčice | 790 65 
+Zlaté Hory | 793 76 
+Žulová | 790 65
+- 
+Babice | 785 01 
+Bělkovice-Lašťany | 783 16 
+Bílá Lhota | 783 21 
+Bílsko | 783 22 
+Blatec | 783 75 
+Bohuňovice | 783 14 
+Bouzov | 783 25 
+Bukovany | 779 00 
+Bystročice | 779 00 
+Bystrovany | 779 00 
+Červenka | 784 01 
+Daskabát | 779 00 
+Dlouhá Loučka | 783 86 
+Dolany | 783 16 
+Doloplazy | 783 56 
+Domašov nad Bystřicí | 783 06 
+Domašov u Šternberka | 785 01 
+Drahanovice | 783 44 
+Dub nad Moravou | 783 75 
+Dubčany | 783 22 
+Grygov | 783 73 
+Haňovice | 783 21 
+Hlásnice | 785 01 
+Hlubočky | 783 61 
+Hlušovice | 783 14 
+Hněvotín | 783 47 
+Hnojice | 785 01 
+Horka nad Moravou | 783 35 
+Horní Loděnice | 783 05 
+Hraničné Petrovice | 783 06 
+Huzová | 793 51 
+Charváty | 783 75 
+Cholina | 783 22 
+Jívová | 783 16 
+Komárov | 785 01 
+Kožušany-Tážaly | 783 75 
+Krčmaň | 779 00 
+Křelov-Břuchotín | 783 36 
+Libavá | 783 06 
+Liboš | 783 13 
+Lipina | 785 01 
+Lipinka | 783 83 
+Litovel | 784 01 
+Loučany | 783 44 
+Loučka | 783 22 
+Luběnice | 783 46 
+Luká | 783 24 
+Lutín | 783 49 
+Lužice | 785 01 
+Majetín | 751 06 
+Medlov | 783 91 
+Měrotín | 783 24 
+Mladeč | 783 21 
+Mladějovice | 785 01 
+Moravský Beroun | 793 05 
+Mrsklesy | 783 65 
+Mutkov | 793 51 
+Náklo | 783 32 
+Náměšť na Hané | 783 44 
+Norberčany | 793 05 
+Nová Hradečná | 783 83 
+Olbramice | 783 22 
+Olomouc | 779 00 
+Paseka | 783 97 
+Pňovice | 784 01 
+Přáslavice | 783 54 
+Příkazy | 783 33 
+Řídeč | 785 01 
+Samotišky | 779 00 
+Senice na Hané | 783 45 
+Senička | 783 45 
+Skrbeň | 783 35 
+Slatinice | 783 42 
+Slavětín | 783 24 
+Strukov | 784 01 
+Střeň | 783 32 
+Suchonice | 783 57 
+Svésedlice | 783 54 
+Štarnov | 783 14 
+Štěpánov | 783 13 
+Šternberk | 785 01 
+Šumvald | 783 85 
+Těšetice | 783 46 
+Tovéř | 783 16 
+Troubelice | 783 83 
+Tršice | 783 57 
+Újezd | 783 96 
+Uničov | 783 91 
+Ústín | 783 46 
+Velká Bystřice | 783 53 
+Velký Týnec | 783 72 
+Velký Újezd | 783 55 
+Věrovany | 783 75 
+Vilémov | 783 22 
+Želechovice | 783 91 
+Žerotín | 784 01
+- 
+Bělotín | 753 64 
+Beňov | 750 02 
+Bezuchov | 753 54 
+Bohuslávky | 751 31 
+Bochoř | 750 02 
+Brodek u Přerova | 751 03 
+Buk | 751 21 
+Býškovice | 753 53 
+Císařov | 751 03 
+Citov | 751 03 
+Čechy | 751 15 
+Čelechovice | 751 03 
+Černotín | 753 68 
+Dobrčice | 750 02 
+Dolní Nětčice | 753 54 
+Dolní Těšice | 753 53 
+Dolní Újezd | 751 23 
+Domaželice | 751 15 
+Dřevohostice | 751 14 
+Grymov | 751 21 
+Hlinsko | 751 31 
+Horní Moštěnice | 751 17 
+Horní Nětčice | 753 54 
+Horní Těšice | 753 53 
+Horní Újezd | 753 53 
+Hrabůvka | 753 01 
+Hradčany | 751 11 
+Hranice | 753 01 
+Hustopeče nad Bečvou | 753 66 
+Jezernice | 751 31 
+Jindřichov | 753 01 
+Kladníky | 751 31 
+Klokočí | 753 61 
+Kojetín | 752 01 
+Kokory | 751 05 
+Křenovice | 752 01 
+Křtomil | 751 14 
+Lazníčky | 751 25 
+Lazníky | 751 25 
+Lhota | 751 31 
+Lhotka | 751 24 
+Lipník nad Bečvou | 751 31 
+Lipová | 751 14 
+Líšná | 751 15 
+Lobodice | 751 01 
+Malhotice | 753 53 
+Měrovice nad Hanou | 751 42 
+Milenov | 753 61 
+Milotice nad Bečvou | 753 67 
+Nahošovice | 751 14 
+Nelešovice | 751 03 
+Oldřichov | 751 11 
+Olšovec | 753 01 
+Opatovice | 753 56 
+Oplocany | 751 01 
+Oprostovice | 753 54 
+Osek nad Bečvou | 751 22 
+Paršovice | 753 55 
+Partutovice | 753 01 
+Pavlovice u Přerova | 751 12 
+Podolí | 751 16 
+Polkovice | 751 44 
+Polom | 753 65 
+Potštát | 753 62 
+Prosenice | 751 21 
+Provodovice | 753 53 
+Přerov | 750 02 
+Přestavlky | 750 02 
+Radíkov | 753 01 
+Radkova Lhota | 751 14 
+Radkovy | 751 14 
+Radotín | 753 54 
+Radslavice | 751 11 
+Radvanice | 751 21 
+Rakov | 753 54 
+Rokytnice | 751 04 
+Rouské | 753 53 
+Říkovice | 751 18 
+Skalička | 753 52 
+Soběchleby | 753 54 
+Sobíšky | 751 21 
+Stará Ves | 750 02 
+Stříbrnice | 752 01 
+Střítež nad Ludinou | 753 63 
+Sušice | 751 11 
+Šišma | 751 11 
+Špičky | 753 66 
+Teplice nad Bečvou | 753 51 
+Tovačov | 751 01 
+Troubky | 751 02 
+Tučín | 751 16 
+Turovice | 751 14 
+Týn nad Bečvou | 751 32 
+Uhřičice | 752 01 
+Ústí | 753 01 
+Veselíčko | 751 25 
+Věžky | 751 19 
+Vlkoš | 751 19 
+Všechovice | 753 53 
+Výkleky | 751 25 
+Zábeštní Lhota | 751 27 
+Zámrsky | 753 01 
+Žákovice | 753 54 
+Želatovice | 751 16
+- 
+Alojzov | 798 04 
+Bedihošť | 798 21 
+Bílovice-Lutotín | 798 41 
+Biskupice | 798 12 
+Bohuslavice | 798 56 
+Bousín | 798 61 
+Brodek u Konice | 798 46 
+Brodek u Prostějova | 798 07 
+Březsko | 798 52 
+Budětsko | 798 52 
+Buková | 798 48 
+Čehovice | 798 21 
+Čechy pod Kosířem | 798 58 
+Čelčice | 798 23 
+Čelechovice na Hané | 798 16 
+Dětkovice | 798 04 
+Dobrochov | 798 07 
+Dobromilice | 798 25 
+Doloplazy | 798 26 
+Drahany | 798 61 
+Držovice | 796 07 
+Dřevnovice | 798 26 
+Dzbel | 798 53 
+Hačky | 798 55 
+Hluchov | 798 41 
+Horní Štěpánov | 798 47 
+Hradčany-Kobeřice | 798 07 
+Hrdibořice | 798 12 
+Hrubčice | 798 21 
+Hruška | 798 27 
+Hvozd | 798 55 
+Ivaň | 798 23 
+Jesenec | 798 53 
+Kladky | 798 54 
+Klenovice na Hané | 798 23 
+Klopotovice | 798 21 
+Konice | 798 52 
+Kostelec na Hané | 798 41 
+Koválovice-Osíčany | 798 29 
+Kralice na Hané | 798 12 
+Krumsín | 798 03 
+Laškov | 798 57 
+Lešany | 798 42 
+Lipová | 798 45 
+Ludmírov | 798 55 
+Malé Hradisko | 798 49 
+Mořice | 798 28 
+Mostkovice | 798 02 
+Myslejovice | 798 05 
+Němčice nad Hanou | 798 27 
+Nezamyslice | 798 26 
+Niva | 798 61 
+Obědkovice | 798 23 
+Ohrozim | 798 03 
+Ochoz | 798 52 
+Olšany u Prostějova | 798 14 
+Ondratice | 798 07 
+Otaslavice | 798 06 
+Otinoves | 798 61 
+Pavlovice u Kojetína | 798 30 
+Pěnčín | 798 57 
+Pivín | 798 24 
+Plumlov | 798 03 
+Polomí | 798 55 
+Prostějov | 796 01 
+Prostějovičky | 798 03 
+Protivanov | 798 48 
+Přemyslovice | 798 51 
+Ptení | 798 43 
+Raková u Konice | 798 57 
+Rakůvka | 798 57 
+Rozstání | 798 62 
+Seloutky | 798 04 
+Skalka | 798 24 
+Skřípov | 798 52 
+Slatinky | 783 42 
+Smržice | 798 17 
+Srbce | 798 27 
+Stařechovice | 798 41 
+Stínava | 798 03 
+Stražisko | 798 44 
+Suchdol | 798 45 
+Šubířov | 798 52 
+Tištín | 798 29 
+Tvorovice | 798 23 
+Určice | 798 04 
+Víceměřice | 798 26 
+Vícov | 798 03 
+Vincencov | 798 04 
+Vitčice | 798 27 
+Vranovice-Kelčice | 798 08 
+Vrbátky | 798 13 
+Vrchoslavice | 798 27 
+Vřesovice | 798 09 
+Výšovice | 798 09 
+Zdětín | 798 43 
+Želeč | 798 07
+- 
+Bludov | 789 61 
+Bohdíkov | 789 64 
+Bohuslavice | 789 72 
+Bohutín | 789 62 
+Branná | 788 25 
+Bratrušov | 787 01 
+Brníčko | 789 75 
+Bušín | 789 62 
+Dlouhomilov | 789 01 
+Dolní Studénky | 788 20 
+Drozdov | 789 01 
+Dubicko | 789 72 
+Hanušovice | 788 33 
+Horní Studénky | 789 01 
+Hoštejn | 789 01 
+Hraběšice | 788 15 
+Hrabišín | 788 04 
+Hrabová | 789 01 
+Hynčina | 789 01 
+Chromeč | 789 01 
+Jakubovice | 789 91 
+Janoušov | 789 91 
+Jedlí | 789 01 
+Jestřebí | 789 01 
+Jindřichov | 788 23 
+Kamenná | 789 74 
+Klopina | 789 73 
+Kolšov | 788 21 
+Kopřivná | 788 33 
+Kosov | 789 01 
+Krchleby | 789 01 
+Lesnice | 789 01 
+Leština | 789 71 
+Libina | 788 05 
+Líšnice | 789 85 
+Loštice | 789 83 
+Loučná nad Desnou | 788 11 
+Lukavice | 789 01 
+Malá Morava | 788 33 
+Maletín | 789 01 
+Mírov | 789 01 
+Mohelnice | 789 85 
+Moravičany | 789 82 
+Nemile | 789 01 
+Nový Malín | 788 03 
+Olšany | 789 62 
+Oskava | 788 01 
+Palonín | 789 83 
+Pavlov | 789 85 
+Petrov nad Desnou | 788 14 
+Písařov | 789 91 
+Police | 789 73 
+Postřelmov | 789 69 
+Postřelmůvek | 789 01 
+Rájec | 789 01 
+Rapotín | 788 14 
+Rejchartice | 787 01 
+Rohle | 789 74 
+Rovensko | 789 01 
+Ruda nad Moravou | 789 63 
+Sobotín | 788 16 
+Staré Město | 788 32 
+Stavenice | 789 73 
+Sudkov | 788 21 
+Svébohov | 789 01 
+Šléglov | 788 25 
+Štíty | 789 91 
+Šumperk | 787 01 
+Třeština | 789 73 
+Úsov | 789 73 
+Velké Losiny | 788 15 
+Vernířovice | 788 15 
+Vikantice | 788 25 
+Vikýřovice | 788 13 
+Vyšehoří | 789 01 
+Zábřeh | 789 01 
+Zborov | 789 01 
+Zvole | 789 01
+- 
+Bařice-Velké Těšany | 767 01 
+Bezměrov | 767 01 
+Blazice | 768 61 
+Bořenovice | 769 01 
+Brusné | 768 61 
+Břest | 768 23 
+Bystřice pod Hostýnem | 768 61 
+Cetechovice | 768 02 
+Dřínov | 768 33 
+Holešov | 769 01 
+Honětice | 768 13 
+Horní Lapač | 769 01 
+Hoštice | 768 13 
+Hulín | 768 24 
+Chomýž | 768 61 
+Chropyně | 768 11 
+Chvalčov | 768 72 
+Chvalnov-Lísky | 768 05 
+Jankovice | 769 01 
+Jarohněvice | 768 01 
+Karolín | 768 21 
+Komárno | 768 71 
+Koryčany | 768 05 
+Kostelany | 767 01 
+Kostelec u Holešova | 768 43 
+Kroměříž | 767 01 
+Kunkovice | 768 13 
+Kurovice | 768 52 
+Kvasice | 768 21 
+Kyselovice | 768 11 
+Lechotice | 768 52 
+Litenčice | 768 13 
+Loukov | 768 75 
+Lubná | 767 01 
+Ludslavice | 768 52 
+Lutopecny | 767 01 
+Martinice | 769 01 
+Míškovice | 768 52 
+Morkovice-Slížany | 768 33 
+Mrlínek | 768 61 
+Němčice | 768 43 
+Nítkovice | 768 13 
+Nová Dědina | 768 21 
+Osíčko | 768 61 
+Pacetluky | 768 43 
+Pačlavice | 768 34 
+Počenice-Tetětice | 768 33 
+Podhradní Lhota | 768 71 
+Prasklice | 768 33 
+Pravčice | 768 24 
+Prusinovice | 768 42 
+Přílepy | 769 01 
+Rajnochovice | 768 71 
+Rataje | 768 12 
+Roštění | 768 43 
+Roštín | 768 03 
+Rusava | 768 41 
+Rymice | 769 01 
+Skaštice | 767 01 
+Slavkov pod Hostýnem | 768 61 
+Soběsuky | 768 02 
+Střílky | 768 04 
+Střížovice | 768 21 
+Sulimov | 768 21 
+Šelešovice | 767 01 
+Troubky-Zdislavice | 768 02 
+Třebětice | 769 01 
+Uhřice | 768 33 
+Věžky | 768 33 
+Vítonice | 768 61 
+Vrbka | 768 21 
+Zahnašovice | 769 01 
+Záříčí | 768 11 
+Zástřizly | 768 05 
+Zborovice | 768 32 
+Zdounky | 768 02 
+Zlobice | 768 31 
+Žalkovice | 768 23 
+Žeranovice | 769 01
+- 
+Babice | 687 03 
+Bánov | 687 54 
+Bílovice | 687 12 
+Bojkovice | 687 71 
+Boršice | 687 09 
+Boršice u Blatnice | 687 63 
+Břestek | 687 08 
+Březolupy | 687 13 
+Březová | 687 67 
+Buchlovice | 687 08 
+Bystřice pod Lopeníkem | 687 55 
+Částkov | 687 12 
+Dolní Němčí | 687 62 
+Drslavice | 687 33 
+Hluk | 687 25 
+Horní Němčí | 687 64 
+Hostějov | 687 41 
+Hostětín | 687 71 
+Hradčovice | 687 33 
+Huštěnovice | 687 03 
+Jalubí | 687 05 
+Jankovice | 687 04 
+Kněžpole | 687 12 
+Komňa | 687 71 
+Korytná | 687 52 
+Kostelany nad Moravou | 686 01 
+Košíky | 687 04 
+Kudlovice | 687 03 
+Kunovice | 686 04 
+Lopeník | 687 67 
+Medlovice | 687 41 
+Mistřice | 687 12 
+Modrá | 687 06 
+Nedachlebice | 687 12 
+Nedakonice | 687 38 
+Nezdenice | 687 32 
+Nivnice | 687 51 
+Ořechov | 687 37 
+Ostrožská Lhota | 687 23 
+Ostrožská Nová Ves | 687 22 
+Osvětimany | 687 42 
+Pašovice | 687 56 
+Pitín | 687 71 
+Podolí | 686 04 
+Polešovice | 687 37 
+Popovice | 686 04 
+Prakšice | 687 56 
+Rudice | 687 32 
+Salaš | 687 06 
+Slavkov | 687 64 
+Staré Hutě | 686 01 
+Staré Město | 686 03 
+Starý Hrozenkov | 687 74 
+Strání | 687 65 
+Stříbrnice | 687 09 
+Stupava | 686 01 
+Suchá Loz | 687 53 
+Sušice | 687 04 
+Svárov | 687 12 
+Šumice | 687 31 
+Topolná | 687 11 
+Traplice | 687 04 
+Tučapy | 687 09 
+Tupesy | 687 07 
+Uherské Hradiště | 686 01 
+Uherský Brod | 688 01 
+Uherský Ostroh | 687 24 
+Újezdec | 687 41 
+Vápenice | 687 74 
+Vážany | 687 37 
+Velehrad | 687 06 
+Veletiny | 687 33 
+Vlčnov | 687 61 
+Vyškovec | 687 74 
+Záhorovice | 687 71 
+Zlámanec | 687 12 
+Zlechov | 687 10 
+Žítková | 687 74
+- 
+Branky | 756 45 
+Bystřička | 756 24 
+Dolní Bečva | 756 55 
+Francova Lhota | 756 14 
+Halenkov | 756 03 
+Horní Bečva | 756 57 
+Horní Lideč | 756 12 
+Hošťálková | 756 22 
+Hovězí | 756 01 
+Huslenky | 756 02 
+Hutisko-Solanec | 756 62 
+Choryně | 756 42 
+Jablůnka | 756 23 
+Janová | 755 01 
+Jarcová | 757 01 
+Karolinka | 756 05 
+Kateřinice | 756 21 
+Kelč | 756 43 
+Kladeruby | 756 43 
+Kunovice | 756 44 
+Lačnov | 756 12 
+Leskovec | 756 11 
+Lešná | 756 41 
+Lhota u Vsetína | 755 01 
+Lidečko | 756 12 
+Liptál | 755 01 
+Loučka | 756 44 
+Lužná | 756 11 
+Malá Bystřice | 756 27 
+Mikulůvka | 756 24 
+Nový Hrozenkov | 756 04 
+Oznice | 756 24 
+Podolí | 756 44 
+Police | 756 45 
+Pozděchov | 756 11 
+Prlov | 756 11 
+Prostřední Bečva | 756 56 
+Pržno | 756 23 
+Ratiboř | 756 21 
+Rožnov pod Radhoštěm | 756 61 
+Růžďka | 756 25 
+Seninka | 756 11 
+Střelná | 756 12 
+Střítež nad Bečvou | 756 52 
+Študlov | 756 12 
+Ústí | 755 01 
+Valašská Bystřice | 756 27 
+Valašská Polanka | 756 11 
+Valašská Senice | 756 14 
+Valašské Meziříčí | 757 01 
+Valašské Příkazy | 756 12 
+Velká Lhota | 757 01 
+Velké Karlovice | 756 06 
+Vidče | 756 53 
+Vigantice | 756 61 
+Vsetín | 755 01 
+Zašová | 756 51 
+Zděchov | 756 07 
+Zubří | 756 54
+- 
+Bělov | 768 21 
+Biskupice | 763 41 
+Bohuslavice nad Vláří | 763 21 
+Bohuslavice u Zlína | 763 51 
+Bratřejov | 763 12 
+Brumov-Bylnice | 763 31 
+Březnice | 760 01 
+Březová | 763 15 
+Březůvky | 763 45 
+Dešná | 763 15 
+Dobrkovice | 763 07 
+Dolní Lhota | 763 23 
+Doubravy | 763 45 
+Drnovice | 763 25 
+Držková | 763 19 
+Fryšták | 763 16 
+Halenkovice | 763 63 
+Haluzice | 763 24 
+Horní Lhota | 763 23 
+Hostišová | 763 01 
+Hrobice | 763 15 
+Hřivínův Újezd | 763 07 
+Hvozdná | 763 11 
+Jasenná | 763 12 
+Jestřabí | 763 33 
+Kaňovice | 763 41 
+Karlovice | 763 02 
+Kašava | 763 19 
+Kelníky | 763 07 
+Komárov | 763 61 
+Křekov | 766 01 
+Lhota | 763 02 
+Lhotsko | 763 12 
+Lípa | 763 11 
+Lipová | 763 21 
+Loučka | 763 25 
+Ludkovice | 763 41 
+Luhačovice | 763 26 
+Lukov | 763 17 
+Lukoveček | 763 16 
+Lutonina | 763 12 
+Machová | 763 01 
+Mysločovice | 763 01 
+Napajedla | 763 61 
+Návojná | 763 32 
+Nedašov | 763 32 
+Nedašova Lhota | 763 32 
+Neubuz | 763 15 
+Oldřichovice | 763 61 
+Ostrata | 763 11 
+Otrokovice | 765 02 
+Petrůvka | 763 21 
+Podhradí | 763 26 
+Podkopná Lhota | 763 18 
+Pohořelice | 763 61 
+Poteč | 766 01 
+Pozlovice | 763 26 
+Provodov | 763 45 
+Racková | 760 01 
+Rokytnice | 763 21 
+Rudimov | 763 21 
+Sazovice | 763 01 
+Sehradice | 763 23 
+Slavičín | 763 21 
+Slopné | 763 23 
+Slušovice | 763 15 
+Spytihněv | 763 64 
+Šanov | 763 21 
+Šarovy | 763 51 
+Štítná nad Vláří-Popov | 763 33 
+Tečovice | 763 02 
+Tichov | 766 01 
+Tlumačov | 763 62 
+Trnava | 763 18 
+Ublo | 763 12 
+Újezd | 763 25 
+Valašské Klobouky | 766 01 
+Velký Ořechov | 763 07 
+Veselá | 763 15 
+Vizovice | 763 12 
+Vlachova Lhota | 766 01 
+Vlachovice | 763 24 
+Vlčková | 763 19 
+Všemina | 763 15 
+Vysoké Pole | 763 25 
+Zádveřice-Raková | 763 12 
+Zlín | 760 01 
+Želechovice nad Dřevnicí | 763 11 
+Žlutava | 763 61
+- 
+Andělská Hora | 793 31 
+Bílčice | 793 68 
+Bohušov | 793 99 
+Brantice | 793 93 
+Bruntál | 792 01 
+Břidličná | 793 51 
+Býkov-Láryšov | 794 01 
+Čaková | 793 16 
+Dětřichov nad Bystřicí | 793 03 
+Dívčí Hrad | 793 99 
+Dlouhá Stráň | 792 01 
+Dolní Moravice | 795 01 
+Dvorce | 793 68 
+Heřmanovice | 793 74 
+Hlinka | 793 99 
+Holčovice | 793 71 
+Horní Benešov | 793 12 
+Horní Město | 793 44 
+Horní Životice | 793 12 
+Hošťálkovy | 794 01 
+Janov | 793 84 
+Jindřichov | 793 83 
+Jiříkov | 793 51 
+Karlova Studánka | 793 24 
+Karlovice | 793 23 
+Krasov | 794 01 
+Krnov | 794 01 
+Křišťanovice | 793 68 
+Leskovec nad Moravicí | 793 68 
+Lichnov | 793 15 
+Liptaň | 793 99 
+Lomnice | 793 02 
+Ludvíkov | 793 26 
+Malá Morávka | 793 36 
+Malá Štáhle | 795 01 
+Město Albrechtice | 793 95 
+Mezina | 792 01 
+Milotice nad Opavou | 792 01 
+Moravskoslezský Kočov | 792 01 
+Nová Pláň | 792 01 
+Nové Heřminovy | 792 01 
+Oborná | 792 01 
+Osoblaha | 793 99 
+Petrovice | 793 84 
+Razová | 792 01 
+Roudno | 792 01 
+Rudná pod Pradědem | 793 31 
+Rusín | 793 97 
+Rýmařov | 795 01 
+Ryžoviště | 793 56 
+Slezské Pavlovice | 793 99 
+Slezské Rudoltice | 793 97 
+Stará Ves | 795 01 
+Staré Heřminovy | 793 12 
+Staré Město | 792 01 
+Světlá Hora | 793 31 
+Svobodné Heřmanice | 793 12 
+Široká Niva | 792 01 
+Třemešná | 793 82 
+Tvrdkov | 793 44 
+Úvalno | 793 91 
+Václavov u Bruntálu | 792 01 
+Valšov | 792 01 
+Velká Štáhle | 793 51 
+Vrbno pod Pradědem | 793 26 
+Vysoká | 793 99 
+Zátor | 793 16
+- 
+Baška | 739 01 
+Bílá | 739 15 
+Bocanovice | 739 91 
+Brušperk | 739 44 
+Bruzovice | 739 36 
+Bukovec | 739 84 
+Bystřice | 739 95 
+Čeladná | 739 12 
+Dobrá | 739 51 
+Dobratice | 739 51 
+Dolní Domaslavice | 739 38 
+Dolní Lomná | 739 91 
+Dolní Tošanovice | 739 53 
+Fryčovice | 739 45 
+Frýdek-Místek | 738 01 
+Frýdlant nad Ostravicí | 739 11 
+Hnojník | 739 53 
+Horní Domaslavice | 739 51 
+Horní Lomná | 739 91 
+Horní Tošanovice | 739 53 
+Hrádek | 739 97 
+Hrčava | 739 98 
+Hukvaldy | 739 46 
+Jablunkov | 739 91 
+Janovice | 739 11 
+Kaňovice | 739 36 
+Komorní Lhotka | 739 53 
+Košařiska | 739 81 
+Kozlovice | 739 47 
+Krásná | 739 04 
+Krmelín | 739 24 
+Kunčice pod Ondřejníkem | 739 12 
+Lhotka | 739 47 
+Lučina | 739 51 
+Malenovice | 739 11 
+Metylovice | 739 49 
+Milíkov | 739 81 
+Morávka | 739 04 
+Mosty u Jablunkova | 739 98 
+Návsí | 739 92 
+Nižní Lhoty | 739 51 
+Nošovice | 739 51 
+Nýdek | 739 95 
+Ostravice | 739 14 
+Palkovice | 739 41 
+Paskov | 739 21 
+Pazderna | 739 51 
+Písečná | 739 91 
+Písek | 739 84 
+Pražmo | 739 04 
+Pržno | 739 11 
+Pstruží | 739 11 
+Raškovice | 739 04 
+Ropice | 739 61 
+Řeka | 739 55 
+Řepiště | 739 32 
+Sedliště | 739 36 
+Smilovice | 739 55 
+Soběšovice | 739 38 
+Staré Hamry | 739 15 
+Staré Město | 738 01 
+Staříč | 739 43 
+Střítež | 739 59 
+Sviadnov | 738 01 
+Třanovice | 739 53 
+Třinec | 739 61 
+Vělopolí | 739 59 
+Vendryně | 739 94 
+Vojkovice | 739 51 
+Vyšní Lhoty | 739 51 
+Žabeň | 738 01 
+Žermanice | 739 37
+- 
+Albrechtice | 735 43 
+Bohumín | 735 81 
+Český Těšín | 737 01 
+Dětmarovice | 735 71 
+Dolní Lutyně | 735 53 
+Doubrava | 735 33 
+Havířov | 736 01 
+Horní Bludovice | 739 37 
+Horní Suchá | 735 35 
+Chotěbuz | 735 61 
+Karviná | 733 01 
+Orlová | 735 11 
+Petrovice u Karviné | 735 72 
+Petřvald | 735 41 
+Rychvald | 735 32 
+Stonava | 735 34 
+Těrlicko | 735 42
+- 
+Albrechtičky | 742 55 
+Bartošovice | 742 54 
+Bernartice nad Odrou | 741 01 
+Bílov | 743 01 
+Bílovec | 743 01 
+Bítov | 743 01 
+Bordovice | 744 01 
+Bravantice | 742 81 
+Frenštát pod Radhoštěm | 744 01 
+Fulnek | 742 45 
+Heřmanice u Oder | 742 35 
+Heřmánky | 742 35 
+Hladké Životice | 742 47 
+Hodslavice | 742 71 
+Hostašovice | 741 01 
+Jakubčovice nad Odrou | 742 36 
+Jeseník nad Odrou | 742 33 
+Jistebník | 742 82 
+Kateřinice | 742 58 
+Kopřivnice | 742 21 
+Kujavy | 742 45 
+Kunín | 742 53 
+Libhošť | 742 57 
+Lichnov | 742 75 
+Luboměř | 742 35 
+Mankovice | 742 35 
+Mořkov | 742 72 
+Mošnov | 742 51 
+Nový Jičín | 741 01 
+Odry | 742 35 
+Petřvald | 742 60 
+Příbor | 742 58 
+Pustějov | 742 43 
+Rybí | 742 65 
+Sedlnice | 742 56 
+Skotnice | 742 58 
+Slatina | 742 93 
+Spálov | 742 37 
+Starý Jičín | 742 31 
+Studénka | 742 13 
+Suchdol nad Odrou | 742 01 
+Šenov u Nového Jičína | 742 42 
+Štramberk | 742 66 
+Tichá | 742 74 
+Tísek | 742 94 
+Trnávka | 742 58 
+Trojanovice | 744 01 
+Velké Albrechtice | 742 91 
+Veřovice | 742 73 
+Vražné | 742 35 
+Vrchy | 742 45 
+Závišice | 742 21 
+Ženklava | 742 67 
+Životice u Nového Jičína | 742 72
+- 
+Bělá | 747 23 
+Bohuslavice | 747 19 
+Bolatice | 747 23 
+Branka u Opavy | 747 41 
+Bratříkovice | 747 52 
+Brumovice | 747 74 
+Březová | 747 44 
+Budišov nad Budišovkou | 747 87 
+Budišovice | 747 64 
+Čermná ve Slezsku | 749 01 
+Darkovice | 747 17 
+Děhylov | 747 94 
+Dobroslavice | 747 94 
+Dolní Benešov | 747 22 
+Dolní Životice | 747 56 
+Háj ve Slezsku | 747 92 
+Hať | 747 16 
+Hlavnice | 747 52 
+Hlubočec | 747 69 
+Hlučín | 748 01 
+Hněvošice | 747 35 
+Holasovice | 747 74 
+Hrabyně | 747 63 
+Hradec nad Moravicí | 747 41 
+Chlebičov | 747 31 
+Chuchelná | 747 24 
+Chvalíkovice | 747 06 
+Jakartovice | 747 53 
+Jezdkovice | 747 55 
+Kobeřice | 747 27 
+Komárov | 747 70 
+Kozmice | 747 11 
+Kravaře | 747 21 
+Kružberk | 747 86 
+Kyjovice | 747 68 
+Lhotka u Litultovic | 747 55 
+Litultovice | 747 55 
+Ludgeřovice | 747 14 
+Malé Hoštice | 747 05 
+Markvartovice | 747 14 
+Melč | 747 84 
+Mikolajice | 747 84 
+Milostovice | 746 01 
+Mladecko | 747 54 
+Mokré Lazce | 747 62 
+Moravice | 747 84 
+Neplachovice | 747 74 
+Nové Lublice | 749 01 
+Nové Sedlice | 747 06 
+Oldřišov | 747 33 
+Opava (nečleněná část města) | 747 05 
+Otice | 747 81 
+Píšť | 747 18 
+Podvihov | 747 06 
+Pustá Polom | 747 69 
+Radkov | 747 84 
+Raduň | 747 61 
+Rohov | 747 26 
+Skřipov | 747 45 
+Slavkov | 747 57 
+Služovice | 747 28 
+Sosnová | 793 12 
+Staré Těchanovice | 749 01 
+Stěbořice | 747 51 
+Strahovice | 747 24 
+Sudice | 747 25 
+Suché Lazce | 747 95 
+Svatoňovice | 747 87 
+Šilheřovice | 747 15 
+Štáblovice | 747 82 
+Štěpánkovice | 747 28 
+Štítina | 747 91 
+Těškovice | 747 64 
+Třebom | 747 28 
+Uhlířov | 747 84 
+Vávrovice | 747 73 
+Velké Heraltice | 747 75 
+Velké Hoštice | 747 31 
+Větřkovice | 747 43 
+Vítkov | 749 01 
+Vlaštovičky | 746 01 
+Vršovice | 747 61 
+Vřesina | 747 20 
+Závada | 747 19 
+Zlatníky | 746 01
+- 
+Čavisov | 747 64 
+Dolní Lhota | 747 66 
+Horní Lhota | 747 64 
+Hošťálkovice | 725 28 
+Hrabová | 720 00 
+Klimkovice | 742 83 
+Krásné Pole | 725 26 
+Lhotka | 725 28 
+Mariánské Hory a Hulváky | 709 00 
+Martinov | 723 00 
+Michálkovice | 715 00 
+Moravská Ostrava a Přívoz | 702 00 
+Nová Bělá | 724 00 
+Nová Ves | 709 00 
+Olbramice | 742 83 
+Ostrava-Jih | 700 30 
+Petřkovice | 725 29 
+Plesná | 725 27 
+Polanka nad Odrou | 725 25 
+Poruba | 708 00 
+Proskovice | 724 00 
+Pustkovec | 708 00 
+Radvanice a Bartovice | 716 00 
+Slezská Ostrava | 710 00 
+Stará Bělá | 724 00 
+Stará Ves nad Ondřejnicí | 739 23 
+Svinov | 721 00 
+Šenov | 739 34 
+Třebovice | 722 00 
+Václavovice | 739 34 
+Velká Polom | 747 64 
+Vítkovice | 703 00 
+Vratimov | 739 32 
+Vřesina | 742 85 
+Zbyslavice | 742 83 

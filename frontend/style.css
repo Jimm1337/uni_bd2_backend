@@ -1,0 +1,91 @@
+svg {
+    margin: 1%;
+}
+
+svg path {
+    cursor: pointer;
+    fill: #e3e3e3;
+    stroke: #b0b0b0;
+    stroke-width: .10%;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+}
+
+svg path:hover {
+    /* transition: 0.5s; */
+    fill: #2362a2;
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 15px;
+}
+
+.btn-outline-primary {
+    --bs-btn-color: #2362a2;
+    --bs-btn-border-color: #2362a2;
+    --bs-btn-hover-bg: #2362a2;
+    --bs-btn-hover-border-color: #2362a2;
+    --bs-btn-active-bg: #2362a2;
+    --bs-btn-active-border-color: #2362a2;
+    --bs-btn-disabled-color: #2362a2;
+    --bs-btn-disabled-border-color: #2362a2;
+}
+
+.mytooltip {
+    pointer-events: none;
+    position: absolute;
+    text-align: center;
+    background: #fff;
+    padding: 0 15px;
+    z-index: 5;
+    line-height: 24px;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0 0 0 1px #eee;
+    transform: translateX(-50%);
+    display: none;
+    white-space: pre;
+}
+
+.mytooltip:before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    width: 0;
+    height: 0;
+    margin-left: -11px;
+    border-left: 11px solid transparent;
+    border-right: 11px solid transparent;
+    border-top: 11px solid #eee;
+}
+
+.mytooltip:after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    width: 0;
+    height: 0;
+    margin-left: -10px;
+    margin-top: -1px;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #fff;
+}
+
+.tablecontainer table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tablecontainer th, .tablecontainer td {
+    border: 1px solid #e7e7e7;
+    padding: 6px;
+    margin-top: 5px;
+}
+
+#link {
+    color: #2362a2;
+}
