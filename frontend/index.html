@@ -32,7 +32,10 @@
             <li><a href="#" onclick="renderMunicipalities();return false;" id="municipalitiesBtn" class="nav-link px-2 link-body-emphasis">Municipalities</a></li>
         </ul>
         <form class="col-12 col-lg-auto mb-2 mb-lg-0 me-lg-3" role="search">
-            <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
+            <div class="dropdown">
+                <input type="search" class="form-control" placeholder="Search..." aria-label="Search" data-bs-toggle="dropdown">
+                <div id="autocomplete" class="dropdown-menu" aria-labelledby="search-input"></div>
+            </div>
         </form>
         <div class="text-end">
             <a href="signin.html">

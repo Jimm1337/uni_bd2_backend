@@ -228,7 +228,7 @@ async function renderMunicipalities(district) {
                                         regionList.appendChild(districtList);
                                         treeContainer.appendChild(countryList);
                                     });
-                            
+                                return;
                             }
                         }
                     });
