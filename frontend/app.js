@@ -11,6 +11,7 @@ const municipalitiesBtn = document.getElementById('municipalitiesBtn');
 let controller = new AbortController();
 let signal = controller.signal;
 
+let user = localStorage.getItem('user') || 'DEFAULT';
 let index = -1;
 let datatable;
 
