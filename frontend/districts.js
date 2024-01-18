@@ -3,6 +3,7 @@ async function renderDistricts(region) {
     tableContainer.innerHTML = '';
     treeContainer.innerHTML = '';
     mapContainer.innerHTML = '';
+    if (datatable) datatable.destroy();
 
     let title1 = document.createElement('h4');
     title1.classList.add('text-center', 'mt-2', 'fw-normal');
@@ -16,7 +17,7 @@ async function renderDistricts(region) {
 
     if (!region) {
         // Create table header
-        let headers = ['District', 'Area', 'Population', 'Population Density', 'Region'];
+        let headers = ['District', 'Area (km²)', 'Population', 'Population Density (/km²)', 'Region'];
         let tr = document.createElement('tr');
         headers.forEach(header => {
             let th = document.createElement('th');
@@ -35,7 +36,6 @@ async function renderDistricts(region) {
         fetch(`${db}/stats/regions`, { signal })
             .then(response => response.json())
             .then(regions => {
-                let i = 0;
                 for (let region in regions.info) {
                     fetch(`${db}/stats/districts/${region}`, { signal })
                         .then(response => response.json())
@@ -45,17 +45,12 @@ async function renderDistricts(region) {
                                 let tr = document.createElement('tr');
                                 let td;
 
-                                if (i % 2 === 0) {
-                                    tr.style.backgroundColor = '#ececec';
-                                }
-                                i++;
-
                                 td = document.createElement('td');
                                 td.textContent = district;
                                 tr.appendChild(td);
 
                                 td = document.createElement('td');
-                                td.textContent = parseInt(data.info[district].area).toLocaleString('en-US') + ' km²';
+                                td.textContent = parseInt(data.info[district].area).toLocaleString('en-US');
                                 td.style.textAlign = 'right';
                                 tr.appendChild(td);
 
@@ -65,7 +60,7 @@ async function renderDistricts(region) {
                                 tr.appendChild(td);
 
                                 td = document.createElement('td');
-                                td.textContent = Math.round(data.info[district].populationdensity).toLocaleString('en-US') + '/km²';
+                                td.textContent = Math.round(data.info[district].populationdensity).toLocaleString('en-US');
                                 td.style.textAlign = 'right';
                                 tr.appendChild(td);
 
@@ -79,6 +74,15 @@ async function renderDistricts(region) {
 
                             // Append the table to the table container
                             tableContainer.appendChild(table);
+
+                            table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
+
+                            setTimeout(() => {
+                                datatable = new DataTable('#myTable', {
+                                    dom: 'tpl',
+                                    destroy: true
+                                });
+                            }, 500);
                         });
                 }
             });
@@ -127,7 +131,7 @@ async function renderDistricts(region) {
                                 element.appendChild(a);
                                 districtList.appendChild(element);
                                 count++;
-                                if (count % 33 == 0) regionList.style.columnCount++;
+                                if (count % 32 == 0) regionList.style.columnCount++;
                             }
                         });
                     element.appendChild(a);
@@ -144,7 +148,7 @@ async function renderDistricts(region) {
     } 
 
 
-    let headers = ['District', 'Area', 'Population', 'Population Density'];
+    let headers = ['District', 'Area (km²)', 'Population', 'Population Density (/km²)'];
     let tr = document.createElement('tr');
     headers.forEach(header => {
         let th = document.createElement('th');
@@ -174,23 +178,17 @@ async function renderDistricts(region) {
                         }
                     });
                 });
-            // Create table body
-            let i = 0;
+
             for (let district in data.info) {
                 let tr = document.createElement('tr');
                 let td;
-
-                if (i % 2 === 0) {
-                    tr.style.backgroundColor = '#ececec';
-                }
-                i++;
 
                 td = document.createElement('td');
                 td.textContent = district;
                 tr.appendChild(td);
 
                 td = document.createElement('td');
-                td.textContent = parseInt(data.info[district].area).toLocaleString('en-US') + ' km²';
+                td.textContent = parseInt(data.info[district].area).toLocaleString('en-US');
                 td.style.textAlign = 'right';
                 tr.appendChild(td);
 
@@ -200,7 +198,7 @@ async function renderDistricts(region) {
                 tr.appendChild(td);
 
                 td = document.createElement('td');
-                td.textContent = Math.round(data.info[district].populationdensity).toLocaleString('en-US') + '/km²';
+                td.textContent = Math.round(data.info[district].populationdensity).toLocaleString('en-US');
                 td.style.textAlign = 'right';
                 tr.appendChild(td);
 
@@ -210,6 +208,11 @@ async function renderDistricts(region) {
 
             // Append the table to the table container
             tableContainer.appendChild(table);
+
+            table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
+            datatable = new DataTable('#myTable', {
+                dom: 'tpl'
+            });
         });
     
     let countryList = document.createElement('ul');

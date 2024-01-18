@@ -3,6 +3,7 @@ async function renderHome() {
     tableContainer.innerHTML = '';
     mapContainer.innerHTML = '';
     treeContainer.innerHTML = '';
+    if (datatable) datatable.destroy();
 
     let title1 = document.createElement('h4');
     title1.classList.add('text-center', 'mt-2', 'fw-normal');
@@ -31,7 +32,7 @@ async function renderHome() {
     let tbody = document.createElement('tbody');
 
     // Create table header
-    let headers = ['Capital', 'Official language', 'Area', 'Total Population', 'Currency'];
+    let headers = ['Capital', 'Official language', 'Area (km²)', 'Total Population', 'Currency'];
     let tr = document.createElement('tr');
     let th = document.createElement('th');
     th.textContent = 'Czech Republic';
@@ -62,7 +63,7 @@ async function renderHome() {
     tr.appendChild(td);
 
     td = document.createElement('td');
-    td.textContent = '78,871 km²';
+    td.textContent = '78,871';
     td.style.textAlign = 'right';
     tr.appendChild(td);
 
@@ -80,6 +81,11 @@ async function renderHome() {
 
     // Append the table to the table container
     tableContainer.appendChild(table);
+
+    table.id = 'myTable'; table.classList.add('table', 'table-bordered');
+    datatable = new DataTable('#myTable', {
+        dom: 'tpl'
+    });
 }
 
 renderHome();

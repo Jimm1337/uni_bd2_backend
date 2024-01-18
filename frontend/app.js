@@ -7,6 +7,7 @@ const tableContainer = document.querySelector('.tablecontainer');
 const regionsBtn = document.getElementById('regionsBtn');
 const districtsBtn = document.getElementById('districtsBtn');
 const municipalitiesBtn = document.getElementById('municipalitiesBtn');
+let datatable;
 
 let controller = new AbortController();
 let signal = controller.signal;

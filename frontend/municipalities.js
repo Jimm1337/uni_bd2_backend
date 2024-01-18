@@ -2,6 +2,7 @@ async function renderMunicipalities(district) {
     stopFetch();
     tableContainer.innerHTML = '';
     treeContainer.innerHTML = '';
+    if (datatable) datatable.destroy();
 
     let table = document.createElement('table');
     let thead = document.createElement('thead');
@@ -26,14 +27,6 @@ async function renderMunicipalities(district) {
         thead.appendChild(tr);
         table.appendChild(thead);
 
-        const loadBtn = document.createElement('button');
-        loadBtn.classList.add('btn', 'btn-light');
-        loadBtn.textContent = 'Load More';
-        const btnDiv = document.createElement('div');
-        btnDiv.classList.add('d-grid', 'gap-2', 'col-6', 'mx-auto', 'p-3');
-        btnDiv.appendChild(loadBtn);
-
-        const cityList = [];
         await fetch(`${db}/stats/regions`, { signal })
             .then(response => response.json())
             .then(regions => {
@@ -46,7 +39,22 @@ async function renderMunicipalities(district) {
                                     .then(response => response.json())
                                     .then(data => {
                                         for (let city in data.info) {
-                                            cityList.push([city, data.info[city].postalcode, district]);
+                                            let tr = document.createElement('tr');
+                                            let td;
+
+                                            td = document.createElement('td');
+                                            td.textContent = city;
+                                            tr.appendChild(td);
+
+                                            td = document.createElement('td');
+                                            td.textContent = data.info[city].postalcode;
+                                            tr.appendChild(td);
+
+                                            td = document.createElement('td');
+                                            td.textContent = district;
+                                            tr.appendChild(td);
+
+                                            tbody.appendChild(tr);
                                         }
                                     });
                             }
@@ -54,41 +62,16 @@ async function renderMunicipalities(district) {
                 }
             });
 
-        let i = 0;
-        loadBtn.addEventListener('click', () => {
-            let j = 18;
-            while (j > 0 && i < cityList.length) { 
-                let tr = document.createElement('tr');
-                let td;
-
-                if (i % 2 === 0) {
-                    tr.style.backgroundColor = '#ececec';
-                }
-                i++;
-
-                td = document.createElement('td');
-                td.textContent = cityList[i][0];
-                tr.appendChild(td);
-
-                td = document.createElement('td');
-                td.textContent = cityList[i][1];
-                tr.appendChild(td);
-
-                td = document.createElement('td');
-                td.textContent = cityList[i][2];
-                tr.appendChild(td);
-
-                tbody.appendChild(tr);
-                j--;
-            }
-        });
         table.appendChild(tbody);
         tableContainer.appendChild(table);
-        tableContainer.appendChild(btnDiv);
 
+        table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
+        
         setTimeout(() => {
-            loadBtn.click();
-        }, 500);
+            datatable = new DataTable('#myTable', {
+                dom: 'tpl'
+            });
+        }, 1500);
 
         return;
     } 
@@ -130,16 +113,10 @@ async function renderMunicipalities(district) {
     fetch(`${db}/stats/municipalities/${district.id}`, { signal })
         .then(response => response.json())
         .then(data => {
-            // Create table body
-            let i = 0;
+
             for (let city in data.info) {
                 let tr = document.createElement('tr');
                 let td;
-
-                if (i % 2 === 0) {
-                    tr.style.backgroundColor = '#ececec';
-                }
-                i++;
 
                 td = document.createElement('td');
                 td.textContent = city;
@@ -155,12 +132,18 @@ async function renderMunicipalities(district) {
 
             // Append the table to the table container
             tableContainer.appendChild(table);
+
+            table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
+            datatable = new DataTable('#myTable', {
+                dom: 'tpl'
+            });
         });
 
     let countryList = document.createElement('ul');
     countryList.addEventListener('mouseover', function(event) {
         hideTooltip();
     });
+
     countryList.style.marginTop = '45px';
     let topElement = document.createElement('li');
     let a = document.createElement('a');

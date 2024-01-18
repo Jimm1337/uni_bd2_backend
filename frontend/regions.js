@@ -3,6 +3,7 @@ async function renderRegions() {
     tableContainer.innerHTML = '';
     treeContainer.innerHTML = '';
     mapContainer.innerHTML = '';
+    if (datatable) datatable.destroy();
 
     let title1 = document.createElement('h4');
     title1.classList.add('text-center', 'mt-2', 'fw-normal');
@@ -24,7 +25,7 @@ async function renderRegions() {
             let tbody = document.createElement('tbody');
 
             // Create table header
-            let headers = ['Region', 'Capital', 'Area', 'Population', 'Population Density'];
+            let headers = ['Region', 'Capital', 'Area (km²)', 'Population', 'Population Density (/km²)'];
             let tr = document.createElement('tr');
             headers.forEach(header => {
                 let th = document.createElement('th');
@@ -35,16 +36,9 @@ async function renderRegions() {
             thead.appendChild(tr);
             table.appendChild(thead);
 
-            // Create table body
-            let i = 0;
             for (let region in data.info) {
                 let tr = document.createElement('tr');
                 let td;
-
-                if (i % 2 === 0) {
-                    tr.style.backgroundColor = '#ececec';
-                }
-                i++;
 
                 td = document.createElement('td');
                 td.textContent = region;
@@ -55,7 +49,7 @@ async function renderRegions() {
                 tr.appendChild(td);
 
                 td = document.createElement('td');
-                td.textContent = parseInt(data.info[region].area).toLocaleString('en-US') + ' km²';
+                td.textContent = parseInt(data.info[region].area).toLocaleString('en-US');
                 td.style.textAlign = 'right';
                 tr.appendChild(td);
 
@@ -65,7 +59,7 @@ async function renderRegions() {
                 tr.appendChild(td);
 
                 td = document.createElement('td');
-                td.textContent = Math.round(data.info[region].populationdensity).toLocaleString('en-US') + '/km²';
+                td.textContent = Math.round(data.info[region].populationdensity).toLocaleString('en-US');
                 td.style.textAlign = 'right';
                 tr.appendChild(td);
 
@@ -75,6 +69,11 @@ async function renderRegions() {
 
             // Append the table to the table container
             tableContainer.appendChild(table);
+
+            table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
+            datatable = new DataTable('#myTable', {
+                dom: 'tpl'
+            });
         });
     
     let countryList = document.createElement('ul');
