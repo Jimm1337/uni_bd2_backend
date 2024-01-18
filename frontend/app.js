@@ -76,10 +76,9 @@ search.addEventListener('input', function() {
                 // Add new suggestions
                 data.names.forEach(item => {
                     let option = document.createElement('a');
-                    option.id = item;
                     option.href = '#';
                     option.onclick = () => {
-                        renderDistricts(option);
+                        renderDistricts(document.getElementById(item));
                         return false;
                     };
                     option.classList.add('dropdown-item');
@@ -124,10 +123,9 @@ search.addEventListener('input', function() {
                             // Add new suggestions
                             data.names.forEach(item => {
                                 let option = document.createElement('a');
-                                option.id = item;
                                 option.href = '#';
                                 option.onclick = () => {
-                                    renderMunicipalities(option);
+                                    renderMunicipalities(document.getElementById(item));
                                     return false;
                                 };
                                 option.classList.add('dropdown-item');
@@ -162,18 +160,32 @@ search.addEventListener('input', function() {
 
 });
 
-// Listen for keydown event
+let index = -1;
+
 search.addEventListener('keydown', function(event) {
-    // Check if the Enter key was pressed
-    if (event.key === 'Enter') {
-        event.preventDefault();
-        // Get the first option in the dropdown
-        let firstOption = document.querySelector('#autocomplete .dropdown-item');
-        // Check if the first option exists
-        if (firstOption) {
-            // Simulate a click on the first option
-            firstOption.click();
-        }
-        this.blur();
+    let options = Array.from(document.querySelectorAll('#autocomplete .dropdown-item'));
+
+    switch (event.key) {
+        case 'ArrowDown':
+            event.preventDefault();
+            index = (index + 1) % options.length;
+            options[index].focus();
+            search.value = options[index].textContent;
+            break;
+        case 'ArrowUp':
+            event.preventDefault();
+            index = (index - 1 + options.length) % options.length;
+            options[index].focus();
+            search.value = options[index].textContent;
+            break;
+        case 'Enter':
+            event.preventDefault();
+            if (index >= 0 && index < options.length) {
+                options[index].click();
+            } else {
+                options[0].click();
+            }
+            this.blur();
+            break;
     }
 });

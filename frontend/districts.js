@@ -143,7 +143,11 @@ async function renderDistricts(region) {
     
         countryList.appendChild(topElement);
         countryList.appendChild(regionList);
-        treeContainer.appendChild(countryList);
+
+        setTimeout(() => {
+            treeContainer.appendChild(countryList);
+        }, 500);
+
         return;
     } 
 
