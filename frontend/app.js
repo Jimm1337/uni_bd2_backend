@@ -113,7 +113,6 @@ search.addEventListener('input', function() {
             }
         });
 
-    // http://localhost:8000/search/district/Prague?prefix=P
     fetch(`${db}/search/region?prefix=`)
         .then(response => response.json())
         .then(data => {
