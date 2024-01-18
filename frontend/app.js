@@ -7,10 +7,12 @@ const tableContainer = document.querySelector('.tablecontainer');
 const regionsBtn = document.getElementById('regionsBtn');
 const districtsBtn = document.getElementById('districtsBtn');
 const municipalitiesBtn = document.getElementById('municipalitiesBtn');
-let datatable;
 
 let controller = new AbortController();
 let signal = controller.signal;
+
+let index = -1;
+let datatable;
 
 function stopFetch() {
     controller.abort();
@@ -50,6 +52,7 @@ search.addEventListener('click', function() {
     let autocomplete = document.querySelector('#autocomplete');
     autocomplete.parentElement.classList.remove('show');
     autocomplete.classList.remove('show');
+    index = -1;
 });
 
 // Listen for input event
@@ -160,8 +163,6 @@ search.addEventListener('input', function() {
 
 });
 
-let index = -1;
-
 search.addEventListener('keydown', function(event) {
     let options = Array.from(document.querySelectorAll('#autocomplete .dropdown-item'));
 
@@ -170,13 +171,11 @@ search.addEventListener('keydown', function(event) {
             event.preventDefault();
             index = (index + 1) % options.length;
             options[index].focus();
-            search.value = options[index].textContent;
             break;
         case 'ArrowUp':
             event.preventDefault();
             index = (index - 1 + options.length) % options.length;
             options[index].focus();
-            search.value = options[index].textContent;
             break;
         case 'Enter':
             event.preventDefault();
@@ -188,4 +187,10 @@ search.addEventListener('keydown', function(event) {
             this.blur();
             break;
     }
+
+    options.forEach((option, index) => {
+        option.addEventListener('focus', function() {
+            search.value = options[index].textContent.substring(0, options[index].textContent.length - 1);
+        });
+    });
 });

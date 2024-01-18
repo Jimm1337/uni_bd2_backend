@@ -21,6 +21,10 @@ footer {
     margin-top: 4em;
 }
 
+input[type=search]::-webkit-search-cancel-button {
+    display: none;
+}
+
 .btn-outline-primary {
     --bs-btn-color: #2362a2;
     --bs-btn-border-color: #2362a2;
