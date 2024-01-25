@@ -1,0 +1,398 @@
+{
+  "id": "d5c27270-5038-481f-90df-72092b5b23ee",
+  "version": "2.0",
+  "name": "TestySelenium_Czechy",
+  "url": "http://127.0.0.1:5500",
+  "tests": [{
+    "id": "b25a4dfa-1e3f-4314-ae68-287854ccde4b",
+    "name": "Test_PokażRegiony",
+    "commands": [{
+      "id": "b577ae32-163c-49aa-8f2e-3fc6004078ae",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2564a6c9-261c-4c77-9f7c-adac5b2e0a37",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1509x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f8c5c4c1-48c7-4e66-8b64-aeb3002966e0",
+      "comment": "",
+      "command": "click",
+      "target": "id=regionsBtn",
+      "targets": [
+        ["id=regionsBtn", "id"],
+        ["linkText=Regions", "linkText"],
+        ["css=#regionsBtn", "css:finder"],
+        ["xpath=//a[contains(text(),'Regions')]", "xpath:link"],
+        ["xpath=//a[@id='regionsBtn']", "xpath:attributes"],
+        ["xpath=(//a[contains(@href, '#')])[2]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Regions')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "cd5bfafa-6990-40a0-a4e4-51cf79e17118",
+    "name": "Test_PokażDystrykty",
+    "commands": [{
+      "id": "f049a2d4-8b38-4b74-8cfe-75b20a8fef1d",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "268c1e73-8a19-4934-8742-6a36d84a72b3",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1509x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3e695610-a91f-4435-8912-9cb87f141abf",
+      "comment": "",
+      "command": "click",
+      "target": "id=districtsBtn",
+      "targets": [
+        ["id=districtsBtn", "id"],
+        ["linkText=Districts", "linkText"],
+        ["css=#districtsBtn", "css:finder"],
+        ["xpath=//a[contains(text(),'Districts')]", "xpath:link"],
+        ["xpath=//a[@id='districtsBtn']", "xpath:attributes"],
+        ["xpath=(//a[contains(@href, '#')])[3]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Districts')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "c2a231c1-6236-4991-b41f-7173c5cc38b7",
+    "name": "Test_WyszukajRegion",
+    "commands": [{
+      "id": "58a43331-fad9-49bb-8cb2-a2da7936d4f6",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "79784b0e-acfb-4da7-8d40-a6003c8a592e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1509x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "60d6d82f-4c7e-4599-b9de-4454b236c44d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.form-control",
+      "targets": [
+        ["css=.form-control", "css:finder"],
+        ["xpath=//input[@type='search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "75895527-5b11-45d0-89e9-5181d7ff1d1e",
+      "comment": "",
+      "command": "type",
+      "target": "css=.form-control",
+      "targets": [
+        ["css=.form-control", "css:finder"],
+        ["xpath=//input[@type='search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Vyso"
+    }, {
+      "id": "820eee81-254f-4f85-af35-cdecddc4910f",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "css=.form-control",
+      "targets": [
+        ["css=.form-control", "css:finder"],
+        ["xpath=//input[@type='search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "a5df82a3-a7e6-4df7-ae21-fec654c34619",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Vysočina",
+      "targets": [],
+      "value": "Vysočina"
+    }]
+  }, {
+    "id": "25eb47ed-228a-4e1a-b794-417542705892",
+    "name": "Test_WyszukajDystrykt",
+    "commands": [{
+      "id": "a8545c5e-8543-44b4-a3c0-1a0c0a72545b",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7ec9ab44-1f90-4910-afb5-4b2e8a578989",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1512x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "71990686-8115-44cd-83b1-30c994fb76d4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.form-control",
+      "targets": [
+        ["css=.form-control", "css:finder"],
+        ["xpath=//input[@type='search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "186c69fb-149f-4db0-a13b-25acfc47e946",
+      "comment": "",
+      "command": "type",
+      "target": "css=.form-control",
+      "targets": [
+        ["css=.form-control", "css:finder"],
+        ["xpath=//input[@type='search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Bene"
+    }, {
+      "id": "503bcb6e-18e9-4d0f-8539-f986afef9aea",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "css=.form-control",
+      "targets": [
+        ["css=.form-control", "css:finder"],
+        ["xpath=//input[@type='search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "e4fd3ff0-25b7-4b9c-9ba9-c7429fbaba25",
+      "comment": "",
+      "command": "assertText",
+      "target": "linkText=Benešov",
+      "targets": [],
+      "value": "Benešov"
+    }]
+  }, {
+    "id": "d63c4495-b428-4353-936b-9102a5c235ab",
+    "name": "Test_PokażPragę",
+    "commands": [{
+      "id": "6fb00952-5c04-49db-9153-23ad3578d0a9",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e7807c98-bf1d-48e8-a410-11399f73b8f7",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1509x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e3d7e322-ca69-4415-9c2a-b995cb8ba230",
+      "comment": "",
+      "command": "click",
+      "target": "id=Prague",
+      "targets": [
+        ["id=Prague", "id"],
+        ["css=#regions > #Prague", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "a9b57549-9cfa-441c-bbd5-cfdc38be8156",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.sorting_1",
+      "targets": [],
+      "value": "Prague"
+    }]
+  }, {
+    "id": "e81a2ffa-bd66-479e-a7f9-7236ceca0217",
+    "name": "Test_Sortowanie",
+    "commands": [{
+      "id": "6583f0b8-cece-41bf-8e37-6c1eae68185d",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "442cdb66-3444-4a43-a5a6-864c821f82cf",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1509x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a08970f1-727d-4c39-913a-4628241c78b9",
+      "comment": "",
+      "command": "click",
+      "target": "id=Central Bohemian",
+      "targets": [
+        ["id=Central Bohemian", "id"],
+        ["css=#Central\\ Bohemian", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "9993f67d-eaae-4acc-a044-baac7a90fb44",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sorting:nth-child(2)",
+      "targets": [
+        ["css=.sorting:nth-child(2)", "css:finder"],
+        ["xpath=//table[@id='myTable']/thead/tr/th[2]", "xpath:idRelative"],
+        ["xpath=//th[2]", "xpath:position"],
+        ["xpath=//th[contains(.,'Area (km²)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "071b94f4-04f2-4529-bad5-a4f50af421b4",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.odd:nth-child(1) > td:nth-child(1)",
+      "targets": [],
+      "value": "Prague-West\t"
+    }, {
+      "id": "c771cfc0-acbd-4873-b030-012c983cc045",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sorting_asc",
+      "targets": [
+        ["css=.sorting_asc", "css:finder"],
+        ["xpath=//table[@id='myTable']/thead/tr/th[2]", "xpath:idRelative"],
+        ["xpath=//th[2]", "xpath:position"],
+        ["xpath=//th[contains(.,'Area (km²)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "03e3f670-7189-476e-9084-e312f2b2aa10",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.odd:nth-child(1) > td:nth-child(1)",
+      "targets": [
+        ["css=.odd:nth-child(1) > td:nth-child(1)", "css:finder"],
+        ["xpath=//table[@id='myTable']/tbody/tr/td", "xpath:idRelative"],
+        ["xpath=//td", "xpath:position"],
+        ["xpath=//td[contains(.,'Příbram')]", "xpath:innerText"]
+      ],
+      "value": "Příbram"
+    }]
+  }, {
+    "id": "fe8f5567-da38-4300-b472-ef7b9eec1e69",
+    "name": "Test_StronTabeli",
+    "commands": [{
+      "id": "59e0c756-9c24-4b0f-9d6f-7e4eca325c92",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "04445bfd-bd1b-4bf8-ae5f-4c116db5adff",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1509x824",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0685024f-d680-4b4d-8510-db3e1202de1e",
+      "comment": "",
+      "command": "click",
+      "target": "id=Benešov",
+      "targets": [
+        ["id=Benešov", "id"],
+        ["css=#Bene\\161ov", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "8ff5ae73-ea47-4308-b485-8067224ac933",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sorting_asc",
+      "targets": [
+        ["css=.sorting_asc", "css:finder"],
+        ["xpath=//table[@id='myTable']/thead/tr/th", "xpath:idRelative"],
+        ["xpath=//th", "xpath:position"],
+        ["xpath=//th[contains(.,'Municipality')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0fe366a9-6f62-4c6b-999e-7015dac0129b",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.odd:nth-child(1) > .sorting_1",
+      "targets": [],
+      "value": "Šetějovice"
+    }, {
+      "id": "65b6b216-db3e-49d7-87bf-c93023ff5c6e",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=2",
+      "targets": [
+        ["linkText=2", "linkText"],
+        ["css=.paginate_button:nth-child(3) > .page-link", "css:finder"],
+        ["xpath=//a[contains(text(),'2')]", "xpath:link"],
+        ["xpath=//div[@id='myTable_paginate']/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#')])[18]", "xpath:href"],
+        ["xpath=//div[2]/div/div/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'2')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "12fe38cd-993a-45c9-8569-8de388aa92ba",
+      "comment": "",
+      "command": "assertNotText",
+      "target": "css=.odd:nth-child(1) > .sorting_1",
+      "targets": [],
+      "value": "Šetějovice"
+    }, {
+      "id": "01d0a702-e3f6-4703-baf7-6befbdd277eb",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=1",
+      "targets": [
+        ["linkText=1", "linkText"],
+        ["css=.paginate_button:nth-child(2) > .page-link", "css:finder"],
+        ["xpath=//a[contains(text(),'1')]", "xpath:link"],
+        ["xpath=//div[@id='myTable_paginate']/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#')])[18]", "xpath:href"],
+        ["xpath=//div[2]/div/div/ul/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'1')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "82be9d98-4685-4a4a-b108-511c86132c42",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.odd:nth-child(1) > .sorting_1",
+      "targets": [],
+      "value": "Šetějovice"
+    }]
+  }],
+  "suites": [{
+    "id": "c1122368-4df4-472f-8041-6982242626e4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://127.0.0.1:5500/"],
+  "plugins": []
+}
