@@ -95,7 +95,7 @@ async function renderDistricts(region) {
         a.style.fontSize = '.875rem';
         topElement.appendChild(a);
         let count = 1;
-        
+
         let regionList = document.createElement('ul');
         regionList.style.columnCount = 1;
         await fetch(`${db}/stats/regions`, { signal })
@@ -131,7 +131,7 @@ async function renderDistricts(region) {
                                 element.appendChild(a);
                                 districtList.appendChild(element);
                                 count++;
-                                if (count % 32 == 0) regionList.style.columnCount++;
+                                if (count % 32 === 0) regionList.style.columnCount++;
                             }
                         });
                     element.appendChild(a);
@@ -140,7 +140,7 @@ async function renderDistricts(region) {
                     count++;
                 }
             });
-    
+
         countryList.appendChild(topElement);
         countryList.appendChild(regionList);
 
@@ -149,7 +149,7 @@ async function renderDistricts(region) {
         }, 500);
 
         return;
-    } 
+    }
 
 
     let headers = ['District', 'Area (km²)', 'Population', 'Population Density (/km²)'];
@@ -218,7 +218,7 @@ async function renderDistricts(region) {
                 dom: 'tpl'
             });
         });
-    
+
     let countryList = document.createElement('ul');
     countryList.style.marginTop = '45px';
     let topElement = document.createElement('li');
@@ -227,7 +227,7 @@ async function renderDistricts(region) {
     a.id = 'link'; a.href = '#'; a.style.fontSize = '.875rem';
     a.onclick = () => { renderRegions(); return false; };
     topElement.appendChild(a);
-    
+
     let regionList = document.createElement('ul');
     let element = document.createElement('li');
     a = document.createElement('a');

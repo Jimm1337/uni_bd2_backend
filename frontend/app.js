@@ -4,9 +4,6 @@ const db = 'http://127.0.0.1:8000';
 const mapContainer = document.querySelector('.mapcontainer');
 const treeContainer = document.querySelector('.treecontainer');
 const tableContainer = document.querySelector('.tablecontainer');
-const regionsBtn = document.getElementById('regionsBtn');
-const districtsBtn = document.getElementById('districtsBtn');
-const municipalitiesBtn = document.getElementById('municipalitiesBtn');
 
 let controller = new AbortController();
 let signal = controller.signal;
@@ -29,7 +26,7 @@ function displayTooltip(element) {
         tooltip.classList.add('mytooltip');
         document.body.appendChild(tooltip);
     }
-    
+
     // Set the tooltip content and position
     tooltip.textContent = element.id;
     tooltip.style.display = 'block';
@@ -136,23 +133,23 @@ search.addEventListener('input', function() {
                                     event.preventDefault();
                                     search.value = '';
                                 });
-            
+
                                 let row = document.createElement('div');
                                 row.classList.add('row');
-            
+
                                 let left = document.createElement('div');
                                 left.style.flex = "1";
                                 left.textContent = item;
                                 left.style.fontSize = '0.875rem';
                                 row.appendChild(left);
-            
+
                                 let right = document.createElement('div');
                                 right.classList.add('text-body-secondary', 'text-end');
                                 right.style.flex = "1";
                                 right.textContent = 'D';
                                 right.style.fontSize = '0.875rem';
                                 row.appendChild(right);
-            
+
                                 option.appendChild(row);
                                 autocomplete.appendChild(option);
                             });

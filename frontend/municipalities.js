@@ -7,7 +7,7 @@ async function renderMunicipalities(district) {
     let table = document.createElement('table');
     let thead = document.createElement('thead');
     let tbody = document.createElement('tbody');
-    
+
     if (!district) {
         let title2 = document.createElement('h4');
         title2.classList.add('text-center', 'mt-2', 'fw-normal');
@@ -66,7 +66,7 @@ async function renderMunicipalities(district) {
         tableContainer.appendChild(table);
 
         table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
-        
+
         setTimeout(() => {
             datatable = new DataTable('#myTable', {
                 dom: 'tpl'
@@ -74,7 +74,7 @@ async function renderMunicipalities(district) {
         }, 1500);
 
         return;
-    } 
+    }
 
     let title1 = document.querySelector('.mapcontainer h4');
     title1.textContent = `Municipalities of the ${district.id} district`;
@@ -97,7 +97,7 @@ async function renderMunicipalities(district) {
         } else {
             dist.style.fill = '';
         }
-    }); 
+    });
 
     let headers = ['Municipality', 'Postal Code'];
     let tr = document.createElement('tr');
@@ -140,7 +140,7 @@ async function renderMunicipalities(district) {
         });
 
     let countryList = document.createElement('ul');
-    countryList.addEventListener('mouseover', function(event) {
+    countryList.addEventListener('mouseover', function() {
         hideTooltip();
     });
 
@@ -149,7 +149,7 @@ async function renderMunicipalities(district) {
     let a = document.createElement('a');
     a.textContent = 'Czech Republic';
     a.id = 'link'; a.href = '#'; a.style.fontSize = '.875rem';
-    a.onclick = () => { 
+    a.onclick = () => {
         let svg = document.querySelector('svg');
         let paths = svg.querySelectorAll('path');
         let numberOfPaths = paths.length;
@@ -188,10 +188,10 @@ async function renderMunicipalities(district) {
                                             a.style.fontSize = '.875rem';
                                             if (district.id !== dist) {
                                                 a.id = 'link'; a.href = '#'; a.style.fontSize = '.875rem';
-                                                a.onclick = () => { 
+                                                a.onclick = () => {
                                                     const area = document.getElementById(dist);
-                                                    renderMunicipalities(area); 
-                                                    return false; 
+                                                    renderMunicipalities(area);
+                                                    return false;
                                                 };
                                                 a.onmouseover = () => {
                                                     const area = document.getElementById(dist);
