@@ -45,15 +45,17 @@
   <main class="form-signin w-100 m-auto">
     <form data-bitwarden-watching="1">
 
-      <img class="mb-4" src="svg/lion.svg" alt="Small coat of arms" height="57">
+      <a href="index.html">
+        <img class="mb-4" src="svg/lion.svg" alt="Small coat of arms" height="57">
+      </a>
       <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 
       <div class="form-floating">
-        <input type="login" class="form-control" id="floatingInput" placeholder="login">
+        <input type="login" class="form-control" id="floatingInput" placeholder="login" required>
         <label for="floatingInput">Login</label>
       </div>
       <div class="form-floating">
-        <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+        <input type="password" class="form-control" id="floatingPassword" placeholder="Password" required>
         <label for="floatingPassword">Password</label>
       </div>
 
@@ -63,10 +65,20 @@
           Remember me
         </label>
       </div>
-      <button class="btn w-100 py-2" type="submit" style="background-color: #2362a2; color: #fff;">Sign in</button>
+      <button class="btn w-100 py-2" type="submit" style="background-color: #2362a2; color: #fff;" onclick="login();">Sign in</button>
       <p class="mt-5 mb-3 text-body-secondary">&nbsp;</p>
     </form>
   </main>
 </body>
+<script>
+  function login() {
+    let login = document.getElementById("floatingInput").value;
+    let password = document.getElementById("floatingPassword").value;
+
+    if (login && password) {
+      alert("Login failed! Invalid login or password!")
+    }
+  }
+</script>
 
 </html>

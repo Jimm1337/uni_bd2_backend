@@ -69,7 +69,7 @@ async function renderMunicipalities(district) {
 
         setTimeout(() => {
             datatable = new DataTable('#myTable', {
-                dom: 'tpl'
+                dom: 'ftpl'
             });
         }, 1500);
 
