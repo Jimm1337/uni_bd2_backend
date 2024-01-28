@@ -65,20 +65,27 @@
           Remember me
         </label>
       </div>
-      <button class="btn w-100 py-2" type="submit" style="background-color: #2362a2; color: #fff;" onclick="login();">Sign in</button>
+      <button class="btn w-100 py-2" type="submit" style="background-color: #2362a2; color: #fff;" id="login">Sign in</button>
       <p class="mt-5 mb-3 text-body-secondary">&nbsp;</p>
     </form>
   </main>
 </body>
 <script>
-  function login() {
-    let login = document.getElementById("floatingInput").value;
-    let password = document.getElementById("floatingPassword").value;
+  const loginBtn = document.getElementById("login");
 
-    if (login && password) {
+  function login(e) {
+    let login = document.getElementById("floatingInput");
+    let password = document.getElementById("floatingPassword");
+
+    if (login.value && password.value) {
       alert("Login failed! Invalid login or password!")
+      login.value = "";
+      password.value = "";
+      e.preventDefault();
     }
   }
+
+  loginBtn.addEventListener("click", login);
 </script>
 
 </html>
