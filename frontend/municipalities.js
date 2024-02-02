@@ -63,11 +63,26 @@ async function renderMunicipalities(district) {
             });
 
         table.appendChild(tbody);
-        tableContainer.appendChild(table);
-
         table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
 
+        let placeholder = document.createElement('div');
+        placeholder.style.marginTop = '50px';
+        placeholder.classList.add('d-flex', 'justify-content-center');
+        let spinner = document.createElement('div');
+        spinner.classList.add('spinner-border');
+        spinner.role = 'status';
+        spinner.style.color = '#2362a2';
+        let span = document.createElement('span');
+        span.classList.add('visually-hidden');
+        span.textContent = 'Loading...';
+        spinner.appendChild(span);
+        placeholder.appendChild(spinner);
+        tableContainer.appendChild(placeholder);
+
         setTimeout(() => {
+            tableContainer.innerHTML = '';
+            tableContainer.appendChild(title2);
+            tableContainer.appendChild(table);
             datatable = new DataTable('#myTable', {
                 dom: 'ftpl'
             });

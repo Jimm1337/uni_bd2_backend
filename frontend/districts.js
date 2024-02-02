@@ -72,17 +72,15 @@ async function renderDistricts(region) {
                             }
                             table.appendChild(tbody);
 
-                            // Append the table to the table container
-                            tableContainer.appendChild(table);
-
                             table.id = 'myTable'; table.classList.add('table', 'table-striped', 'table-bordered');
 
                             setTimeout(() => {
+                                tableContainer.appendChild(table);
                                 datatable = new DataTable('#myTable', {
                                     dom: 'tpl',
                                     destroy: true
                                 });
-                            }, 500);
+                            }, 200);
                         });
                 }
             });
@@ -146,7 +144,7 @@ async function renderDistricts(region) {
 
         setTimeout(() => {
             treeContainer.appendChild(countryList);
-        }, 500);
+        }, 150);
 
         return;
     }
