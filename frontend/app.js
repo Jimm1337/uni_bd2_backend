@@ -1,13 +1,11 @@
 // localhost:8000/swagger/ui
 
-const db = 'http://127.0.0.1:8000';
+const db = 'http://localhost:8000';
 const mapContainer = document.querySelector('.mapcontainer');
 const treeContainer = document.querySelector('.treecontainer');
 const tableContainer = document.querySelector('.tablecontainer');
-
 let controller = new AbortController();
 let signal = controller.signal;
-
 let user = localStorage.getItem('user') || 'DEFAULT';
 let index = -1;
 let datatable;
