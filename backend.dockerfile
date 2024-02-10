@@ -1,26 +1,38 @@
-FROM postgres:16.1
+# Start from a base image
+FROM ubuntu:20.04
 
-COPY backend/src /app/
-COPY CMakeLists.txt /app/
-COPY CPM.cmake /app/
+# Set environment variable to disable interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
 
+# Install necessary tools
+RUN apt-get update && apt-get install -y \
+    g++ \
+    git \
+    libpq-dev \
+    wget \
+    make \
+    ninja-build \
+    libssl-dev
+
+# Download and install CMake
+RUN wget https://github.com/Kitware/CMake/releases/download/v3.22.0/cmake-3.22.0.tar.gz \
+    && tar -xzvf cmake-3.22.0.tar.gz \
+    && cd cmake-3.22.0 \
+    && ./bootstrap \
+    && make \
+    && make install
+
+# Copy your source code into the Docker image
+COPY . /app
+
+# Set the working directory
 WORKDIR /app
 
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    cmake \
-    libpq-dev \
-    libpqxx-dev \
-    libboost-all-dev \
-    libssl-dev \
-    libcurl4-openssl-dev \
-    libjsoncpp-dev \
-    libmicrohttpd-dev \
-    libpqxx-dev \
-    libpq-dev
+# Build the application
+RUN cmake . && make
 
-RUN cmake .
+# Specify the command to run your application
+CMD ["./uni_bd2_backend-exe"]
 
-EXPOSE 8000
-
-CMD ["make", "run"]
+# docker build -t my-backend-image -f backend.dockerfile .
+# docker run -p 8000:8000 --network bd2-app-network --name my-backend-container my-backend-image

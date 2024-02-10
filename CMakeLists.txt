@@ -121,7 +121,7 @@ set_target_properties(uni_bd2_backend-lib uni_bd2_backend-exe uni_bd2_backend-te
 
 if(CMAKE_SYSTEM_NAME MATCHES Linux)
     find_package(Threads REQUIRED)
-    target_link_libraries(crud-lib INTERFACE Threads::Threads ${CMAKE_DL_LIBS})
+    target_link_libraries(uni_bd2_backend-lib INTERFACE Threads::Threads ${CMAKE_DL_LIBS})
 endif()
 
 add_definitions(
