@@ -8,11 +8,11 @@ ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get install -y \
     g++ \
     git \
-    libpq-dev \
     wget \
+    libpq-dev \
+    libssl-dev \
     make \
-    ninja-build \
-    libssl-dev
+    ninja-build
 
 # Download and install CMake
 RUN wget https://github.com/Kitware/CMake/releases/download/v3.22.0/cmake-3.22.0.tar.gz \

@@ -1,3 +1,5 @@
+\c bd2;
+
 -- 2. SEQUENCE
 
 CREATE SEQUENCE IF NOT EXISTS GenIDAdministrator
