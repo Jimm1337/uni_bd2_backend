@@ -6,13 +6,14 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Install necessary tools
 RUN apt-get update && apt-get install -y \
-    g++ \
     git \
     wget \
     libpq-dev \
     libssl-dev \
+    g++ \
     make \
-    ninja-build
+    ninja-build \
+    postgresql-server-dev-all
 
 # Download and install CMake
 RUN wget https://github.com/Kitware/CMake/releases/download/v3.22.0/cmake-3.22.0.tar.gz \
@@ -23,12 +24,13 @@ RUN wget https://github.com/Kitware/CMake/releases/download/v3.22.0/cmake-3.22.0
     && make install
 
 # Copy your source code into the Docker image
-COPY . /app
+COPY . /module
 
 # Set the working directory
-WORKDIR /app
+WORKDIR /module
 
 # Build the application
+ARG PG_HOST=postgres
 RUN cmake . && make
 
 # Specify the command to run your application
