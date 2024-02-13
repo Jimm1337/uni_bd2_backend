@@ -2,18 +2,27 @@ version: '3'
 services:
   my-postgres:
     image: my-postgres-image
-    container_name: my-postgres-container
+    container_name: my-postgres-containerX
     ports:
       - 5432:5432
     environment:
       POSTGRES_PASSWORD: postgres
 
   my-backend:
-    image: my-backend-image
-    container_name: my-backend-container
+    image: my-backend-image1
+    container_name: my-backend-containerX
     ports:
       - 8000:8000
     depends_on:
       - my-postgres
+
+  my-frontend:
+    image: my-frontend-image
+    container_name: my-frontend-containerX
+    ports:
+      - 8080:80
+    depends_on:
+      - my-postgres
+      - my-backend
 
 # docker-compose -f bd2-compose.yaml up

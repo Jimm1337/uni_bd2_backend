@@ -132,7 +132,7 @@ add_definitions(
         -DDATABASE_MIGRATIONS="${CMAKE_CURRENT_SOURCE_DIR}/sql"
 
         ## TODO: USE THIS TO SET THE CONNECTION STRING
-        -DPG_CONNECTION_STRING="host=localhost port=5432 dbname=bd2 user=Supervisor password=Supervisor"
+        -DPG_CONNECTION_STRING="host=host.docker.internal port=5432 dbname=bd2 user=postgres password=postgres"
 )
 
 ################ TESTS #################

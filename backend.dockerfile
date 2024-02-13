@@ -26,15 +26,20 @@ RUN wget https://github.com/Kitware/CMake/releases/download/v3.22.0/cmake-3.22.0
 # Copy your source code into the Docker image
 COPY . /module
 
+# Install oatpp modules
+WORKDIR /module/cmake-build-debug/_deps/oatpp-postgresql-src/utility
+RUN chmod +x ./install-oatpp-modules.sh
+
 # Set the working directory
-WORKDIR /module
+WORKDIR /module/build
 
 # Build the application
 ARG PG_HOST=postgres
-RUN cmake . && make
+RUN cmake ..
+RUN make
 
 # Specify the command to run your application
 CMD ["./uni_bd2_backend-exe"]
 
 # docker build -t my-backend-image -f backend.dockerfile .
-# docker run -p 8000:8000 --network bd2-app-network --name my-backend-container my-backend-image
+# docker run -p 8000:8000 --name my-backend-container my-backend-image
